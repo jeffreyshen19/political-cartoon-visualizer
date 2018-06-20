@@ -1,0 +1,27 @@
+{
+  "name": "political-cartoon-visualizer",
+  "version": "1.0.0",
+  "description": "Visualization of political cartoon usage over time. Developed for an internship w/ the LoC as a demonstration of the Beyond Words dataset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyshen19/political-cartoon-bot.git"
+  },
+  "author": "Jeffrey Shen <jeffreyshencc@gmail.com> (http://jeffreyshen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffreyshen19/political-cartoon-bot/issues"
+  },
+  "homepage": "https://github.com/jeffreyshen19/political-cartoon-bot#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^3.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-webserver": "^0.9.1",
+    "request": "^2.87.0"
+  }
+}
