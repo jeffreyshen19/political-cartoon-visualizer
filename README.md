@@ -1,2 +1,2 @@
-# political-cartoon-bot
-Twitter bot serving historical political cartoons from the Library of Congress API. Developed for an internship w/ the LoC.
+# Political Cartoon Visualizer
+Visualization of political cartoon usage over time. Developed for an internship w/ the LoC as a demonstration of the Beyond Words dataset.
