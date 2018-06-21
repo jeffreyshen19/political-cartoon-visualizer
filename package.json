@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jeffreyshen19/political-cartoon-bot#readme",
   "dependencies": {
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
     "gulp-minify": "^3.0.2",
     "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.0.1",
