@@ -5,7 +5,7 @@ var minify = require('gulp-minify');
 var webserver = require('gulp-webserver');
 var concat = require('gulp-concat');
 
-gulp.task('default', ['webserver'], function() {
+gulp.task('default', ['views', 'sass', 'compress', 'webserver'], function() {
   gulp.watch('src/SCSS/*.scss', ['sass']);
   gulp.watch('src/views/*.pug', ['views']);
   gulp.watch('src/JS/*.js', ['compress']);

@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: "Libre_Franklin";
+  margin-bottom: 4px;
+}
+
+p, li{
+  font-family: "Libre_Baskerville";
+  line-height: 1.2em;
+}
+
+hr{
+  border: 1px solid $black;
+}
+
+a{
+  color: $blue;
+  font-weight: bold;
+
+  &:visited, &:focus{
+    color: $blue;
+  }
+}
+
+ul{
+  list-style-type: disc;
+  padding-left: 20px;
+}

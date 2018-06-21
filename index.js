@@ -44,15 +44,3 @@ request.get({
     // console.log(images[0]);
   }
 });
-
-// data:
-//    { caption: 'HUNGER',
-//      creator: 'UNITED STATES FOOD ADMINISTRATION',
-//      category: 'Illustration' }
-
-
-// data:
-//    { values: [{ caption: 'Fire Due to Spontaneous Ignition.',
-//     category: 'Photograph' }],
-//      task_prompt: 'Enter picture\'s caption, illustrator or photographer and category.' } }
-//NOTE: only possible for there to be one value in data
