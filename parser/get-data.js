@@ -7,11 +7,12 @@ var request = require("request"),
     fs = require("fs");
 
 request.get({
-  url: "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false&fo=json&c=10" //Request the entire list w/o pagination for simplicity
+  url: "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false&fo=json&c=1000" //Request the entire list w/o pagination for simplicity
 }, function(err, res, body){
   if(!err && res.statusCode == 200) {
-    var years = [];
-    var cartoons = [];
+    var years = [],
+        cartoons = [],
+        subjects = [];
 
     //Get the raw results, clean them up (to save space), and organize by year
     JSON.parse(body).results.forEach(function(cartoon){
@@ -20,13 +21,22 @@ request.get({
         cartoons.push([]);
       }
 
-      cartoons[years.indexOf(cartoon.date)].push({
-        index: cartoon.index,
-        subject: cartoon.subject,
-        title: cartoon.title,
-        description: cartoon.description,
-        date: cartoon.date,
-      });
+      var yearI = years.indexOf(cartoon.date);
+
+      if(cartoons[yearI].length == 0 || cartoons[yearI][cartoons[yearI].length - 1].title != cartoon.title) {
+        cartoon.subject.forEach(function(subject){
+          if(subjects.indexOf(subject) == -1) subjects.push(subject);
+        });
+
+        cartoons[yearI].push({
+          index: cartoon.index,
+          subject: cartoon.subject,
+          title: cartoon.title,
+          description: cartoon.description,
+          date: cartoon.date,
+          url: cartoon.url
+        });
+      }
     });
 
     //Refactor, and sort into ascending year
@@ -39,7 +49,8 @@ request.get({
       return a.year - b.year;
     });
 
-    fs.writeFileSync("../data/data.json", JSON.stringify(years));
+    fs.writeFileSync("../data/data-min.json", JSON.stringify(years));
+    fs.writeFileSync("../data/subjects.json", JSON.stringify(subjects));
 
   }
 });
