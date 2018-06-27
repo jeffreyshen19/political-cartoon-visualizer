@@ -1,5 +1,5 @@
 /*
-  Downloads all the political cartoon images in 2 sizes. Outputs in data/cartoons/
+  Downloads all the political cartoon images in public domain in 2 sizes. Outputs in data/cartoons/
   Jeffrey Shen
 */
 
@@ -23,5 +23,7 @@ function downloadImages(i, results, isLarge){
 request.get({
   url: "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false&fo=json&c=1000" //Request the entire list w/o pagination for simplicity
 }, function(err, res, body){
-  if(!err && res.statusCode == 200) downloadImages(0, JSON.parse(body).results, false);
+  if(!err && res.statusCode == 200) downloadImages(0, JSON.parse(body).results.filter(function(cartoon){
+    return +cartoon.date <= 1923;
+  }), false);
 });

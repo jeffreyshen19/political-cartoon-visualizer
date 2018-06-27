@@ -15,7 +15,10 @@ request.get({
         subjects = [];
 
     //Get the raw results, clean them up (to save space), and organize by year
-    JSON.parse(body).results.forEach(function(cartoon){
+    JSON.parse(body).results.filter(function(cartoon){
+      return +cartoon.date <= 1923; //Ensure it's in the public domain
+    })
+    .forEach(function(cartoon){
       if(years.indexOf(cartoon.date) == -1) {
         years.push(cartoon.date);
         cartoons.push([]);
