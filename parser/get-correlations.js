@@ -4,6 +4,7 @@
 */
 
 var fs = require("fs");
+va
 
 fs.readFile("../data/data-min.json", function(err, res){
   var output = "year,subject,num_occurences\n";
