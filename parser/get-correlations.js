@@ -4,7 +4,7 @@
 */
 
 var fs = require("fs");
-va
+var blacklist = fs.readFileSync("../data/blacklisted-subjects.txt").toString().split("\n");
 
 fs.readFile("../data/data-min.json", function(err, res){
   var output = "year,subject,num_occurences\n";
@@ -18,11 +18,13 @@ fs.readFile("../data/data-min.json", function(err, res){
     el.cartoons.forEach(function(cartoon){
       cartoon.subject.forEach(function(subject){
         var i = subjects.indexOf(subject);
-        if(i == -1) {
-          subjects.push(subject);
-          numOccurences.push(1);
+        if(blacklist.indexOf(subject) == -1){
+          if(i == -1) {
+            subjects.push(subject);
+            numOccurences.push(1);
+          }
+          else numOccurences[i]++;
         }
-        else numOccurences[i]++;
       });
     });
 
