@@ -1,13 +1,21 @@
-var data;
+/*
+  Responsible for the website's initialization script
+  Jeffrey Shen
+*/
+
+var currentData, //Data that has been filtered by subject(s)
+    originalData; //Unaltered data
 
 $.get("./data/data-min.json", function(d){
-  data = d;
-  // drawGraph(data);
-  var subject = "german";
-  drawGraph(data.map(function(year){
-    year.cartoons = year.cartoons.filter(function(cartoon){
-      return cartoon.subject.indexOf(subject) != -1;
-    });
-    return year;
-  }));
+  originalData = d;
+  currentData = d;
+
+  generateSubjectDropdown();
+  drawGraph(currentData);
+
+  //Make sure graph sizes responsively
+  $(window).on("resize", function(){
+    drawGraph(currentData);
+  });
+
 });

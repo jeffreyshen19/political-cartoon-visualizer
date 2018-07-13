@@ -1,6 +1,12 @@
+/*
+  Draws the data visualizations
+  Jeffrey Shen
+*/
+
 var margin = {left: 70, right: 20, top: 30, bottom: 50};
 var blue = "#0984e3";
 
+//Draws the line chart
 function drawGraph(data){
   var height = 300 - margin.top - margin.bottom,
       width = d3.select("#graphs").node().offsetWidth - margin.left - margin.right;
@@ -9,12 +15,29 @@ function drawGraph(data){
       y = d3.scaleLinear().rangeRound([height, 0]);
 
   var thisNode = d3.select("#main-graph");
-  thisNode.append("svg");
-  thisNode.append("div").attr("class", "tooltip");
+
   thisNode.select('svg').selectAll("*").remove();
+  thisNode.append("svg")
+    .append("line")
+      .attr("class", "tooltip-line hidden")
+      .attr("x1", x(0))
+      .attr("y1", y(0) + margin.top)
+      .attr("x2", x(0))
+      .attr("y2", margin.top)
+      .style("stroke", "black")
+      .style("stroke-width", "1")
+      .style("stroke-dasharray", "5,5");
+
+  thisNode.append("div")
+    .attr("class", "tooltip hidden")
+    .style("position", "absolute")
+    .style("background", "white")
+    .style("padding", "10px")
+    .style("bottom", "70px")
+    .style("white-space", "nowrap");
 
   var tooltip = thisNode.select(".tooltip"),
-      tooltipText;
+      tooltipLine = thisNode.select(".tooltip-line");
 
   var line = d3.line()
     .x(function(d){ return x(d.year);})
@@ -27,15 +50,38 @@ function drawGraph(data){
   var svg = thisNode.select("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-    .on("mousemove", function(){
-      //TODO: add tooltip
-    })
-    .on("mouseout", function(d){
-      var e = d3.event.toElement;
-      if(e && e.parentNode.parentNode != this.parentNode && e.parentNode != this.parentNode && e != this.parentNode) tooltip.classed("hidden", true);
-    })
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  thisNode.on("mousemove", function(){
+    var x0 = x.invert(d3.mouse(this)[0] - margin.left),
+        d;
+
+    for(var i = 0; i < data.length; i++) {
+      if(data[i].year == x0) {
+        d = data[i];
+        break;
+      }
+    }
+
+    tooltip.classed("hidden", false)
+      .html("<h3>" + d.year + "</h3><p>" + d.cartoons.length + " cartoons</p>")
+      .style("left", (20 + x(d.year) + tooltip.node().offsetWidth > width ? x(d.year) + margin.left - 20 - tooltip.node().offsetWidth : x(d.year) + margin.left + 20) + "px");
+
+    tooltipLine.attr("x1", x(d.year) + margin.left)
+      .attr("x2", x(d.year) + margin.left)
+      .classed("hidden", false);
+
+
+    //TODO: add the subjects for each yea
+  })
+  .on("mouseout", function(d){
+    var e = d3.event.toElement;
+    if(e && e.parentNode.parentNode != this.parentNode && e.parentNode != this.parentNode && e != this.parentNode) {
+      tooltip.classed("hidden", true);
+      tooltipLine.classed("hidden", true);
+    }
+  });
 
   svg.append("path")
     .data([data])
