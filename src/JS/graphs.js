@@ -17,7 +17,7 @@ function drawGraph(data){
   var thisNode = d3.select("#main-graph");
 
   thisNode.select('svg').selectAll("*").remove();
-  thisNode.append("svg")
+  thisNode.select('svg')
     .append("line")
       .attr("class", "tooltip-line hidden")
       .attr("x1", x(0))
