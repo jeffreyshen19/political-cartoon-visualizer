@@ -8,24 +8,39 @@ html(lang='en')
     meta(name = "author" content = "Jeffrey Shen")
     title TODO: ADD TITLE
     //link(rel = "icon" type = "image/png" sizes = "32x32" href = "assets/graphics/favicon.png")
+    link(href = "bower_components/font-awesome/web-fonts-with-css/css/fontawesome-all.min.css" rel = "stylesheet" type = "text/css")
     link(href='dist/CSS/main.css', rel='stylesheet', type='text/css')
   body
     #wrapper
       h1 Political Cartoons Over Time
       p The Library of Congress provides hundreds of historical political cartoons through its <a href = "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false" target = "_blank">Cartoon Drawings</a> collection. How do these cartoons change over time? 
       hr 
+      p Select topics to view over time:  
+      //TODO: make this inline
+      select#select-subject(onchange = "selectSubject()") 
+        option(value = "All Subjects") All Subjects
       #graphs
         #main-graph.graph
           svg
-      select#select-subject(onchange = "selectSubject()") 
-        option(value = "All Subjects") All Subjects
+      br
+      p Images with the subject [INSERT SUBJECT HERE]:
+      br
+      #images
+      //Right here should be a sliding image gallery showing all the cartoons of that kind
       br
       p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
       br
+      //////////////////////////////////////////////////////
+      h2 How to Use This
+      hr 
+      p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+      br
+      //////////////////////////////////////////////////////
       h2 Methodology
       hr
       p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
       br
+      //////////////////////////////////////////////////////
       h2 Sources and Further Reading
       hr 
       ul 

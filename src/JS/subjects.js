@@ -37,4 +37,5 @@ function selectSubject(){
   });
 
   drawGraph(currentData);
+  updateSlideshow(currentData);
 }

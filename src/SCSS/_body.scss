@@ -3,3 +3,26 @@
   padding: 40px;
   box-sizing: border-box;
 }
+
+#images{
+  .image{
+    height: 250px;
+    position: relative;
+    display: inline-block;
+    img{
+      height: 100%;
+      width: auto;
+    }
+    .caption{
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 5px;
+      a{
+        color: white;
+        text-decoration: none;
+      }
+    }
+  }
+}
