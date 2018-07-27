@@ -8,7 +8,7 @@ var currentData, //Data that has been filtered by subject(s)
 
 $.get("./data/data-min.json", function(d){
   originalData = d;
-  currentData = d;
+  currentData = d.slice();
 
   generateSubjectDropdown();
   drawGraph(currentData);

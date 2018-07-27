@@ -144,13 +144,14 @@ function updateSlideshow(data){
     });
   });
 
-  d3.select("#images").selectAll(".image")
-    .data(images)
-    .enter().append("div")
-      .attr("class", "image")
-      .html(function(d){
-        return "<img src = '/data/cartoons/large/" + d.index +  ".jpg'><div class = 'caption'><a href = '" + d.url + "'><i class='fas fa-external-link-alt'></i> View on loc.gov</a></div>";
-      });
+  // d3.select("#images").selectAll("*").remove();
+  // d3.select("#images").selectAll(".image")
+  //   .data(images)
+  //   .enter().append("div")
+  //     .attr("class", "image")
+  //     .html(function(d){
+  //       return "<img src = '/data/cartoons/large/" + d.index +  ".jpg'><div class = 'caption'><a href = '" + d.url + "'><i class='fas fa-external-link-alt'></i> View on loc.gov</a></div>";
+  //     });
 
 }
 
@@ -164,7 +165,7 @@ var currentData, //Data that has been filtered by subject(s)
 
 $.get("./data/data-min.json", function(d){
   originalData = d;
-  currentData = d;
+  currentData = d.slice();
 
   generateSubjectDropdown();
   drawGraph(currentData);
@@ -203,16 +204,17 @@ function generateSubjectDropdown(){
 
 //Onchange event handler for the select dropdown. Should update the line chart with the new subject selection
 function selectSubject(){
-  //var dropdown = d3.select("#select-subject").select("selected=true");
-
-  var subject = "german"; //TODO: make this work properly
+  var e = document.getElementById("select-subject");
+  var subject = e.options[e.selectedIndex].value;
 
   if(subject == "All Subjects") currentData = originalData;
   else currentData = originalData.map(function(year){
-    year.cartoons = year.cartoons.filter(function(cartoon){
+    var newYear = Object.assign({}, year);
+    newYear.cartoons = year.cartoons.filter(function(cartoon){
       return cartoon.subject.indexOf(subject) != -1;
     });
-    return year;
+
+    return newYear;
   });
 
   drawGraph(currentData);
