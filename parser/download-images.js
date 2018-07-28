@@ -31,4 +31,4 @@ function downloadImages(data, i, j, isLarge){
 }
 
 var data = JSON.parse(fs.readFileSync("../data/data.json"));
-downloadImages(data, 0, 0, true);
+downloadImages(data, 17, 0, true);
