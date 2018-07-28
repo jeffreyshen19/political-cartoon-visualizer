@@ -23,7 +23,10 @@ function downloadImages(i, results, isLarge){
 request.get({
   url: "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false&fo=json&c=1000" //Request the entire list w/o pagination for simplicity
 }, function(err, res, body){
-  if(!err && res.statusCode == 200) downloadImages(0, JSON.parse(body).results.filter(function(cartoon){
+  console.log(JSON.stringify(JSON.parse(body).results.filter(function(cartoon){
     return +cartoon.date <= 1923;
-  }), false);
+  })));
+  // if(!err && res.statusCode == 200) downloadImages(0, JSON.parse(body).results.filter(function(cartoon){
+  //   return +cartoon.date <= 1923;
+  // }), false);
 });
