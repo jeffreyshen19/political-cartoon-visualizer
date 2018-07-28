@@ -12,7 +12,7 @@ function stylize(subject){
 
 var fs = require("fs");
 var blacklist = fs.readFileSync("../data/blacklisted-subjects.txt").toString().split("\n");
-var data = JSON.parse(fs.readFileSync("../data/data.json"));
+var data = JSON.parse(fs.readFileSync("../data/data-min.json"));
 
 var subjects = [],
     occurences = [],

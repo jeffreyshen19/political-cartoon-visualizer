@@ -1,5 +1,5 @@
 /*
-  Downloads all the political cartoon images in public domain in 2 sizes. Outputs in data/cartoons/
+  Downloads all the political cartoon images in public domain. Outputs in data/cartoons/
   Jeffrey Shen
 */
 
@@ -7,26 +7,20 @@ var request = require("request"),
     fs = require("fs");
 
 //Recursive function that downloads images synchronously to prevent the LoC API from failing.
-function downloadImages(i, results, isLarge){
-  var uri = "http:" + results[i].image_url[isLarge ? 2 : 0];
-  var filename = (isLarge ? "../data/cartoons/large/" : "../data/cartoons/small/") + i + ".jpg";
+function downloadImages(data, i, j){
+  var results = data[i].cartoons,
+    cartoon = results[j],
+    uri = "http:" + cartoon.image_url[2];
+
+  console.log(cartoon.index);
 
   request.head(uri, function(err, res, body){
-    request(uri).pipe(fs.createWriteStream(filename)).on("close", function(){ //Once the image is downloaded, download the next one
-      i++;
-      if(i < results.length) downloadImages(i, results, isLarge);
-      else if(!isLarge) downloadImages(0, results, true);
+    request(uri).pipe(fs.createWriteStream("../data/cartoons/large/" + cartoon.index + ".jpg")).on("close", function(){ //Once the image is downloaded, download the next one
+      if(j + 1 < results.length) downloadImages(data, i, j + 1);
+      else if(i + 1 < data.length) downloadImages(data, i + 1, 0);
     });
   });
 }
 
-request.get({
-  url: "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false&fo=json&c=1000" //Request the entire list w/o pagination for simplicity
-}, function(err, res, body){
-  console.log(JSON.stringify(JSON.parse(body).results.filter(function(cartoon){
-    return +cartoon.date <= 1923;
-  })));
-  // if(!err && res.statusCode == 200) downloadImages(0, JSON.parse(body).results.filter(function(cartoon){
-  //   return +cartoon.date <= 1923;
-  // }), false);
-});
+var data = JSON.parse(fs.readFileSync("../data/data.json"));
+downloadImages(data, 0, 0);

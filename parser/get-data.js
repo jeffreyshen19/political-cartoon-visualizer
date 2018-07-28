@@ -11,9 +11,8 @@ request.get({
 }, function(err, res, body){
   if(!err && res.statusCode == 200) {
     var years = [],
-        cartoons = [],
-        subjects = [];
-
+        cartoons = [];
+        
     //Get the raw results, clean them up (to save space), and organize by year
     JSON.parse(body).results.filter(function(cartoon){
       return +cartoon.date <= 1923; //Ensure it's in the public domain
@@ -27,17 +26,14 @@ request.get({
       var yearI = years.indexOf(cartoon.date);
 
       if(cartoons[yearI].length == 0 || cartoons[yearI][cartoons[yearI].length - 1].title != cartoon.title) {
-        cartoon.subject.forEach(function(subject){
-          if(subjects.indexOf(subject) == -1) subjects.push(subject);
-        });
-
         cartoons[yearI].push({
           index: cartoon.index,
           subject: cartoon.subject,
           title: cartoon.title,
           description: cartoon.description,
           date: cartoon.date,
-          url: cartoon.url
+          url: cartoon.url,
+          image_url: cartoon.image_url
         });
       }
     });
@@ -53,7 +49,7 @@ request.get({
     });
 
     fs.writeFileSync("../data/data-min.json", JSON.stringify(years));
-    fs.writeFileSync("../data/subjects.json", JSON.stringify(subjects));
+    fs.writeFileSync("../data/data.json", JSON.stringify(years));
 
   }
 });
