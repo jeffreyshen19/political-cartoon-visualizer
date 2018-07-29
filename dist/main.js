@@ -201,10 +201,12 @@ function generateSubjectDropdown(){
     var subjects = subjectStr.split("\n").map(function(line){
       return line.split("|");
     });
+    subjects = subjects.slice(0, subjects.length - 1).filter(function(subject){
+      return +subject[1] >= 10;
+    });
+
     d3.select("#select-subject").selectAll("option")
-      .data(subjects.slice(0, subjects.length - 1).filter(function(subject){
-        return +subject[1] >= 10;
-      }))
+      .data(subjects)
       .enter()
       .append("option")
         .attr("value", function(d){
@@ -213,6 +215,12 @@ function generateSubjectDropdown(){
         .html(function(d){
           return d[2] + " (" + d[1] + ")";
         });
+
+    d3.select("#select-subject")
+      .insert("option", ":first-child")
+        .attr("value", "Everything")
+        .attr("selected", "selected")
+        .html("Everything");
   });
 }
 
