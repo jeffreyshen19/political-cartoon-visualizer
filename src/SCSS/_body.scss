@@ -5,23 +5,35 @@
 }
 
 #images{
+  height: 654px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 4px 0;
+
   .image{
-    height: 250px;
+    height: 325px;
     position: relative;
     display: inline-block;
+    border: 1px solid $dark-gray;
+    margin: 0 2px 4px;
     img{
-      height: 100%;
+      height: 250px;
       width: auto;
     }
     .caption{
-      position: absolute;
-      left: 0;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.5);
       padding: 5px;
+      h3{
+        margin-bottom: 1px;
+      }
       a{
-        color: white;
         text-decoration: none;
+        font-family: Libre_Franklin;
+        font-size: 0.9em;
+      }
+      p{
+        font-size: 0.9em;
+        font-style: italic;
+        margin-bottom: 5px;
       }
     }
   }

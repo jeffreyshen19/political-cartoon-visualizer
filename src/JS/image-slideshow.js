@@ -3,6 +3,11 @@
   Jeffrey Shen
 */
 
+//Trims up a title for display
+function truncate(str){
+  return str.replace(/\[|\]/g, "").substring(0, 20) + "...";
+}
+
 function updateSlideshow(data){
   var images = [];
   data.forEach(function(year){
@@ -17,7 +22,7 @@ function updateSlideshow(data){
     .enter().append("div")
       .attr("class", "image")
       .html(function(d){
-        return "<img src = '/data/cartoons/large/" + d.index +  ".jpg'><div class = 'caption'><a href = '" + d.url + "'><i class='fas fa-external-link-alt'></i> View on loc.gov</a></div>";
+        return "<img src = '/data/cartoons/large/" + d.index +  ".jpg'><div class = 'caption'><h3>" + truncate(d.title) + "</h3><p>" + d.date + "</p><a href = '" + d.url + "' target = '_blank'><i class='fas fa-external-link-alt'></i> View on loc.gov</a></div>";
       });
 
 }

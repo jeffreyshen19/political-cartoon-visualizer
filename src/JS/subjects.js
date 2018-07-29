@@ -36,7 +36,7 @@ function selectSubject(){
   var e = document.getElementById("select-subject");
   var subject = e.options[e.selectedIndex].value;
 
-  if(subject == "All Subjects"){
+  if(subject == "Everything"){
     currentData = originalData;
     d3.select("#slideshow-subject-name").html("All Images:");
   }

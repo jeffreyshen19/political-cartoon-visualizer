@@ -1,231 +1,230 @@
 cleveland, grover|51|Cleveland, Grover
 silver question|44|Silver Question
-uncle sam|42|Uncle Sam
+uncle sam|43|Uncle Sam
 presidential elections|40|Presidential Elections
 mckinley, william|26|Mckinley, William
 legislative bodies|26|Legislative Bodies
 republican party|24|Republican Party
-washington, george|23|Washington, George
 caricatures|23|Caricatures
-bryan, william jennings|21|Bryan, William Jennings
+washington, george|23|Washington, George
 democratic party|21|Democratic Party
+bryan, william jennings|21|Bryan, William Jennings
 washington (d.c.)|20|Washington D.c.
 color|18|Color
 great britain|17|Great Britain
-hill, david b|16|Hill, David B
-hill, david|16|Hill, David
 prints|16|Prints
+hill, david b|16|Hill, David B
 political elections|15|Political Elections
 international relations|15|International Relations
 reed, thomas|14|Reed, Thomas
 free trade & protection|14|Free Trade & Protection
+women|13|Women
 bland, richard parks|13|Bland, Richard Parks
 reform|13|Reform
-women|13|Women
-carlisle, john griffin|12|Carlisle, John Griffin
-tariffs|12|Tariffs
 sculpture|12|Sculpture
+tariffs|12|Tariffs
+carlisle, john griffin|12|Carlisle, John Griffin
 donkeys|11|Donkeys
-blaine, james gillispie|11|Blaine, James Gillispie
-quay, matthew stanley|11|Quay, Matthew Stanley
 children|11|Children
+blaine, james gillispie|11|Blaine, James Gillispie
 legislators|11|Legislators
+quay, matthew stanley|11|Quay, Matthew Stanley
 holman, william steele|10|Holman, William Steele
 hanna, marcus alonzo|10|Hanna, Marcus Alonzo
 lions|10|Lions
+romans|9|Romans
+political patronage|9|Political Patronage
 (william boyd)|9|William Boyd
-currency question|9|Currency Question
 allusions|9|Allusions
 business & finance|9|Business & Finance
-political patronage|9|Political Patronage
-romans|9|Romans
+currency question|9|Currency Question
 allison, william|9|Allison, William
-presidents|8|Presidents
-harrison, benjamin|8|Harrison, Benjamin
-crying|8|Crying
-political platforms|8|Political Platforms
-legislation|8|Legislation
 biblical events|8|Biblical Events
+presidents|8|Presidents
 democracy|8|Democracy
-political conventions|7|Political Conventions
-jones|7|Jones
-economic policy|7|Economic Policy
+harrison, benjamin|8|Harrison, Benjamin
+legislation|8|Legislation
+political platforms|8|Political Platforms
+world war|8|World War
+crying|8|Crying
 randall, samuel jackson|7|Randall, Samuel Jackson
-populism|7|Populism
-political parties|7|Political Parties
-tilden, samuel j.|7|Tilden, Samuel J.
+economic policy|7|Economic Policy
 (samuel jones)|7|Samuel Jones
-world war|7|World War
-coins|6|Coins
-corruption|6|Corruption
-boxing|6|Boxing
+tilden, samuel j.|7|Tilden, Samuel J.
+jones|7|Jones
+populism|7|Populism
+political conventions|7|Political Conventions
+political parties|7|Political Parties
 elephants|6|Elephants
-teller, henry moore|6|Teller, Henry Moore
-sibley|6|Sibley
-altgeld|6|Altgeld
-fighting|6|Fighting
 dreaming|6|Dreaming
-losers|6|Losers
+coins|6|Coins
+fighting|6|Fighting
+altgeld|6|Altgeld
+corruption|6|Corruption
+sibley|6|Sibley
 military officers|6|Military Officers
+boxing|6|Boxing
+teller, henry moore|6|Teller, Henry Moore
+losers|6|Losers
 cabinet officers|5|Cabinet Officers
-peffer, william alfred|5|Peffer, William Alfred
-public speaking|5|Public Speaking
-courtship & love|5|Courtship & Love
+stewart|5|Stewart
+depressions|5|Depressions
+(william morris)|5|William Morris
+campbell, james edwin|5|Campbell, James Edwin
+stewart, william m.|5|Stewart, William M.
 ludlow, william|5|Ludlow, William
+public speaking|5|Public Speaking
+tillman, benjamin ryan|5|Tillman, Benjamin Ryan
+bull, john|5|Bull, John
+chicago (ill.)|5|Chicago Ill.
+boies, horace|5|Boies, Horace
+manderson|5|Manderson
 kings|5|Kings
 presidents & the congress|5|Presidents & The Congress
 soviet union|5|Soviet Union
 whitney, william c.|5|Whitney, William C.
 government spending policy|5|Government Spending Policy
-boies, horace|5|Boies, Horace
-ohio|5|Ohio
-cockran, william bourke|5|Cockran, William Bourke
-campbell, james edwin|5|Campbell, James Edwin
-bonds|5|Bonds
-barrels|5|Barrels
-chicago (ill.)|5|Chicago Ill.
-stewart, william m.|5|Stewart, William M.
-(william morris)|5|William Morris
-stewart|5|Stewart
-depressions|5|Depressions
-trees|5|Trees
-morton, levi p.|5|Morton, Levi P.
 (levi parsons)|5|Levi Parsons
-manderson|5|Manderson
-tillman, benjamin ryan|5|Tillman, Benjamin Ryan
-springer, william m|4|Springer, William M
-navies|4|Navies
-chandler, william e.|4|Chandler, William E.
-dancing|4|Dancing
-blackburn|4|Blackburn
-indians of north america|4|Indians Of North America
-gorman, arthur p.|4|Gorman, Arthur P.
+morton, levi p.|5|Morton, Levi P.
+barrels|5|Barrels
+ohio|5|Ohio
+courtship & love|5|Courtship & Love
+peffer, william alfred|5|Peffer, William Alfred
+cockran, william bourke|5|Cockran, William Bourke
+trees|5|Trees
+bonds|5|Bonds
+bailey|4|Bailey
 (arthur pue)|4|Arthur Pue
-cattle|4|Cattle
-public opinion|4|Public Opinion
-fourth of july|4|Fourth Of July
+gorman, arthur p.|4|Gorman, Arthur P.
+navies|4|Navies
 eagles|4|Eagles
-bull, john|4|Bull, John
+tammany tiger|4|Tammany Tiger
+united states. dept. of treasury|4|United States. Dept. Of Treasury
+bryan|4|Bryan
 winners|4|Winners
 fishing|4|Fishing
-white house (washington, d.c.)|4|White House Washington, D.c.
-bryan|4|Bryan
+cattle|4|Cattle
+blackburn|4|Blackburn
+springer, william m|4|Springer, William M
 robberies|4|Robberies
+springer, william m.|4|Springer, William M.
 platt|4|Platt
-water supply|4|Water Supply
+fourth of july|4|Fourth Of July
 politicians|4|Politicians
-campaigns & battles|4|Campaigns & Battles
+white house (washington, d.c.)|4|White House Washington, D.c.
 ghosts|4|Ghosts
 flags|4|Flags
+water supply|4|Water Supply
 uncle sam (symbolic character)|4|Uncle Sam Symbolic Character
-burdens|4|Burdens
+chandler, william e.|4|Chandler, William E.
 farmers|4|Farmers
-taxes|4|Taxes
-bailey|4|Bailey
-springer, william m.|4|Springer, William M.
-tammany tiger|4|Tammany Tiger
+campaigns & battles|4|Campaigns & Battles
+dancing|4|Dancing
+indians of north america|4|Indians Of North America
+burdens|4|Burdens
 boats|4|Boats
-united states. dept. of treasury|4|United States. Dept. Of Treasury
+taxes|4|Taxes
+public opinion|4|Public Opinion
 fantasy|3|Fantasy
 churches|3|Churches
 clippings|3|Clippings
 horses|3|Horses
-dogs|3|Dogs
+beaches|3|Beaches
 ladders|3|Ladders
-plays|3|Plays
+armies|3|Armies
 brice, calvin stewart|3|Brice, Calvin Stewart
-logan|3|Logan
-grant, ulysses s.|3|Grant, Ulysses S.
+couples|3|Couples
+depew, chauncey m.|3|Depew, Chauncey M.
 (chauncey mitchell)|3|Chauncey Mitchell
 ships|3|Ships
 avarice|3|Avarice
-goats|3|Goats
+morrison, william ralls|3|Morrison, William Ralls
 samson (biblical judge)|3|Samson Biblical Judge
-armies|3|Armies
+floods|3|Floods
 accidents|3|Accidents
-cox, samuel sullivan|3|Cox, Samuel Sullivan
-roosevelt, theodore|3|Roosevelt, Theodore
-kicking|3|Kicking
+bees|3|Bees
+press|3|Press
+plays|3|Plays
 newspapers|3|Newspapers
-law enforcement|3|Law Enforcement
+civil service reform|3|Civil Service Reform
 hiding|3|Hiding
 credit|3|Credit
-grant, ulysses s|3|Grant, Ulysses S
-wheatley, samuel edwin|3|Wheatley, Samuel Edwin
+goats|3|Goats
+war|3|War
 carter, thomas henry|3|Carter, Thomas Henry
-webb, william benning|3|Webb, William Benning
-satires|3|Satires
-bondage|3|Bondage
-chandler, william e|3|Chandler, William E
+cox, samuel sullivan|3|Cox, Samuel Sullivan
+roosevelt, theodore|3|Roosevelt, Theodore
+dogs|3|Dogs
+resolutions|3|Resolutions
 arthur, chester alan|3|Arthur, Chester Alan
 sherman, william t.|3|Sherman, William T.
 government officials|3|Government Officials
 bicycles & tricycles|3|Bicycles & Tricycles
-beer|3|Beer
-chasing|3|Chasing
-war|3|War
+wheatley, samuel edwin|3|Wheatley, Samuel Edwin
+webb, william benning|3|Webb, William Benning
+bondage|3|Bondage
 alger|3|Alger
 bayard, thomas f.|3|Bayard, Thomas F.
 (thomas francis)|3|Thomas Francis
-press|3|Press
-morrison, william ralls|3|Morrison, William Ralls
-couples|3|Couples
+potomac river|3|Potomac River
+beer|3|Beer
+logan|3|Logan
 buckner|3|Buckner
 german|3|German
 peffer|3|Peffer
 commerce|3|Commerce
 anarchism|3|Anarchism
-beaches|3|Beaches
-vest|3|Vest
+grant, ulysses s.|3|Grant, Ulysses S.
+ink drawings|3|Ink Drawings
 manley|3|Manley
 grosvenor|3|Grosvenor
-prohibition|3|Prohibition
-wilson|3|Wilson
+grant, ulysses s|3|Grant, Ulysses S
+vest|3|Vest
 falling|3|Falling
 mcmillin, benton|3|Mcmillin, Benton
-morton|3|Morton
-floods|3|Floods
+satires|3|Satires
+wilson|3|Wilson
 skeletons|3|Skeletons
 resignations|3|Resignations
 waite|3|Waite
-potomac river|3|Potomac River
-ink drawings|3|Ink Drawings
+morton|3|Morton
+sibley, joseph|3|Sibley, Joseph
 harris|3|Harris
 prosperity|3|Prosperity
 angels|3|Angels
 sherman, john|3|Sherman, John
-sibley, joseph|3|Sibley, Joseph
-whitney, william c|3|Whitney, William C
+chasing|3|Chasing
+chandler, william e|3|Chandler, William E
 eating & drinking|3|Eating & Drinking
 bears|3|Bears
+whitney, william c|3|Whitney, William C
 woodcutting|3|Woodcutting
 butler|3|Butler
-depew, chauncey m.|3|Depew, Chauncey M.
 children misbehaving|3|Children Misbehaving
 davis|3|Davis
-bimetallism|3|Bimetallism
+law enforcement|3|Law Enforcement
 grosvenor, c.|3|Grosvenor, C.
 grosvenor, c|3|Grosvenor, C
-civil service reform|3|Civil Service Reform
-bees|3|Bees
+bimetallism|3|Bimetallism
+kicking|3|Kicking
 bands|3|Bands
-ethics|3|Ethics
+prohibition|3|Prohibition
 boys|3|Boys
 imagination|3|Imagination
-resolutions|3|Resolutions
+ethics|3|Ethics
 balloons (aircraft)|3|Balloons Aircraft
-dana, charles a.|2|Dana, Charles A.
-animal welfare|2|Animal Welfare
+(charles anderson)|2|Charles Anderson
+butler, h. w|2|Butler, H. W
 piracy|2|Piracy
 keifer, joseph warren|2|Keifer, Joseph Warren
 simpson|2|Simpson
 fithian|2|Fithian
+animal welfare|2|Animal Welfare
 watterson, h.|2|Watterson, H.
 inflation|2|Inflation
-chinese|2|Chinese
 baltimore sun|2|Baltimore Sun
+chinese|2|Chinese
 watterson, h|2|Watterson, H
-sunflowers|2|Sunflowers
 duck shooting|2|Duck Shooting
 municipal officials|2|Municipal Officials
 carriages & coaches|2|Carriages & Coaches
@@ -234,12 +233,12 @@ bayard, thomas|2|Bayard, Thomas
 political discussion|2|Political Discussion
 dissenters|2|Dissenters
 speeches|2|Speeches
+sunflowers|2|Sunflowers
 soldiers|2|Soldiers
 shakespeare, william. hamlet|2|Shakespeare, William. Hamlet
-veterans|2|Veterans
 foraker, joseph benson|2|Foraker, Joseph Benson
 dynamite|2|Dynamite
-cuba|2|Cuba
+veterans|2|Veterans
 circuses & shows|2|Circuses & Shows
 competition (social sciences)|2|Competition Social Sciences
 singing|2|Singing
@@ -249,45 +248,45 @@ sherman, william t|2|Sherman, William T
 military parades & ceremonies|2|Military Parades & Ceremonies
 crowns|2|Crowns
 united states capitol (washington, d.c.)|2|United States Capitol Washington, D.c.
-moon|2|Moon
+cuba|2|Cuba
 voorhees|2|Voorhees
 blaming|2|Blaming
 cupid (roman deity)|2|Cupid Roman Deity
+moon|2|Moon
 washington monument (washington, d.c.)|2|Washington Monument Washington, D.c.
-spain|2|Spain
 olney|2|Olney
 lent|2|Lent
 operas & operettas|2|Operas & Operettas
-germany|2|Germany
+spain|2|Spain
 carlisle|2|Carlisle
+germany|2|Germany
 ireland|2|Ireland
-wetlands|2|Wetlands
 wolcott, edward oliver|2|Wolcott, Edward Oliver
 horse racing|2|Horse Racing
 railroads|2|Railroads
-national defense|2|National Defense
+wetlands|2|Wetlands
 sunrises & sunsets|2|Sunrises & Sunsets
-laundry|2|Laundry
+national defense|2|National Defense
 reed|2|Reed
 poultry|2|Poultry
 eggs|2|Eggs
-governors|2|Governors
+laundry|2|Laundry
 sphinxes|2|Sphinxes
-iowa|2|Iowa
+governors|2|Governors
 sleeping|2|Sleeping
+iowa|2|Iowa
 doors & doorways|2|Doors & Doorways
-forts & fortifications|2|Forts & Fortifications
 ship of state|2|Ship Of State
 monopolies|2|Monopolies
-southern states|2|Southern States
+forts & fortifications|2|Forts & Fortifications
 pugh|2|Pugh
 swine|2|Swine
-education|2|Education
+southern states|2|Southern States
 barrooms|2|Barrooms
 meetings|2|Meetings
 fassett|2|Fassett
 wheat|2|Wheat
-boston (mass.)|2|Boston Mass.
+education|2|Education
 chairs|2|Chairs
 apples|2|Apples
 russell|2|Russell
@@ -296,13 +295,13 @@ tracey|2|Tracey
 death|2|Death
 fires|2|Fires
 criminals|2|Criminals
-alcoholic beverages|2|Alcoholic Beverages
+boston (mass.)|2|Boston Mass.
 clubbing|2|Clubbing
 hospitals|2|Hospitals
 communicable diseases|2|Communicable Diseases
 parades & processions|2|Parades & Processions
 cats|2|Cats
-arrows|2|Arrows
+alcoholic beverages|2|Alcoholic Beverages
 pennover|2|Pennover
 walls|2|Walls
 autonomy|2|Autonomy
@@ -312,11 +311,11 @@ vice presidents|2|Vice Presidents
 bells|2|Bells
 gold|2|Gold
 eckels|2|Eckels
-seals (animals)|2|Seals Animals
+arrows|2|Arrows
 santa claus|2|Santa Claus
-new york (state)|2|New York State
+seals (animals)|2|Seals Animals
 thurber|2|Thurber
-walking the plank|2|Walking The Plank
+new york (state)|2|New York State
 football|2|Football
 toys|2|Toys
 peace|2|Peace
@@ -325,14 +324,14 @@ pails|2|Pails
 knights of pythias|2|Knights Of Pythias
 greeks|2|Greeks
 thacher, john boyd|2|Thacher, John Boyd
-(1919)|2|1919
+dana, charles a.|2|Dana, Charles A.
 parrots|2|Parrots
 reed, thomas b|2|Reed, Thomas B
 periodical illustrations|2|Periodical Illustrations
 prophecy|2|Prophecy
 morton, j. sterling|2|Morton, J. Sterling
 (julius sterling)|2|Julius Sterling
-(charles anderson)|2|Charles Anderson
+walking the plank|2|Walking The Plank
 strong|2|Strong
 quay|2|Quay
 mcclellan|2|Mcclellan
@@ -355,7 +354,7 @@ classrooms|2|Classrooms
 dandies|2|Dandies
 coxey, j.|2|Coxey, J.
 coxey, j|2|Coxey, J
-meat industry|2|Meat Industry
+(1919)|2|1919
 united states. civil service commission|2|United States. Civil Service Commission
 launchings|2|Launchings
 bradley|2|Bradley
@@ -371,29 +370,29 @@ i|2|I
 emperor of the french|2|Emperor Of The French
 whitney, william|2|Whitney, William
 clouds|2|Clouds
+banks|2|Banks
 dubois|2|Dubois
 silver republican party|2|Silver Republican Party
 china|2|China
 france|2|France
 civil service|2|Civil Service
 food prices|2|Food Prices
-butler, h. w.|2|Butler, H. W.
+meat industry|2|Meat Industry
 shipping|2|Shipping
-mugwumps|2|Mugwumps
+butler, h. w.|2|Butler, H. W.
 beards|2|Beards
 bathtubs & showers|2|Bathtubs & Showers
 whales|2|Whales
 imagining|2|Imagining
-butler, h. w|2|Butler, H. W
+mugwumps|2|Mugwumps
 body builders|2|Body Builders
 congress|2|Congress
 senate|2|Senate
 treaty of versailles|2|Treaty Of Versailles
-united states. bureau of indian affairs|1|United States. Bureau Of Indian Affairs
-beringer|1|Beringer
+hatch|1|Hatch
+dumas, alexandre,. comte monte-cristo|1|Dumas, Alexandre,. Comte Monte-cristo
 jones, g.|1|Jones, G.
 united states. dept. of agriculture|1|United States. Dept. Of Agriculture
-nursery rhymes|1|Nursery Rhymes
 advertisements|1|Advertisements
 cummings, homer s.|1|Cummings, Homer S.
 (homer stille)|1|Homer Stille
@@ -405,8 +404,8 @@ croker, richard|1|Croker, Richard
 sickles|1|Sickles
 tenure of office|1|Tenure Of Office
 sinbad the sailor|1|Sinbad The Sailor
+nursery rhymes|1|Nursery Rhymes
 jones, g|1|Jones, G
-weller|1|Weller
 horse railroads|1|Horse Railroads
 clark, champ|1|Clark, Champ
 johnson, hiram|1|Johnson, Hiram
@@ -415,26 +414,26 @@ continental divide|1|Continental Divide
 dolph|1|Dolph
 ballads|1|Ballads
 johnson, tom|1|Johnson, Tom
-men|1|Men
+weller|1|Weller
 bynun|1|Bynun
 trolley|1|Trolley
-hatch|1|Hatch
+lasker, eduard|1|Lasker, Eduard
 widows|1|Widows
 butler, benjamin franklin|1|Butler, Benjamin Franklin
+men|1|Men
 white, j.|1|White, J.
 defense budgets|1|Defense Budgets
-seas|1|Seas
 sun|1|Sun
-finerty|1|Finerty
+seas|1|Seas
 eclipses|1|Eclipses
-animal behavior|1|Animal Behavior
+finerty|1|Finerty
 lilies|1|Lilies
-belford|1|Belford
+animal behavior|1|Animal Behavior
 democratic party (u.s.)|1|Democratic Party U.s.
 shipwrecks|1|Shipwrecks
 scylla and charybdis (greek mythology)|1|Scylla And Charybdis Greek Mythology
+belford|1|Belford
 (james middleton)|1|James Middleton
-herons|1|Herons
 spring|1|Spring
 judges|1|Judges
 reed, thomas beckett|1|Reed, Thomas Beckett
@@ -445,32 +444,32 @@ st. paul (ship)|1|St. Paul Ship
 daredevils|1|Daredevils
 waterfalls|1|Waterfalls
 niagara falls (n.y. and ont.)|1|Niagara Falls N.y. And Ont.
-bottles|1|Bottles
+herons|1|Herons
 dubois, frederick t.|1|Dubois, Frederick T.
 (frederick thomas)|1|Frederick Thomas
-robinson, r|1|Robinson, R
+bottles|1|Bottles
 assassinations|1|Assassinations
 mantle, lee|1|Mantle, Lee
-richelieu, armand jean du plessis, duc de|1|Richelieu, Armand Jean Du Plessis, Duc De
+robinson, r|1|Robinson, R
 baseball|1|Baseball
 wisdom|1|Wisdom
 united states. dept. of justice|1|United States. Dept. Of Justice
 rain|1|Rain
+richelieu, armand jean du plessis, duc de|1|Richelieu, Armand Jean Du Plessis, Duc De
 white, j. b|1|White, J. B
-warehouses|1|Warehouses
 wheeler, wayne bidwell|1|Wheeler, Wayne Bidwell
 water pumps|1|Water Pumps
 dolliver|1|Dolliver
+warehouses|1|Warehouses
 bribery|1|Bribery
-drinking vessels|1|Drinking Vessels
 payne|1|Payne
 edmunds|1|Edmunds
 lincoln|1|Lincoln
-fools & jesters|1|Fools & Jesters
+drinking vessels|1|Drinking Vessels
 symbols|1|Symbols
-stairways|1|Stairways
+fools & jesters|1|Fools & Jesters
 pies|1|Pies
-bering sea|1|Bering Sea
+stairways|1|Stairways
 childs|1|Childs
 sheridan, philip|1|Sheridan, Philip
 conkling, roscoe|1|Conkling, Roscoe
@@ -481,21 +480,21 @@ winter|1|Winter
 agesander. laocoon group|1|Agesander. Laocoon Group
 kelly, j.|1|Kelly, J.
 kelly, j|1|Kelly, J
-new hampshire|1|New Hampshire
+bering sea|1|Bering Sea
 blind man's bluff|1|Blind Man's Bluff
 mcdonald|1|Mcdonald
 hendricks|1|Hendricks
 butler, benjamin|1|Butler, Benjamin
-bags|1|Bags
+new hampshire|1|New Hampshire
 disaster relief|1|Disaster Relief
 lincoln, abraham|1|Lincoln, Abraham
 puck (fictitious character)|1|Puck Fictitious Character
 thrones|1|Thrones
-sullivan, john l.|1|Sullivan, John L.
+bags|1|Bags
 anniversaries|1|Anniversaries
 garfield, james a.|1|Garfield, James A.
 garfield, james a|1|Garfield, James A
-jesus christ|1|Jesus Christ
+sullivan, john l.|1|Sullivan, John L.
 payne, h.|1|Payne, H.
 passengers|1|Passengers
 payne, h. b|1|Payne, H. B
@@ -505,19 +504,19 @@ edmunds, anthony|1|Edmunds, Anthony
 st. anthony|1|St. Anthony
 victory|1|Victory
 laborers|1|Laborers
-blair|1|Blair
+jesus christ|1|Jesus Christ
 government buildings|1|Government Buildings
 hotels & taverns|1|Hotels & Taverns
 whitney|1|Whitney
 bouquets|1|Bouquets
 reading|1|Reading
 waiters|1|Waiters
+blair|1|Blair
 deportations|1|Deportations
 geary exclusion act|1|Geary Exclusion Act
-assistance|1|Assistance
 farms|1|Farms
+assistance|1|Assistance
 coney island (new york, n.y.)|1|Coney Island New York, N.y.
-intoxication|1|Intoxication
 bergh|1|Bergh
 jones, t.|1|Jones, T.
 hancock, winfield scott|1|Hancock, Winfield Scott
@@ -546,44 +545,44 @@ monuments & memorials|1|Monuments & Memorials
 dolphins|1|Dolphins
 wwsl|1|Wwsl
 roosters|1|Roosters
-history|1|History
+intoxication|1|Intoxication
 wagner, richard,. tannhauser|1|Wagner, Richard,. Tannhauser
+history|1|History
 war of 1898|1|War Of 1898
-naval warfare|1|Naval Warfare
 entertaining|1|Entertaining
 new year|1|New Year
 surplus commodities|1|Surplus Commodities
-food|1|Food
+naval warfare|1|Naval Warfare
 skulls|1|Skulls
 cholera|1|Cholera
 hammocks (furniture)|1|Hammocks Furniture
 presidential inaugurations|1|Presidential Inaugurations
 housing|1|Housing
 mutinies|1|Mutinies
-weather|1|Weather
+food|1|Food
 proctor, redfield|1|Proctor, Redfield
 bandwagons|1|Bandwagons
+weather|1|Weather
 swift, jonathan,. gulliver's travels|1|Swift, Jonathan,. Gulliver's Travels
 turtles|1|Turtles
-cox, james m.|1|Cox, James M.
 hobart|1|Hobart
 thurston|1|Thurston
 heath|1|Heath
 bland|1|Bland
 morrison|1|Morrison
+cox, james m.|1|Cox, James M.
 weyler, general|1|Weyler, General
-ballet|1|Ballet
 armor|1|Armor
 tin|1|Tin
 industrial trusts|1|Industrial Trusts
-cemeteries|1|Cemeteries
+ballet|1|Ballet
 sketches|1|Sketches
 entrepreneurs|1|Entrepreneurs
-curtis, g. william|1|Curtis, G. William
+cemeteries|1|Cemeteries
 telephones|1|Telephones
-jones, george|1|Jones, George
+curtis, g. william|1|Curtis, G. William
 crowds|1|Crowds
-schurtz, c.|1|Schurtz, C.
+jones, george|1|Jones, George
 organizations|1|Organizations
 clumsiness|1|Clumsiness
 stools|1|Stools
@@ -607,7 +606,7 @@ mills|1|Mills
 riel, louis|1|Riel, Louis
 whiting|1|Whiting
 welle, david a|1|Welle, David A
-progressivism|1|Progressivism
+schurtz, c.|1|Schurtz, C.
 cobwebs|1|Cobwebs
 aphrodite (greek deity)|1|Aphrodite Greek Deity
 paris (greek mythology)|1|Paris Greek Mythology
@@ -616,20 +615,20 @@ hera (greek deity)|1|Hera Greek Deity
 wolseley|1|Wolseley
 afghanistan|1|Afghanistan
 gods|1|Gods
-philadelphia (pa.)|1|Philadelphia Pa.
+progressivism|1|Progressivism
 shakespeare, william. macbeth|1|Shakespeare, William. Macbeth
-books|1|Books
+philadelphia (pa.)|1|Philadelphia Pa.
 harter|1|Harter
 williams|1|Williams
 cochran|1|Cochran
 cameron, j. donald|1|Cameron, J. Donald
-schurtz, c|1|Schurtz, C
+books|1|Books
 torches|1|Torches
-robinson, r.|1|Robinson, R.
+schurtz, c|1|Schurtz, C
 miserliness|1|Miserliness
 richard|1|Richard
 kennels|1|Kennels
-lasker, eduard|1|Lasker, Eduard
+united states. bureau of indian affairs|1|United States. Bureau Of Indian Affairs
 iii|1|Iii
 luther, martin|1|Luther, Martin
 briggs|1|Briggs
@@ -648,7 +647,7 @@ st. matthew|1|St. Matthew
 hours of labor|1|Hours Of Labor
 gates, st. peter|1|Gates, St. Peter
 moving & storage trade|1|Moving & Storage Trade
-diplomatic protests|1|Diplomatic Protests
+robinson, r.|1|Robinson, R.
 lyman|1|Lyman
 johnson|1|Johnson
 refuse disposal|1|Refuse Disposal
@@ -657,7 +656,7 @@ metallurgical industry|1|Metallurgical Industry
 west (u.s.)|1|West U.s.
 holam|1|Holam
 lewelling|1|Lewelling
-noah's ark|1|Noah's Ark
+diplomatic protests|1|Diplomatic Protests
 lease, mrs|1|Lease, Mrs
 simpson, j.|1|Simpson, J.
 simpson, j|1|Simpson, J
@@ -666,7 +665,7 @@ blount, james h.|1|Blount, James H.
 kelly|1|Kelly
 queens|1|Queens
 liliuokalani, queen of hawaii|1|Liliuokalani, Queen Of Hawaii
-waterspouts|1|Waterspouts
+noah's ark|1|Noah's Ark
 gladstone, herbert john gladstone|1|Gladstone, Herbert John Gladstone
 viscount|1|Viscount
 fans (accessories)|1|Fans Accessories
@@ -676,13 +675,13 @@ centennial celebrations|1|Centennial Celebrations
 grooming|1|Grooming
 scapegoats|1|Scapegoats
 sherman silver law of 1890|1|Sherman Silver Law Of 1890
-emperors|1|Emperors
+waterspouts|1|Waterspouts
 executive power|1|Executive Power
 washington post|1|Washington Post
 fear|1|Fear
 dickinson, don|1|Dickinson, Don
 standard oil company|1|Standard Oil Company
-sullivan, john l|1|Sullivan, John L
+emperors|1|Emperors
 anxiety|1|Anxiety
 sirens (mythology)|1|Sirens Mythology
 bunyan, john,. pilgrim's progress|1|Bunyan, John,. Pilgrim's Progress
@@ -692,11 +691,11 @@ idols|1|Idols
 giants (fictitious characters)|1|Giants Fictitious Characters
 bicycle racing|1|Bicycle Racing
 boutelle|1|Boutelle
-hendricks, thomas|1|Hendricks, Thomas
+sullivan, john l|1|Sullivan, John L
 tigers|1|Tigers
 croker, dick|1|Croker, Dick
 murphy|1|Murphy
-hancock|1|Hancock
+hendricks, thomas|1|Hendricks, Thomas
 hawaii|1|Hawaii
 dockery|1|Dockery
 medicine shows|1|Medicine Shows
@@ -713,12 +712,12 @@ night|1|Night
 obliviousness|1|Obliviousness
 pandora (greek mythology)|1|Pandora Greek Mythology
 mount pleasant (washington, d.c.)|1|Mount Pleasant Washington, D.c.
-foundlings|1|Foundlings
+hancock|1|Hancock
 morrill, justin s.|1|Morrill, Justin S.
 (justin smith)|1|Justin Smith
 thinking|1|Thinking
 aldrich, nelson|1|Aldrich, Nelson
-ox teams|1|Ox Teams
+foundlings|1|Foundlings
 mcpherson|1|Mcpherson
 fairies|1|Fairies
 beans|1|Beans
@@ -728,13 +727,13 @@ allen|1|Allen
 hill, d.|1|Hill, D.
 bayard|1|Bayard
 hill, d. b|1|Hill, D. B
-peacocks|1|Peacocks
+ox teams|1|Ox Teams
 strikes|1|Strikes
 harbors|1|Harbors
 peddlers|1|Peddlers
 signs|1|Signs
 auctions|1|Auctions
-ochiltree|1|Ochiltree
+peacocks|1|Peacocks
 crackers|1|Crackers
 bellows|1|Bellows
 st. john|1|St. John
@@ -747,7 +746,7 @@ blessing & cursing|1|Blessing & Cursing
 harlan, john marshall|1|Harlan, John Marshall
 white, edward douglass|1|White, Edward Douglass
 supreme court justices|1|Supreme Court Justices
-thompson|1|Thompson
+ochiltree|1|Ochiltree
 niobe|1|Niobe
 byron, george gordon byron, baron,. childe harold|1|Byron, George Gordon Byron, Baron,. Childe Harold
 dead persons|1|Dead Persons
@@ -760,8 +759,8 @@ dueling|1|Dueling
 et tu brute|1|Et Tu Brute
 journalism|1|Journalism
 arbor day|1|Arbor Day
+thompson|1|Thompson
 ball & chain|1|Ball & Chain
-yellow journalism|1|Yellow Journalism
 mayors|1|Mayors
 stewart, william|1|Stewart, William
 cannon, joseph gurney|1|Cannon, Joseph Gurney
@@ -785,17 +784,17 @@ furniture|1|Furniture
 belmont|1|Belmont
 rothschild|1|Rothschild
 (biblical figure)|1|Biblical Figure
-swearing|1|Swearing
+yellow journalism|1|Yellow Journalism
 horns|1|Horns
 sullivan, arthur, sir,. mikado|1|Sullivan, Arthur, Sir,. Mikado
 invitations|1|Invitations
 jonah|1|Jonah
-horr|1|Horr
+swearing|1|Swearing
 correspondence|1|Correspondence
 gifts|1|Gifts
 valentines|1|Valentines
 sea monsters|1|Sea Monsters
-locks (hardware)|1|Locks Hardware
+horr|1|Horr
 barbed wire|1|Barbed Wire
 winds|1|Winds
 jones, thomas|1|Jones, Thomas
@@ -810,8 +809,8 @@ daniel|1|Daniel
 smoke|1|Smoke
 boynton|1|Boynton
 albany (n.y.)|1|Albany N.y.
+locks (hardware)|1|Locks Hardware
 encyclopedias & dictionaries|1|Encyclopedias & Dictionaries
-drums|1|Drums
 keifer|1|Keifer
 nepotism|1|Nepotism
 hewitt, james carey|1|Hewitt, James Carey
@@ -824,13 +823,13 @@ tree limbs|1|Tree Limbs
 saws|1|Saws
 mountaineers|1|Mountaineers
 tillman|1|Tillman
+drums|1|Drums
 watson, t.|1|Watson, T.
-sewall, a.|1|Sewall, A.
 easter|1|Easter
 children playing outdoors|1|Children Playing Outdoors
 thurman|1|Thurman
 roach|1|Roach
-firecrackers|1|Firecrackers
+sewall, a.|1|Sewall, A.
 cullom, george washington|1|Cullom, George Washington
 cerberus (greek mythology)|1|Cerberus Greek Mythology
 horseback riding|1|Horseback Riding
@@ -956,11 +955,11 @@ homer|1|Homer
 competition (psychology)|1|Competition Psychology
 blind persons|1|Blind Persons
 harps|1|Harps
-banks|1|Banks
-pettigrew|1|Pettigrew
 sherman|1|Sherman
+pettigrew|1|Pettigrew
 stanton|1|Stanton
 seward, william|1|Seward, William
+johnson, andrew|1|Johnson, Andrew
 scylla & charybdis|1|Scylla & Charybdis
 fleur-de-lis|1|Fleur-de-lis
 monroe, james|1|Monroe, James
@@ -976,7 +975,7 @@ cleopatra|1|Cleopatra
 queen of egypt|1|Queen Of Egypt
 30 c.|1|30 C.
 30 c|1|30 C
-johnson, andrew|1|Johnson, Andrew
+storytelling|1|Storytelling
 mahany|1|Mahany
 lorimer|1|Lorimer
 belknap|1|Belknap
@@ -985,7 +984,7 @@ nicholas|1|Nicholas
 ii|1|Ii
 emperor of russia|1|Emperor Of Russia
 coronations|1|Coronations
-storytelling|1|Storytelling
+children cooking|1|Children Cooking
 presidential appointments|1|Presidential Appointments
 sullivan, arthur, sir,. patience|1|Sullivan, Arthur, Sir,. Patience
 kansas|1|Kansas
@@ -1016,7 +1015,7 @@ stagecoaches|1|Stagecoaches
 mantle|1|Mantle
 carter|1|Carter
 united states. supreme court|1|United States. Supreme Court
-children cooking|1|Children Cooking
+firecrackers|1|Firecrackers
 celestial bodies|1|Celestial Bodies
 riding|1|Riding
 platt, oliver|1|Platt, Oliver
@@ -1024,24 +1023,24 @@ levi|1|Levi
 prophets|1|Prophets
 property|1|Property
 marriage|1|Marriage
-watson, t|1|Watson, T
+heads|1|Heads
 fictitious characters|1|Fictitious Characters
 harvesting|1|Harvesting
-heads|1|Heads
 wwls|1|Wwls
-villages|1|Villages
 governmental investigations|1|Governmental Investigations
-sewall, a|1|Sewall, A
+villages|1|Villages
+watson, t|1|Watson, T
+la gascogne (ship)|1|La Gascogne Ship
 children eating & drinking|1|Children Eating & Drinking
 starvation|1|Starvation
-la gascogne (ship)|1|La Gascogne Ship
+sewall, a|1|Sewall, A
 railroad locomotives|1|Railroad Locomotives
 claret|1|Claret
-cows|1|Cows
+tramps|1|Tramps
 mountaineering|1|Mountaineering
 children & adults|1|Children & Adults
 escapes|1|Escapes
-tramps|1|Tramps
+stoves|1|Stoves
 steeples|1|Steeples
 lighthouses|1|Lighthouses
 ballooning accidents|1|Ballooning Accidents
@@ -1061,7 +1060,7 @@ africa|1|Africa
 explorers|1|Explorers
 teddy bears|1|Teddy Bears
 baskets|1|Baskets
-stoves|1|Stoves
+hoff|1|Hoff
 butcher shops|1|Butcher Shops
 cost & standard of living|1|Cost & Standard Of Living
 barnard, george grey|1|Barnard, George Grey
@@ -1085,11 +1084,11 @@ warriors|1|Warriors
 outer space|1|Outer Space
 earth|1|Earth
 lodge, henry cabot|1|Lodge, Henry Cabot
-hoff|1|Hoff
-hurd, frank|1|Hurd, Frank
-committee on foreign relations|1|Committee On Foreign Relations
+cows|1|Cows
 jones, wesley livsey|1|Jones, Wesley Livsey
-dumas, alexandre,. comte monte-cristo|1|Dumas, Alexandre,. Comte Monte-cristo
+committee on foreign relations|1|Committee On Foreign Relations
+hurd, frank|1|Hurd, Frank
+beringer|1|Beringer
 wilson, woodrow|1|Wilson, Woodrow
 schools|1|Schools
 students|1|Students
