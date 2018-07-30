@@ -62,4 +62,5 @@ function selectSubject(){
 
   drawGraph(currentData);
   updateSlideshow(currentData);
+  updateRelatedTopics(subject);
 }

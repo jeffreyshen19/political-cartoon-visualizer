@@ -55,7 +55,7 @@ subjects = subjects.map(function(subject){
         "occurences": subject.occurences[i]
       };
     }).filter(function(el){ //Filter out the related subjects that have too little occurences
-      return el.occurences > 1;
+      return el.occurences >= 5;
     }).sort(function(a, b){ //Sort in descending order
       return b.occurences - a.occurences;
     })

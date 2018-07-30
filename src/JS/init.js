@@ -13,10 +13,9 @@ $.get("./data/data-min.json", function(d){
   generateSubjectDropdown();
   drawGraph(currentData);
   updateSlideshow(currentData);
-
+  
   //Make sure graph sizes responsively
   $(window).on("resize", function(){
     drawGraph(currentData);
   });
-
 });
