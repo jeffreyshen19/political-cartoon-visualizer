@@ -16,9 +16,9 @@ function updateRelatedTopicsHelper(subject){
 
   d3.select("#related-topics").classed("hidden", false)
     .select("#related-topics-list")
-    .html(referenced_subjects.map(function(d){
+    .html(referenced_subjects.length > 0 ? referenced_subjects.map(function(d){
       return "<a href = '" + "" + "'>" + stylize(d.subject) + " (" + d.occurences + ")</a>";
-    }).join(", "));
+    }).join(", ") : "No related subjects");
 }
 
 //Updates the list of related topics
