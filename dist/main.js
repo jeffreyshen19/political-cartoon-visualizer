@@ -17,7 +17,7 @@ function updateRelatedTopicsHelper(subject){
   d3.select("#related-topics").classed("hidden", false)
     .select("#related-topics-list")
     .html(referenced_subjects.length > 0 ? referenced_subjects.map(function(d){
-      return "<a href = '" + "" + "'>" + stylize(d.subject) + " (" + d.occurences + ")</a>";
+      return "<a href = '#' onclick = 'updateDropdownValue(\"" + d.subject + "\");selectSubjectHelper(\"" + d.subject + "\")'>" + stylize(d.subject) + " (" + d.occurences + ")</a>";
     }).join(", ") : "No related subjects");
 }
 
@@ -27,7 +27,6 @@ function updateRelatedTopics(subject){
     d3.select("#related-topics").classed("hidden", true);
   }
   else{
-
     if(!frequencyData) $.get("./data/frequency-min.json", function(fd){
       frequencyData = fd;
       updateRelatedTopicsHelper(subject);
@@ -265,7 +264,10 @@ function generateSubjectDropdown(){
 function selectSubject(){
   var e = document.getElementById("select-subject");
   var subject = e.options[e.selectedIndex].value;
+  selectSubjectHelper(subject);
+}
 
+function selectSubjectHelper(subject){
   if(subject == "Everything"){
     currentData = originalData;
     d3.select("#slideshow-subject-name").html("All Images:");
@@ -285,4 +287,9 @@ function selectSubject(){
   drawGraph(currentData);
   updateSlideshow(currentData);
   updateRelatedTopics(subject);
+}
+
+//Updates what the dropdown says
+function updateDropdownValue(subject){
+  document.getElementById("select-subject").value = subject;
 }

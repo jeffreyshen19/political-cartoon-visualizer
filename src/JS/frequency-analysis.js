@@ -17,7 +17,7 @@ function updateRelatedTopicsHelper(subject){
   d3.select("#related-topics").classed("hidden", false)
     .select("#related-topics-list")
     .html(referenced_subjects.length > 0 ? referenced_subjects.map(function(d){
-      return "<a href = '" + "" + "'>" + stylize(d.subject) + " (" + d.occurences + ")</a>";
+      return "<a href = '#' onclick = 'updateDropdownValue(\"" + d.subject + "\");selectSubjectHelper(\"" + d.subject + "\")'>" + stylize(d.subject) + " (" + d.occurences + ")</a>";
     }).join(", ") : "No related subjects");
 }
 
@@ -27,7 +27,6 @@ function updateRelatedTopics(subject){
     d3.select("#related-topics").classed("hidden", true);
   }
   else{
-
     if(!frequencyData) $.get("./data/frequency-min.json", function(fd){
       frequencyData = fd;
       updateRelatedTopicsHelper(subject);

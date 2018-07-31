@@ -43,7 +43,10 @@ function generateSubjectDropdown(){
 function selectSubject(){
   var e = document.getElementById("select-subject");
   var subject = e.options[e.selectedIndex].value;
+  selectSubjectHelper(subject);
+}
 
+function selectSubjectHelper(subject){
   if(subject == "Everything"){
     currentData = originalData;
     d3.select("#slideshow-subject-name").html("All Images:");
@@ -63,4 +66,9 @@ function selectSubject(){
   drawGraph(currentData);
   updateSlideshow(currentData);
   updateRelatedTopics(subject);
+}
+
+//Updates what the dropdown says
+function updateDropdownValue(subject){
+  document.getElementById("select-subject").value = subject;
 }
