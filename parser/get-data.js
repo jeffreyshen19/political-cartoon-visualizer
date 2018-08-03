@@ -4,7 +4,8 @@
 */
 
 var request = require("request"),
-    fs = require("fs");
+    fs = require("fs")
+    blacklist = fs.readFileSync("../data/blacklisted-subjects.txt").toString().split("\n");
 
 request.get({
   url: "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false&fo=json&c=1000" //Request the entire list w/o pagination for simplicity
@@ -12,7 +13,7 @@ request.get({
   if(!err && res.statusCode == 200) {
     var years = [],
         cartoons = [];
-        
+
     //Get the raw results, clean them up (to save space), and organize by year
     JSON.parse(body).results.filter(function(cartoon){
       return +cartoon.date <= 1923; //Ensure it's in the public domain
@@ -46,6 +47,37 @@ request.get({
       };
     }).sort(function(a, b){
       return a.year - b.year;
+    });
+
+    years = years.map(function(year){
+      var subjects = [],
+          occurences = [];
+
+      year.cartoons.forEach(function(cartoon){
+        cartoon.subject.forEach(function(subject){
+          var i = subjects.indexOf(subject);
+          if(i == -1 && blacklist.indexOf(subject) == -1){
+            subjects.push(subject);
+            occurences.push(1);
+          }
+          else occurences[i]++;
+        });
+      });
+
+      subjects = subjects.map(function(subject, i){
+        return {
+          "subject": subject,
+          "occurences": occurences[i]
+        };
+      }).sort(function(a, b){
+        return b.occurences - a.occurences;
+      });
+
+      return {
+        "year": year.year,
+        "subjects": subjects,
+        "cartoons": year.cartoons
+      };
     });
 
     fs.writeFileSync("../data/data-min.json", JSON.stringify(years));

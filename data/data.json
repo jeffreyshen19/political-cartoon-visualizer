@@ -1,5 +1,1413 @@
 [{
   "year": "1880",
+  "subjects": [{
+    "subject": "cleveland, grover",
+    "occurences": 14
+  }, {
+    "subject": "uncle sam",
+    "occurences": 12
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 10
+  }, {
+    "subject": "caricatures",
+    "occurences": 9
+  }, {
+    "subject": "silver question",
+    "occurences": 8
+  }, {
+    "subject": "presidential elections",
+    "occurences": 8
+  }, {
+    "subject": "democratic party",
+    "occurences": 8
+  }, {
+    "subject": "washington, george",
+    "occurences": 8
+  }, {
+    "subject": "political elections",
+    "occurences": 8
+  }, {
+    "subject": "reform",
+    "occurences": 7
+  }, {
+    "subject": "republican party",
+    "occurences": 7
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 7
+  }, {
+    "subject": "great britain",
+    "occurences": 6
+  }, {
+    "subject": "legislators",
+    "occurences": 6
+  }, {
+    "subject": "(samuel jones)",
+    "occurences": 6
+  }, {
+    "subject": "carlisle, john griffin",
+    "occurences": 6
+  }, {
+    "subject": "tilden, samuel j.",
+    "occurences": 6
+  }, {
+    "subject": "randall, samuel jackson",
+    "occurences": 5
+  }, {
+    "subject": "holman, william steele",
+    "occurences": 5
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 5
+  }, {
+    "subject": "international relations",
+    "occurences": 5
+  }, {
+    "subject": "political patronage",
+    "occurences": 5
+  }, {
+    "subject": "blaine, james gillispie",
+    "occurences": 5
+  }, {
+    "subject": "tariffs",
+    "occurences": 4
+  }, {
+    "subject": "allusions",
+    "occurences": 4
+  }, {
+    "subject": "bryan, william jennings",
+    "occurences": 4
+  }, {
+    "subject": "mckinley, william",
+    "occurences": 4
+  }, {
+    "subject": "donkeys",
+    "occurences": 4
+  }, {
+    "subject": "prohibition",
+    "occurences": 3
+  }, {
+    "subject": "kings",
+    "occurences": 3
+  }, {
+    "subject": "potomac river",
+    "occurences": 3
+  }, {
+    "subject": "lions",
+    "occurences": 3
+  }, {
+    "subject": "press",
+    "occurences": 3
+  }, {
+    "subject": "morrison, william ralls",
+    "occurences": 3
+  }, {
+    "subject": "white house (washington, d.c.)",
+    "occurences": 3
+  }, {
+    "subject": "hill, david b",
+    "occurences": 3
+  }, {
+    "subject": "fighting",
+    "occurences": 3
+  }, {
+    "subject": "bull, john",
+    "occurences": 3
+  }, {
+    "subject": "water supply",
+    "occurences": 3
+  }, {
+    "subject": "business & finance",
+    "occurences": 3
+  }, {
+    "subject": "bland, richard parks",
+    "occurences": 3
+  }, {
+    "subject": "springer, william m.",
+    "occurences": 3
+  }, {
+    "subject": "springer, william m",
+    "occurences": 3
+  }, {
+    "subject": "populism",
+    "occurences": 3
+  }, {
+    "subject": "ludlow, william",
+    "occurences": 3
+  }, {
+    "subject": "currency question",
+    "occurences": 3
+  }, {
+    "subject": "butler",
+    "occurences": 3
+  }, {
+    "subject": "coins",
+    "occurences": 3
+  }, {
+    "subject": "sunflowers",
+    "occurences": 2
+  }, {
+    "subject": "civil service reform",
+    "occurences": 2
+  }, {
+    "subject": "ghosts",
+    "occurences": 2
+  }, {
+    "subject": "cabinet officers",
+    "occurences": 2
+  }, {
+    "subject": "moon",
+    "occurences": 2
+  }, {
+    "subject": "washington monument (washington, d.c.)",
+    "occurences": 2
+  }, {
+    "subject": "romans",
+    "occurences": 2
+  }, {
+    "subject": "beer",
+    "occurences": 2
+  }, {
+    "subject": "governors",
+    "occurences": 2
+  }, {
+    "subject": "iowa",
+    "occurences": 2
+  }, {
+    "subject": "biblical events",
+    "occurences": 2
+  }, {
+    "subject": "southern states",
+    "occurences": 2
+  }, {
+    "subject": "united states. dept. of treasury",
+    "occurences": 2
+  }, {
+    "subject": "campaigns & battles",
+    "occurences": 2
+  }, {
+    "subject": "barrels",
+    "occurences": 2
+  }, {
+    "subject": "government spending policy",
+    "occurences": 2
+  }, {
+    "subject": "butler, h. w.",
+    "occurences": 2
+  }, {
+    "subject": "mugwumps",
+    "occurences": 2
+  }, {
+    "subject": "butler, h. w",
+    "occurences": 2
+  }, {
+    "subject": "floods",
+    "occurences": 2
+  }, {
+    "subject": "alcoholic beverages",
+    "occurences": 2
+  }, {
+    "subject": "corruption",
+    "occurences": 2
+  }, {
+    "subject": "taxes",
+    "occurences": 2
+  }, {
+    "subject": "burdens",
+    "occurences": 2
+  }, {
+    "subject": "indians of north america",
+    "occurences": 2
+  }, {
+    "subject": "dancing",
+    "occurences": 2
+  }, {
+    "subject": "sculpture",
+    "occurences": 2
+  }, {
+    "subject": "cupid (roman deity)",
+    "occurences": 2
+  }, {
+    "subject": "presidents",
+    "occurences": 2
+  }, {
+    "subject": "logan",
+    "occurences": 2
+  }, {
+    "subject": "grant, ulysses s.",
+    "occurences": 2
+  }, {
+    "subject": "military officers",
+    "occurences": 2
+  }, {
+    "subject": "grant, ulysses s",
+    "occurences": 2
+  }, {
+    "subject": "campbell, james edwin",
+    "occurences": 2
+  }, {
+    "subject": "kicking",
+    "occurences": 2
+  }, {
+    "subject": "shakespeare, william. hamlet",
+    "occurences": 2
+  }, {
+    "subject": "forts & fortifications",
+    "occurences": 2
+  }, {
+    "subject": "women",
+    "occurences": 2
+  }, {
+    "subject": "boston (mass.)",
+    "occurences": 2
+  }, {
+    "subject": "boxing",
+    "occurences": 2
+  }, {
+    "subject": "political parties",
+    "occurences": 2
+  }, {
+    "subject": "kilgore, buck",
+    "occurences": 2
+  }, {
+    "subject": "war",
+    "occurences": 2
+  }, {
+    "subject": "pianos",
+    "occurences": 2
+  }, {
+    "subject": "launchings",
+    "occurences": 2
+  }, {
+    "subject": "cox, samuel sullivan",
+    "occurences": 2
+  }, {
+    "subject": "keifer, joseph warren",
+    "occurences": 2
+  }, {
+    "subject": "walking the plank",
+    "occurences": 2
+  }, {
+    "subject": "blackburn",
+    "occurences": 2
+  }, {
+    "subject": "wheatley, samuel edwin",
+    "occurences": 2
+  }, {
+    "subject": "webb, william benning",
+    "occurences": 2
+  }, {
+    "subject": "bondage",
+    "occurences": 2
+  }, {
+    "subject": "searching",
+    "occurences": 2
+  }, {
+    "subject": "cattle",
+    "occurences": 2
+  }, {
+    "subject": "eagles",
+    "occurences": 2
+  }, {
+    "subject": "fishing",
+    "occurences": 2
+  }, {
+    "subject": "singing",
+    "occurences": 2
+  }, {
+    "subject": "sibley",
+    "occurences": 2
+  }, {
+    "subject": "presidents & the congress",
+    "occurences": 2
+  }, {
+    "subject": "horse racing",
+    "occurences": 2
+  }, {
+    "subject": "sunrises & sunsets",
+    "occurences": 2
+  }, {
+    "subject": "fourth of july",
+    "occurences": 2
+  }, {
+    "subject": "law enforcement",
+    "occurences": 2
+  }, {
+    "subject": "horses",
+    "occurences": 2
+  }, {
+    "subject": "pails",
+    "occurences": 2
+  }, {
+    "subject": "running",
+    "occurences": 2
+  }, {
+    "subject": "navies",
+    "occurences": 2
+  }, {
+    "subject": "peffer, william alfred",
+    "occurences": 2
+  }, {
+    "subject": "accidents",
+    "occurences": 2
+  }, {
+    "subject": "belford",
+    "occurences": 1
+  }, {
+    "subject": "cox, james m.",
+    "occurences": 1
+  }, {
+    "subject": "couples",
+    "occurences": 1
+  }, {
+    "subject": "watterson, h.",
+    "occurences": 1
+  }, {
+    "subject": "hurd, frank",
+    "occurences": 1
+  }, {
+    "subject": "robinson, r",
+    "occurences": 1
+  }, {
+    "subject": "jones, g.",
+    "occurences": 1
+  }, {
+    "subject": "sullivan, john l.",
+    "occurences": 1
+  }, {
+    "subject": "watterson, h",
+    "occurences": 1
+  }, {
+    "subject": "jones, g",
+    "occurences": 1
+  }, {
+    "subject": "beaches",
+    "occurences": 1
+  }, {
+    "subject": "men",
+    "occurences": 1
+  }, {
+    "subject": "soldiers",
+    "occurences": 1
+  }, {
+    "subject": "defense budgets",
+    "occurences": 1
+  }, {
+    "subject": "plays",
+    "occurences": 1
+  }, {
+    "subject": "coney island (new york, n.y.)",
+    "occurences": 1
+  }, {
+    "subject": "food",
+    "occurences": 1
+  }, {
+    "subject": "weather",
+    "occurences": 1
+  }, {
+    "subject": "white, j. b",
+    "occurences": 1
+  }, {
+    "subject": "herons",
+    "occurences": 1
+  }, {
+    "subject": "bottles",
+    "occurences": 1
+  }, {
+    "subject": "cemeteries",
+    "occurences": 1
+  }, {
+    "subject": "philadelphia (pa.)",
+    "occurences": 1
+  }, {
+    "subject": "wetlands",
+    "occurences": 1
+  }, {
+    "subject": "warehouses",
+    "occurences": 1
+  }, {
+    "subject": "books",
+    "occurences": 1
+  }, {
+    "subject": "drinking vessels",
+    "occurences": 1
+  }, {
+    "subject": "boies, horace",
+    "occurences": 1
+  }, {
+    "subject": "bribery",
+    "occurences": 1
+  }, {
+    "subject": "sullivan, john l",
+    "occurences": 1
+  }, {
+    "subject": "new hampshire",
+    "occurences": 1
+  }, {
+    "subject": "bags",
+    "occurences": 1
+  }, {
+    "subject": "(james middleton)",
+    "occurences": 1
+  }, {
+    "subject": "chandler, william e.",
+    "occurences": 1
+  }, {
+    "subject": "blair",
+    "occurences": 1
+  }, {
+    "subject": "fools & jesters",
+    "occurences": 1
+  }, {
+    "subject": "education",
+    "occurences": 1
+  }, {
+    "subject": "assistance",
+    "occurences": 1
+  }, {
+    "subject": "chandler, william e",
+    "occurences": 1
+  }, {
+    "subject": "ball & chain",
+    "occurences": 1
+  }, {
+    "subject": "stairways",
+    "occurences": 1
+  }, {
+    "subject": "drums",
+    "occurences": 1
+  }, {
+    "subject": "naval warfare",
+    "occurences": 1
+  }, {
+    "subject": "new york (state)",
+    "occurences": 1
+  }, {
+    "subject": "armies",
+    "occurences": 1
+  }, {
+    "subject": "swift, jonathan,. gulliver's travels",
+    "occurences": 1
+  }, {
+    "subject": "turtles",
+    "occurences": 1
+  }, {
+    "subject": "public opinion",
+    "occurences": 1
+  }, {
+    "subject": "arrows",
+    "occurences": 1
+  }, {
+    "subject": "ballet",
+    "occurences": 1
+  }, {
+    "subject": "ink drawings",
+    "occurences": 1
+  }, {
+    "subject": "curtis, g. william",
+    "occurences": 1
+  }, {
+    "subject": "jones, george",
+    "occurences": 1
+  }, {
+    "subject": "schurtz, c.",
+    "occurences": 1
+  }, {
+    "subject": "progressivism",
+    "occurences": 1
+  }, {
+    "subject": "firecrackers",
+    "occurences": 1
+  }, {
+    "subject": "meat industry",
+    "occurences": 1
+  }, {
+    "subject": "schurtz, c",
+    "occurences": 1
+  }, {
+    "subject": "inflation",
+    "occurences": 1
+  }, {
+    "subject": "cows",
+    "occurences": 1
+  }, {
+    "subject": "noah's ark",
+    "occurences": 1
+  }, {
+    "subject": "waterspouts",
+    "occurences": 1
+  }, {
+    "subject": "political platforms",
+    "occurences": 1
+  }, {
+    "subject": "jesus christ",
+    "occurences": 1
+  }, {
+    "subject": "hendricks, thomas",
+    "occurences": 1
+  }, {
+    "subject": "hancock",
+    "occurences": 1
+  }, {
+    "subject": "united states. dept. of agriculture",
+    "occurences": 1
+  }, {
+    "subject": "ox teams",
+    "occurences": 1
+  }, {
+    "subject": "nursery rhymes",
+    "occurences": 1
+  }, {
+    "subject": "peacocks",
+    "occurences": 1
+  }, {
+    "subject": "resolutions",
+    "occurences": 1
+  }, {
+    "subject": "veterans",
+    "occurences": 1
+  }, {
+    "subject": "yellow journalism",
+    "occurences": 1
+  }, {
+    "subject": "invitations",
+    "occurences": 1
+  }, {
+    "subject": "robinson, r.",
+    "occurences": 1
+  }, {
+    "subject": "valentines",
+    "occurences": 1
+  }, {
+    "subject": "dogs",
+    "occurences": 1
+  }, {
+    "subject": "animal behavior",
+    "occurences": 1
+  }, {
+    "subject": "watson, t.",
+    "occurences": 1
+  }, {
+    "subject": "keifer",
+    "occurences": 1
+  }, {
+    "subject": "nepotism",
+    "occurences": 1
+  }, {
+    "subject": "hewitt, james carey",
+    "occurences": 1
+  }, {
+    "subject": "hate mail",
+    "occurences": 1
+  }, {
+    "subject": "sewall, a.",
+    "occurences": 1
+  }, {
+    "subject": "watson, t",
+    "occurences": 1
+  }, {
+    "subject": "richelieu, armand jean du plessis, duc de",
+    "occurences": 1
+  }, {
+    "subject": "monkeys",
+    "occurences": 1
+  }, {
+    "subject": "penstocks",
+    "occurences": 1
+  }, {
+    "subject": "simons",
+    "occurences": 1
+  }, {
+    "subject": "waterworks",
+    "occurences": 1
+  }, {
+    "subject": "satires",
+    "occurences": 1
+  }, {
+    "subject": "seals (animals)",
+    "occurences": 1
+  }, {
+    "subject": "public speaking",
+    "occurences": 1
+  }, {
+    "subject": "sewall, a",
+    "occurences": 1
+  }, {
+    "subject": "hanna, marcus alonzo",
+    "occurences": 1
+  }, {
+    "subject": "dumas, alexandre,. comte monte-cristo",
+    "occurences": 1
+  }, {
+    "subject": "animal welfare",
+    "occurences": 1
+  }, {
+    "subject": "losers",
+    "occurences": 1
+  }, {
+    "subject": "advertisements",
+    "occurences": 1
+  }, {
+    "subject": "employment",
+    "occurences": 1
+  }, {
+    "subject": "bering sea",
+    "occurences": 1
+  }, {
+    "subject": "ochiltree",
+    "occurences": 1
+  }, {
+    "subject": "ballads",
+    "occurences": 1
+  }, {
+    "subject": "courtship & love",
+    "occurences": 1
+  }, {
+    "subject": "widows",
+    "occurences": 1
+  }, {
+    "subject": "butler, benjamin franklin",
+    "occurences": 1
+  }, {
+    "subject": "chinese",
+    "occurences": 1
+  }, {
+    "subject": "bees",
+    "occurences": 1
+  }, {
+    "subject": "deportations",
+    "occurences": 1
+  }, {
+    "subject": "bailey",
+    "occurences": 1
+  }, {
+    "subject": "roller skating",
+    "occurences": 1
+  }, {
+    "subject": "geary exclusion act",
+    "occurences": 1
+  }, {
+    "subject": "li, hung-chang",
+    "occurences": 1
+  }, {
+    "subject": "horr",
+    "occurences": 1
+  }, {
+    "subject": "spring",
+    "occurences": 1
+  }, {
+    "subject": "judges",
+    "occurences": 1
+  }, {
+    "subject": "st. paul (ship)",
+    "occurences": 1
+  }, {
+    "subject": "lasker, eduard",
+    "occurences": 1
+  }, {
+    "subject": "intoxication",
+    "occurences": 1
+  }, {
+    "subject": "china",
+    "occurences": 1
+  }, {
+    "subject": "baseball",
+    "occurences": 1
+  }, {
+    "subject": "rain",
+    "occurences": 1
+  }, {
+    "subject": "goats",
+    "occurences": 1
+  }, {
+    "subject": "history",
+    "occurences": 1
+  }, {
+    "subject": "wheeler, wayne bidwell",
+    "occurences": 1
+  }, {
+    "subject": "water pumps",
+    "occurences": 1
+  }, {
+    "subject": "war of 1898",
+    "occurences": 1
+  }, {
+    "subject": "roosevelt, theodore",
+    "occurences": 1
+  }, {
+    "subject": "cuba",
+    "occurences": 1
+  }, {
+    "subject": "symbols",
+    "occurences": 1
+  }, {
+    "subject": "seas",
+    "occurences": 1
+  }, {
+    "subject": "dreaming",
+    "occurences": 1
+  }, {
+    "subject": "fireworks",
+    "occurences": 1
+  }, {
+    "subject": "winter",
+    "occurences": 1
+  }, {
+    "subject": "weyler, general",
+    "occurences": 1
+  }, {
+    "subject": "spain",
+    "occurences": 1
+  }, {
+    "subject": "germany",
+    "occurences": 1
+  }, {
+    "subject": "municipal officials",
+    "occurences": 1
+  }, {
+    "subject": "ireland",
+    "occurences": 1
+  }, {
+    "subject": "government buildings",
+    "occurences": 1
+  }, {
+    "subject": "hotels & taverns",
+    "occurences": 1
+  }, {
+    "subject": "whitney",
+    "occurences": 1
+  }, {
+    "subject": "bayard, thomas",
+    "occurences": 1
+  }, {
+    "subject": "depressions",
+    "occurences": 1
+  }, {
+    "subject": "diplomatic protests",
+    "occurences": 1
+  }, {
+    "subject": "farms",
+    "occurences": 1
+  }, {
+    "subject": "chasing",
+    "occurences": 1
+  }, {
+    "subject": "dynamite",
+    "occurences": 1
+  }, {
+    "subject": "bergh",
+    "occurences": 1
+  }, {
+    "subject": "earthquakes",
+    "occurences": 1
+  }, {
+    "subject": "dead animals",
+    "occurences": 1
+  }, {
+    "subject": "deer",
+    "occurences": 1
+  }, {
+    "subject": "dodos",
+    "occurences": 1
+  }, {
+    "subject": "emperors",
+    "occurences": 1
+  }, {
+    "subject": "wagner, richard,. tannhauser",
+    "occurences": 1
+  }, {
+    "subject": "laundry",
+    "occurences": 1
+  }, {
+    "subject": "contests",
+    "occurences": 1
+  }, {
+    "subject": "lamont, daniel scott",
+    "occurences": 1
+  }, {
+    "subject": "mutinies",
+    "occurences": 1
+  }, {
+    "subject": "altgeld",
+    "occurences": 1
+  }, {
+    "subject": "voorhees",
+    "occurences": 1
+  }, {
+    "subject": "bryan",
+    "occurences": 1
+  }, {
+    "subject": "vest",
+    "occurences": 1
+  }, {
+    "subject": "foundlings",
+    "occurences": 1
+  }, {
+    "subject": "olney",
+    "occurences": 1
+  }, {
+    "subject": "wilson",
+    "occurences": 1
+  }, {
+    "subject": "carlisle",
+    "occurences": 1
+  }, {
+    "subject": "morton",
+    "occurences": 1
+  }, {
+    "subject": "doors & doorways",
+    "occurences": 1
+  }, {
+    "subject": "railroad accidents",
+    "occurences": 1
+  }, {
+    "subject": "big business",
+    "occurences": 1
+  }, {
+    "subject": "riel, louis",
+    "occurences": 1
+  }, {
+    "subject": "democracy",
+    "occurences": 1
+  }, {
+    "subject": "wolseley",
+    "occurences": 1
+  }, {
+    "subject": "afghanistan",
+    "occurences": 1
+  }, {
+    "subject": "soviet union",
+    "occurences": 1
+  }, {
+    "subject": "thompson",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william c.",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william c",
+    "occurences": 1
+  }, {
+    "subject": "richard",
+    "occurences": 1
+  }, {
+    "subject": "iii",
+    "occurences": 1
+  }, {
+    "subject": "king of england",
+    "occurences": 1
+  }, {
+    "subject": "gresham, walter quintin",
+    "occurences": 1
+  }, {
+    "subject": "war casualties",
+    "occurences": 1
+  }, {
+    "subject": "woodcutting",
+    "occurences": 1
+  }, {
+    "subject": "covered wagons",
+    "occurences": 1
+  }, {
+    "subject": "holam",
+    "occurences": 1
+  }, {
+    "subject": "weller",
+    "occurences": 1
+  }, {
+    "subject": "kelly",
+    "occurences": 1
+  }, {
+    "subject": "swearing",
+    "occurences": 1
+  }, {
+    "subject": "rowboats",
+    "occurences": 1
+  }, {
+    "subject": "ship of state",
+    "occurences": 1
+  }, {
+    "subject": "executive power",
+    "occurences": 1
+  }, {
+    "subject": "washington post",
+    "occurences": 1
+  }, {
+    "subject": "fear",
+    "occurences": 1
+  }, {
+    "subject": "standard oil company",
+    "occurences": 1
+  }, {
+    "subject": "monopolies",
+    "occurences": 1
+  }, {
+    "subject": "bunyan, john,. pilgrim's progress",
+    "occurences": 1
+  }, {
+    "subject": "farm relief",
+    "occurences": 1
+  }, {
+    "subject": "giants (fictitious characters)",
+    "occurences": 1
+  }, {
+    "subject": "bicycle racing",
+    "occurences": 1
+  }, {
+    "subject": "bimetallism",
+    "occurences": 1
+  }, {
+    "subject": "reed, thomas",
+    "occurences": 1
+  }, {
+    "subject": "parliamentary practice",
+    "occurences": 1
+  }, {
+    "subject": "fassett",
+    "occurences": 1
+  }, {
+    "subject": "tammany tiger",
+    "occurences": 1
+  }, {
+    "subject": "beans",
+    "occurences": 1
+  }, {
+    "subject": "containers",
+    "occurences": 1
+  }, {
+    "subject": "allen",
+    "occurences": 1
+  }, {
+    "subject": "russell",
+    "occurences": 1
+  }, {
+    "subject": "shakespeare, william. julius caesar",
+    "occurences": 1
+  }, {
+    "subject": "blessing & cursing",
+    "occurences": 1
+  }, {
+    "subject": "death",
+    "occurences": 1
+  }, {
+    "subject": "dueling",
+    "occurences": 1
+  }, {
+    "subject": "et tu brute",
+    "occurences": 1
+  }, {
+    "subject": "journalism",
+    "occurences": 1
+  }, {
+    "subject": "ethics",
+    "occurences": 1
+  }, {
+    "subject": "fantasy",
+    "occurences": 1
+  }, {
+    "subject": "central park (new york, n.y.)",
+    "occurences": 1
+  }, {
+    "subject": "zoos",
+    "occurences": 1
+  }, {
+    "subject": "tourist trade",
+    "occurences": 1
+  }, {
+    "subject": "joshua",
+    "occurences": 1
+  }, {
+    "subject": "(biblical figure)",
+    "occurences": 1
+  }, {
+    "subject": "walls",
+    "occurences": 1
+  }, {
+    "subject": "horns",
+    "occurences": 1
+  }, {
+    "subject": "sullivan, arthur, sir,. mikado",
+    "occurences": 1
+  }, {
+    "subject": "bells",
+    "occurences": 1
+  }, {
+    "subject": "churches",
+    "occurences": 1
+  }, {
+    "subject": "clippings",
+    "occurences": 1
+  }, {
+    "subject": "sibley, joseph",
+    "occurences": 1
+  }, {
+    "subject": "boynton",
+    "occurences": 1
+  }, {
+    "subject": "locks (hardware)",
+    "occurences": 1
+  }, {
+    "subject": "dana, charles a.",
+    "occurences": 1
+  }, {
+    "subject": "(charles anderson)",
+    "occurences": 1
+  }, {
+    "subject": "ladders",
+    "occurences": 1
+  }, {
+    "subject": "camels",
+    "occurences": 1
+  }, {
+    "subject": "encyclopedias & dictionaries",
+    "occurences": 1
+  }, {
+    "subject": "ohio",
+    "occurences": 1
+  }, {
+    "subject": "brice, calvin stewart",
+    "occurences": 1
+  }, {
+    "subject": "thurman",
+    "occurences": 1
+  }, {
+    "subject": "roach",
+    "occurences": 1
+  }, {
+    "subject": "white, j.",
+    "occurences": 1
+  }, {
+    "subject": "cerberus (greek mythology)",
+    "occurences": 1
+  }, {
+    "subject": "monsters",
+    "occurences": 1
+  }, {
+    "subject": "united states. civil service commission",
+    "occurences": 1
+  }, {
+    "subject": "gregory",
+    "occurences": 1
+  }, {
+    "subject": "eaton",
+    "occurences": 1
+  }, {
+    "subject": "thoman",
+    "occurences": 1
+  }, {
+    "subject": "hercules (roman mythology)",
+    "occurences": 1
+  }, {
+    "subject": "depew, chauncey m.",
+    "occurences": 1
+  }, {
+    "subject": "(chauncey mitchell)",
+    "occurences": 1
+  }, {
+    "subject": "magic",
+    "occurences": 1
+  }, {
+    "subject": "jinns",
+    "occurences": 1
+  }, {
+    "subject": "mulhatton, joe",
+    "occurences": 1
+  }, {
+    "subject": "dalzell",
+    "occurences": 1
+  }, {
+    "subject": "sherman",
+    "occurences": 1
+  }, {
+    "subject": "stanton",
+    "occurences": 1
+  }, {
+    "subject": "seward, william",
+    "occurences": 1
+  }, {
+    "subject": "johnson, andrew",
+    "occurences": 1
+  }, {
+    "subject": "storytelling",
+    "occurences": 1
+  }, {
+    "subject": "children cooking",
+    "occurences": 1
+  }, {
+    "subject": "fireplaces",
+    "occurences": 1
+  }, {
+    "subject": "heads",
+    "occurences": 1
+  }, {
+    "subject": "wwls",
+    "occurences": 1
+  }, {
+    "subject": "governmental investigations",
+    "occurences": 1
+  }, {
+    "subject": "ships",
+    "occurences": 1
+  }, {
+    "subject": "la gascogne (ship)",
+    "occurences": 1
+  }, {
+    "subject": "france",
+    "occurences": 1
+  }, {
+    "subject": "tramps",
+    "occurences": 1
+  }, {
+    "subject": "stoves",
+    "occurences": 1
+  }, {
+    "subject": "hoff",
+    "occurences": 1
+  }, {
+    "subject": "avarice",
+    "occurences": 1
+  }, {
+    "subject": "jones, wesley livsey",
+    "occurences": 1
+  }, {
+    "subject": "shipping",
+    "occurences": 1
+  }, {
+    "subject": "beringer",
+    "occurences": 1
+  }, {
+    "subject": "finerty",
+    "occurences": 1
+  }, {
+    "subject": "beards",
+    "occurences": 1
+  }, {
+    "subject": "samson (biblical judge)",
+    "occurences": 1
+  }, {
+    "subject": "body builders",
+    "occurences": 1
+  }, {
+    "subject": "cummings, homer s.",
+    "occurences": 1
+  }, {
+    "subject": "(homer stille)",
+    "occurences": 1
+  }, {
+    "subject": "sulzer, william",
+    "occurences": 1
+  }, {
+    "subject": "farewells",
+    "occurences": 1
+  }, {
+    "subject": "cockran, william bourke",
+    "occurences": 1
+  }, {
+    "subject": "tammany hall",
+    "occurences": 1
+  }, {
+    "subject": "croker, richard",
+    "occurences": 1
+  }, {
+    "subject": "sickles",
+    "occurences": 1
+  }, {
+    "subject": "tenure of office",
+    "occurences": 1
+  }, {
+    "subject": "sinbad the sailor",
+    "occurences": 1
+  }, {
+    "subject": "piracy",
+    "occurences": 1
+  }, {
+    "subject": "national defense",
+    "occurences": 1
+  }, {
+    "subject": "horse railroads",
+    "occurences": 1
+  }, {
+    "subject": "clark, champ",
+    "occurences": 1
+  }, {
+    "subject": "johnson, hiram",
+    "occurences": 1
+  }, {
+    "subject": "westward movement",
+    "occurences": 1
+  }, {
+    "subject": "continental divide",
+    "occurences": 1
+  }, {
+    "subject": "dolph",
+    "occurences": 1
+  }, {
+    "subject": "simpson",
+    "occurences": 1
+  }, {
+    "subject": "johnson, tom",
+    "occurences": 1
+  }, {
+    "subject": "fithian",
+    "occurences": 1
+  }, {
+    "subject": "bynun",
+    "occurences": 1
+  }, {
+    "subject": "trolley",
+    "occurences": 1
+  }, {
+    "subject": "hatch",
+    "occurences": 1
+  }, {
+    "subject": "economic policy",
+    "occurences": 1
+  }, {
+    "subject": "gorman, arthur p.",
+    "occurences": 1
+  }, {
+    "subject": "(arthur pue)",
+    "occurences": 1
+  }, {
+    "subject": "baltimore sun",
+    "occurences": 1
+  }, {
+    "subject": "newspapers",
+    "occurences": 1
+  }, {
+    "subject": "sun",
+    "occurences": 1
+  }, {
+    "subject": "crying",
+    "occurences": 1
+  }, {
+    "subject": "eclipses",
+    "occurences": 1
+  }, {
+    "subject": "duck shooting",
+    "occurences": 1
+  }, {
+    "subject": "lilies",
+    "occurences": 1
+  }, {
+    "subject": "hiding",
+    "occurences": 1
+  }, {
+    "subject": "democratic party (u.s.)",
+    "occurences": 1
+  }, {
+    "subject": "shipwrecks",
+    "occurences": 1
+  }, {
+    "subject": "scylla and charybdis (greek mythology)",
+    "occurences": 1
+  }, {
+    "subject": "carriages & coaches",
+    "occurences": 1
+  }, {
+    "subject": "credit",
+    "occurences": 1
+  }, {
+    "subject": "bonds",
+    "occurences": 1
+  }, {
+    "subject": "political discussion",
+    "occurences": 1
+  }, {
+    "subject": "reed, thomas beckett",
+    "occurences": 1
+  }, {
+    "subject": "evarts, william maxwell",
+    "occurences": 1
+  }, {
+    "subject": "aerialists",
+    "occurences": 1
+  }, {
+    "subject": "wheelbarrows",
+    "occurences": 1
+  }, {
+    "subject": "dissenters",
+    "occurences": 1
+  }, {
+    "subject": "daredevils",
+    "occurences": 1
+  }, {
+    "subject": "waterfalls",
+    "occurences": 1
+  }, {
+    "subject": "niagara falls (n.y. and ont.)",
+    "occurences": 1
+  }, {
+    "subject": "speeches",
+    "occurences": 1
+  }, {
+    "subject": "dubois, frederick t.",
+    "occurences": 1
+  }, {
+    "subject": "(frederick thomas)",
+    "occurences": 1
+  }, {
+    "subject": "teller, henry moore",
+    "occurences": 1
+  }, {
+    "subject": "assassinations",
+    "occurences": 1
+  }, {
+    "subject": "mantle, lee",
+    "occurences": 1
+  }, {
+    "subject": "carter, thomas henry",
+    "occurences": 1
+  }, {
+    "subject": "color",
+    "occurences": 1
+  }, {
+    "subject": "wisdom",
+    "occurences": 1
+  }, {
+    "subject": "united states. dept. of justice",
+    "occurences": 1
+  }, {
+    "subject": "foraker, joseph benson",
+    "occurences": 1
+  }, {
+    "subject": "allison, william",
+    "occurences": 1
+  }, {
+    "subject": "(william boyd)",
+    "occurences": 1
+  }, {
+    "subject": "circuses & shows",
+    "occurences": 1
+  }, {
+    "subject": "competition (social sciences)",
+    "occurences": 1
+  }, {
+    "subject": "dolliver",
+    "occurences": 1
+  }, {
+    "subject": "elephants",
+    "occurences": 1
+  }, {
+    "subject": "arthur, chester alan",
+    "occurences": 1
+  }, {
+    "subject": "payne",
+    "occurences": 1
+  }, {
+    "subject": "edmunds",
+    "occurences": 1
+  }, {
+    "subject": "lincoln",
+    "occurences": 1
+  }, {
+    "subject": "sherman, william t.",
+    "occurences": 1
+  }, {
+    "subject": "sherman, william t",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 9,
     "subject": ["jesus christ", "lasker, eduard", "biblical events", "legislative bodies", "romans", "resolutions", "cartoons (commentary)", "american", "drawings"],
@@ -779,6 +2187,37 @@
   }]
 }, {
   "year": "1881",
+  "subjects": [{
+    "subject": "washington, george",
+    "occurences": 2
+  }, {
+    "subject": "arthur, chester alan",
+    "occurences": 1
+  }, {
+    "subject": "military parades & ceremonies",
+    "occurences": 1
+  }, {
+    "subject": "presidents",
+    "occurences": 1
+  }, {
+    "subject": "carlisle, john griffin",
+    "occurences": 1
+  }, {
+    "subject": "pies",
+    "occurences": 1
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 1
+  }, {
+    "subject": "competition (social sciences)",
+    "occurences": 1
+  }, {
+    "subject": "randall, samuel jackson",
+    "occurences": 1
+  }, {
+    "subject": "cox, samuel sullivan",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 327,
     "subject": ["arthur, chester alan", "military parades & ceremonies", "america", "washington, george", "presidents", "cartoons (commentary)", "american", "drawings"],
@@ -798,6 +2237,49 @@
   }]
 }, {
   "year": "1883",
+  "subjects": [{
+    "subject": "childs",
+    "occurences": 1
+  }, {
+    "subject": "blaine, james gillispie",
+    "occurences": 1
+  }, {
+    "subject": "(chauncey mitchell)",
+    "occurences": 1
+  }, {
+    "subject": "romans",
+    "occurences": 1
+  }, {
+    "subject": "crowns",
+    "occurences": 1
+  }, {
+    "subject": "presidents",
+    "occurences": 1
+  }, {
+    "subject": "shakespeare, william. julius caesar",
+    "occurences": 1
+  }, {
+    "subject": "depew, chauncey m.",
+    "occurences": 1
+  }, {
+    "subject": "sheridan, philip",
+    "occurences": 1
+  }, {
+    "subject": "conkling, roscoe",
+    "occurences": 1
+  }, {
+    "subject": "republican party",
+    "occurences": 1
+  }, {
+    "subject": "plays",
+    "occurences": 1
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 1
+  }, {
+    "subject": "paperwork",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 544,
     "subject": ["blaine, james gillispie", "depew, chauncey m.", "(chauncey mitchell)", "romans", "crowns", "presidents", "shakespeare, william. julius caesar", "childs", "sheridan, philip", "conkling, roscoe", "republican party", "plays", "cartoons (commentary)", "american", "drawings"],
@@ -817,6 +2299,232 @@
   }]
 }, {
   "year": "1884",
+  "subjects": [{
+    "subject": "presidential elections",
+    "occurences": 6
+  }, {
+    "subject": "washington, george",
+    "occurences": 5
+  }, {
+    "subject": "uncle sam",
+    "occurences": 5
+  }, {
+    "subject": "blaine, james gillispie",
+    "occurences": 4
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 4
+  }, {
+    "subject": "holman, william steele",
+    "occurences": 2
+  }, {
+    "subject": "statuary hall",
+    "occurences": 1
+  }, {
+    "subject": "republican party",
+    "occurences": 1
+  }, {
+    "subject": "government officials",
+    "occurences": 1
+  }, {
+    "subject": "agesander. laocoon group",
+    "occurences": 1
+  }, {
+    "subject": "kelly, j.",
+    "occurences": 1
+  }, {
+    "subject": "kelly, j",
+    "occurences": 1
+  }, {
+    "subject": "bicycles & tricycles",
+    "occurences": 1
+  }, {
+    "subject": "coins",
+    "occurences": 1
+  }, {
+    "subject": "woodcutting",
+    "occurences": 1
+  }, {
+    "subject": "reform",
+    "occurences": 1
+  }, {
+    "subject": "economic policy",
+    "occurences": 1
+  }, {
+    "subject": "carlisle, john griffin",
+    "occurences": 1
+  }, {
+    "subject": "blind man's bluff",
+    "occurences": 1
+  }, {
+    "subject": "democracy",
+    "occurences": 1
+  }, {
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "bayard, thomas",
+    "occurences": 1
+  }, {
+    "subject": "mcdonald",
+    "occurences": 1
+  }, {
+    "subject": "hendricks",
+    "occurences": 1
+  }, {
+    "subject": "butler, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "randall, samuel jackson",
+    "occurences": 1
+  }, {
+    "subject": "dana, charles a.",
+    "occurences": 1
+  }, {
+    "subject": "(charles anderson)",
+    "occurences": 1
+  }, {
+    "subject": "hill, david b",
+    "occurences": 1
+  }, {
+    "subject": "blaming",
+    "occurences": 1
+  }, {
+    "subject": "resolutions",
+    "occurences": 1
+  }, {
+    "subject": "disaster relief",
+    "occurences": 1
+  }, {
+    "subject": "floods",
+    "occurences": 1
+  }, {
+    "subject": "ohio",
+    "occurences": 1
+  }, {
+    "subject": "clippings",
+    "occurences": 1
+  }, {
+    "subject": "lincoln, abraham",
+    "occurences": 1
+  }, {
+    "subject": "allusions",
+    "occurences": 1
+  }, {
+    "subject": "united states capitol (washington, d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "thrones",
+    "occurences": 1
+  }, {
+    "subject": "winners",
+    "occurences": 1
+  }, {
+    "subject": "presidents",
+    "occurences": 1
+  }, {
+    "subject": "anniversaries",
+    "occurences": 1
+  }, {
+    "subject": "ghosts",
+    "occurences": 1
+  }, {
+    "subject": "garfield, james a.",
+    "occurences": 1
+  }, {
+    "subject": "garfield, james a",
+    "occurences": 1
+  }, {
+    "subject": "fishing",
+    "occurences": 1
+  }, {
+    "subject": "chicago (ill.)",
+    "occurences": 1
+  }, {
+    "subject": "tilden, samuel j.",
+    "occurences": 1
+  }, {
+    "subject": "(samuel jones)",
+    "occurences": 1
+  }, {
+    "subject": "carriages & coaches",
+    "occurences": 1
+  }, {
+    "subject": "payne, h.",
+    "occurences": 1
+  }, {
+    "subject": "sherman, william t.",
+    "occurences": 1
+  }, {
+    "subject": "passengers",
+    "occurences": 1
+  }, {
+    "subject": "payne, h. b",
+    "occurences": 1
+  }, {
+    "subject": "arthur, chester alan",
+    "occurences": 1
+  }, {
+    "subject": "malory, thomas, sir, 15th cent. morte d'arthur",
+    "occurences": 1
+  }, {
+    "subject": "daggers & swords",
+    "occurences": 1
+  }, {
+    "subject": "logan",
+    "occurences": 1
+  }, {
+    "subject": "edmunds, anthony",
+    "occurences": 1
+  }, {
+    "subject": "biblical events",
+    "occurences": 1
+  }, {
+    "subject": "couples",
+    "occurences": 1
+  }, {
+    "subject": "st. anthony",
+    "occurences": 1
+  }, {
+    "subject": "victory",
+    "occurences": 1
+  }, {
+    "subject": "bull, john",
+    "occurences": 1
+  }, {
+    "subject": "great britain",
+    "occurences": 1
+  }, {
+    "subject": "newspapers",
+    "occurences": 1
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 1
+  }, {
+    "subject": "monopolies",
+    "occurences": 1
+  }, {
+    "subject": "laborers",
+    "occurences": 1
+  }, {
+    "subject": "churches",
+    "occurences": 1
+  }, {
+    "subject": "courtship & love",
+    "occurences": 1
+  }, {
+    "subject": "harrison, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "mckinley, william",
+    "occurences": 1
+  }, {
+    "subject": "alger",
+    "occurences": 1
+  }, {
+    "subject": "puck (fictitious character)",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 87,
     "subject": ["blaine, james gillispie", "cleveland, grover", "washington, george", "sculpture", "uncle sam", "america", "united states capitol (washington, d.c.)", "statuary hall", "republican party", "government officials", "agesander. laocoon group", "kelly, j.", "cartoons (commentary)", "american", "drawings", "kelly, j"],
@@ -900,6 +2608,157 @@
   }]
 }, {
   "year": "1885",
+  "subjects": [{
+    "subject": "women",
+    "occurences": 2
+  }, {
+    "subject": "uncle sam",
+    "occurences": 2
+  }, {
+    "subject": "bayard, thomas f.",
+    "occurences": 2
+  }, {
+    "subject": "(thomas francis)",
+    "occurences": 2
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 2
+  }, {
+    "subject": "depressions",
+    "occurences": 1
+  }, {
+    "subject": "republican party",
+    "occurences": 1
+  }, {
+    "subject": "waiters",
+    "occurences": 1
+  }, {
+    "subject": "washington, george",
+    "occurences": 1
+  }, {
+    "subject": "lent",
+    "occurences": 1
+  }, {
+    "subject": "reading",
+    "occurences": 1
+  }, {
+    "subject": "roller skating",
+    "occurences": 1
+  }, {
+    "subject": "couples",
+    "occurences": 1
+  }, {
+    "subject": "cabinet officers",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william c.",
+    "occurences": 1
+  }, {
+    "subject": "reform",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william c",
+    "occurences": 1
+  }, {
+    "subject": "bland, richard parks",
+    "occurences": 1
+  }, {
+    "subject": "stewart, william m.",
+    "occurences": 1
+  }, {
+    "subject": "(william morris)",
+    "occurences": 1
+  }, {
+    "subject": "wolcott, edward oliver",
+    "occurences": 1
+  }, {
+    "subject": "bryan, william jennings",
+    "occurences": 1
+  }, {
+    "subject": "bouquets",
+    "occurences": 1
+  }, {
+    "subject": "robberies",
+    "occurences": 1
+  }, {
+    "subject": "railroads",
+    "occurences": 1
+  }, {
+    "subject": "operas & operettas",
+    "occurences": 1
+  }, {
+    "subject": "sibley, joseph",
+    "occurences": 1
+  }, {
+    "subject": "jones, t.",
+    "occurences": 1
+  }, {
+    "subject": "hancock, winfield scott",
+    "occurences": 1
+  }, {
+    "subject": "grant, ulysses s.",
+    "occurences": 1
+  }, {
+    "subject": "crying",
+    "occurences": 1
+  }, {
+    "subject": "johnston",
+    "occurences": 1
+  }, {
+    "subject": "buckner",
+    "occurences": 1
+  }, {
+    "subject": "sherman, william t.",
+    "occurences": 1
+  }, {
+    "subject": "sheridan, phillip",
+    "occurences": 1
+  }, {
+    "subject": "funeral rites & ceremonies",
+    "occurences": 1
+  }, {
+    "subject": "grant, ulysses s",
+    "occurences": 1
+  }, {
+    "subject": "sherman, william t",
+    "occurences": 1
+  }, {
+    "subject": "ostriches",
+    "occurences": 1
+  }, {
+    "subject": "hiding",
+    "occurences": 1
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 1
+  }, {
+    "subject": "roping",
+    "occurences": 1
+  }, {
+    "subject": "tariffs",
+    "occurences": 1
+  }, {
+    "subject": "silver question",
+    "occurences": 1
+  }, {
+    "subject": "bismarck, otto",
+    "occurences": 1
+  }, {
+    "subject": "fürst von",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william collins",
+    "occurences": 1
+  }, {
+    "subject": "imperialism",
+    "occurences": 1
+  }, {
+    "subject": "german",
+    "occurences": 1
+  }, {
+    "subject": "american samoa",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 35,
     "subject": ["lent", "operas & operettas", "bouquets", "women", "reading", "uncle sam", "united states", "republican party", "waiters", "cartoons (commentary)", "american", "drawings"],
@@ -951,6 +2810,34 @@
   }]
 }, {
   "year": "1886",
+  "subjects": [{
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "du maurier, george,. trilby",
+    "occurences": 1
+  }, {
+    "subject": "marriage proposals",
+    "occurences": 1
+  }, {
+    "subject": "mckinley, william",
+    "occurences": 1
+  }, {
+    "subject": "presidents",
+    "occurences": 1
+  }, {
+    "subject": "sibley",
+    "occurences": 1
+  }, {
+    "subject": "peffer",
+    "occurences": 1
+  }, {
+    "subject": "reed",
+    "occurences": 1
+  }, {
+    "subject": "harrison",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 416,
     "subject": ["sculpture", "du maurier, george,. trilby", "marriage proposals", "mckinley, william", "presidents", "sibley", "peffer", "reed", "harrison", "cartoons (commentary)", "american", "drawings"],
@@ -962,6 +2849,88 @@
   }]
 }, {
   "year": "1887",
+  "subjects": [{
+    "subject": "washington (d.c.)",
+    "occurences": 2
+  }, {
+    "subject": "washington, george",
+    "occurences": 2
+  }, {
+    "subject": "allusions",
+    "occurences": 1
+  }, {
+    "subject": "rewards & prizes",
+    "occurences": 1
+  }, {
+    "subject": "circuses & shows",
+    "occurences": 1
+  }, {
+    "subject": "horses",
+    "occurences": 1
+  }, {
+    "subject": "ludlow, william",
+    "occurences": 1
+  }, {
+    "subject": "wheatley, samuel edwin",
+    "occurences": 1
+  }, {
+    "subject": "webb, william benning",
+    "occurences": 1
+  }, {
+    "subject": "road construction",
+    "occurences": 1
+  }, {
+    "subject": "bladensburg road (washington, d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 1
+  }, {
+    "subject": "military parades & ceremonies",
+    "occurences": 1
+  }, {
+    "subject": "wells",
+    "occurences": 1
+  }, {
+    "subject": "women",
+    "occurences": 1
+  }, {
+    "subject": "harrison, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "monuments & memorials",
+    "occurences": 1
+  }, {
+    "subject": "water supply",
+    "occurences": 1
+  }, {
+    "subject": "military officers",
+    "occurences": 1
+  }, {
+    "subject": "dolphins",
+    "occurences": 1
+  }, {
+    "subject": "wwsl",
+    "occurences": 1
+  }, {
+    "subject": "roosters",
+    "occurences": 1
+  }, {
+    "subject": "poultry",
+    "occurences": 1
+  }, {
+    "subject": "shipping",
+    "occurences": 1
+  }, {
+    "subject": "eggs",
+    "occurences": 1
+  }, {
+    "subject": "commerce",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 55,
     "subject": ["america", "rewards & prizes", "military parades & ceremonies", "washington (d.c.)", "washington, george", "cartoons (commentary)", "american", "drawings"],
@@ -1005,6 +2974,49 @@
   }]
 }, {
   "year": "1888",
+  "subjects": [{
+    "subject": "ludlow, william",
+    "occurences": 1
+  }, {
+    "subject": "blaine, james gillispie",
+    "occurences": 1
+  }, {
+    "subject": "sphinxes",
+    "occurences": 1
+  }, {
+    "subject": "presidential elections",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "caricatures",
+    "occurences": 1
+  }, {
+    "subject": "entertaining",
+    "occurences": 1
+  }, {
+    "subject": "washington, george",
+    "occurences": 1
+  }, {
+    "subject": "military officers",
+    "occurences": 1
+  }, {
+    "subject": "new year",
+    "occurences": 1
+  }, {
+    "subject": "surplus commodities",
+    "occurences": 1
+  }, {
+    "subject": "anarchism",
+    "occurences": 1
+  }, {
+    "subject": "skulls",
+    "occurences": 1
+  }, {
+    "subject": "cholera",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 135,
     "subject": ["blaine, james gillispie", "washington, george", "sphinxes", "presidential elections", "uncle sam", "caricatures", "american", "drawings"],
@@ -1024,6 +3036,28 @@
   }]
 }, {
   "year": "1889",
+  "subjects": [{
+    "subject": "hammocks (furniture)",
+    "occurences": 1
+  }, {
+    "subject": "fantasy",
+    "occurences": 1
+  }, {
+    "subject": "presidential inaugurations",
+    "occurences": 1
+  }, {
+    "subject": "housing",
+    "occurences": 1
+  }, {
+    "subject": "sleeping",
+    "occurences": 1
+  }, {
+    "subject": "soldiers",
+    "occurences": 1
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 480,
     "subject": ["hammocks (furniture)", "fantasy", "presidential inaugurations", "housing", "sleeping", "soldiers", "washington (d.c.)", "cartoons (commentary)", "american", "drawings"],
@@ -1035,6 +3069,121 @@
   }]
 }, {
   "year": "1890",
+  "subjects": [{
+    "subject": "mckinley, william",
+    "occurences": 2
+  }, {
+    "subject": "politicians",
+    "occurences": 2
+  }, {
+    "subject": "bryan",
+    "occurences": 1
+  }, {
+    "subject": "bandwagons",
+    "occurences": 1
+  }, {
+    "subject": "quay, matthew stanley",
+    "occurences": 1
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 1
+  }, {
+    "subject": "bimetallism",
+    "occurences": 1
+  }, {
+    "subject": "presidential elections",
+    "occurences": 1
+  }, {
+    "subject": "platt",
+    "occurences": 1
+  }, {
+    "subject": "losers",
+    "occurences": 1
+  }, {
+    "subject": "manley",
+    "occurences": 1
+  }, {
+    "subject": "grosvenor",
+    "occurences": 1
+  }, {
+    "subject": "hobart",
+    "occurences": 1
+  }, {
+    "subject": "thurston",
+    "occurences": 1
+  }, {
+    "subject": "heath",
+    "occurences": 1
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 1
+  }, {
+    "subject": "dogs",
+    "occurences": 1
+  }, {
+    "subject": "political parties",
+    "occurences": 1
+  }, {
+    "subject": "silver question",
+    "occurences": 1
+  }, {
+    "subject": "hanna, marcus alonzo",
+    "occurences": 1
+  }, {
+    "subject": "bland",
+    "occurences": 1
+  }, {
+    "subject": "altgeld",
+    "occurences": 1
+  }, {
+    "subject": "sibley",
+    "occurences": 1
+  }, {
+    "subject": "morrison",
+    "occurences": 1
+  }, {
+    "subject": "stewart",
+    "occurences": 1
+  }, {
+    "subject": "pugh",
+    "occurences": 1
+  }, {
+    "subject": "campbell, james edwin",
+    "occurences": 1
+  }, {
+    "subject": "armor",
+    "occurences": 1
+  }, {
+    "subject": "tariffs",
+    "occurences": 1
+  }, {
+    "subject": "tin",
+    "occurences": 1
+  }, {
+    "subject": "political discussion",
+    "occurences": 1
+  }, {
+    "subject": "industrial trusts",
+    "occurences": 1
+  }, {
+    "subject": "swine",
+    "occurences": 1
+  }, {
+    "subject": "sketches",
+    "occurences": 1
+  }, {
+    "subject": "entrepreneurs",
+    "occurences": 1
+  }, {
+    "subject": "proctor, redfield",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "telephones",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 91,
     "subject": ["quay, matthew stanley", "hanna, marcus alonzo", "proctor, redfield", "bandwagons", "mckinley, william", "free trade & protection", "bimetallism", "presidential elections", "platt", "losers", "manley", "grosvenor", "hobart", "thurston", "heath", "cartoons (commentary)", "american", "drawings"],
@@ -1094,6 +3243,124 @@
   }]
 }, {
   "year": "1891",
+  "subjects": [{
+    "subject": "populism",
+    "occurences": 1
+  }, {
+    "subject": "political platforms",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "simpson",
+    "occurences": 1
+  }, {
+    "subject": "currency question",
+    "occurences": 1
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 1
+  }, {
+    "subject": "ohio",
+    "occurences": 1
+  }, {
+    "subject": "washington, george",
+    "occurences": 1
+  }, {
+    "subject": "crowds",
+    "occurences": 1
+  }, {
+    "subject": "meetings",
+    "occurences": 1
+  }, {
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "organizations",
+    "occurences": 1
+  }, {
+    "subject": "bryan, william jennings",
+    "occurences": 1
+  }, {
+    "subject": "clumsiness",
+    "occurences": 1
+  }, {
+    "subject": "political parties",
+    "occurences": 1
+  }, {
+    "subject": "stools",
+    "occurences": 1
+  }, {
+    "subject": "democratic party",
+    "occurences": 1
+  }, {
+    "subject": "republican party",
+    "occurences": 1
+  }, {
+    "subject": "barrooms",
+    "occurences": 1
+  }, {
+    "subject": "crosses",
+    "occurences": 1
+  }, {
+    "subject": "crown of thorns",
+    "occurences": 1
+  }, {
+    "subject": "choice (psychology)",
+    "occurences": 1
+  }, {
+    "subject": "caricatures",
+    "occurences": 1
+  }, {
+    "subject": "falling",
+    "occurences": 1
+  }, {
+    "subject": "ladders",
+    "occurences": 1
+  }, {
+    "subject": "political elections",
+    "occurences": 1
+  }, {
+    "subject": "autumn",
+    "occurences": 1
+  }, {
+    "subject": "boxing",
+    "occurences": 1
+  }, {
+    "subject": "wheat",
+    "occurences": 1
+  }, {
+    "subject": "mortgages",
+    "occurences": 1
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 1
+  }, {
+    "subject": "children sleeping",
+    "occurences": 1
+  }, {
+    "subject": "patent medicines",
+    "occurences": 1
+  }, {
+    "subject": "fighting",
+    "occurences": 1
+  }, {
+    "subject": "campbell, james edwin",
+    "occurences": 1
+  }, {
+    "subject": "mckinley, william",
+    "occurences": 1
+  }, {
+    "subject": "fassett",
+    "occurences": 1
+  }, {
+    "subject": "flower, william o.",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 71,
     "subject": ["political platforms", "barrooms", "america", "uncle sam", "simpson", "currency question", "free trade & protection", "ohio", "cartoons (commentary)", "american", "drawings"],
@@ -1145,6 +3412,181 @@
   }]
 }, {
   "year": "1892",
+  "subjects": [{
+    "subject": "mcmillin, benton",
+    "occurences": 2
+  }, {
+    "subject": "hill, david b",
+    "occurences": 2
+  }, {
+    "subject": "aphrodite (greek deity)",
+    "occurences": 1
+  }, {
+    "subject": "whipping",
+    "occurences": 1
+  }, {
+    "subject": "international relations",
+    "occurences": 1
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 1
+  }, {
+    "subject": "carlisle, john griffin",
+    "occurences": 1
+  }, {
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "adults & children",
+    "occurences": 1
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 1
+  }, {
+    "subject": "stoneworking",
+    "occurences": 1
+  }, {
+    "subject": "tariffs",
+    "occurences": 1
+  }, {
+    "subject": "reform",
+    "occurences": 1
+  }, {
+    "subject": "pulling",
+    "occurences": 1
+  }, {
+    "subject": "welle, david a.",
+    "occurences": 1
+  }, {
+    "subject": "mills",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "whiting",
+    "occurences": 1
+  }, {
+    "subject": "fithian",
+    "occurences": 1
+  }, {
+    "subject": "welle, david a",
+    "occurences": 1
+  }, {
+    "subject": "chasing",
+    "occurences": 1
+  }, {
+    "subject": "ghosts",
+    "occurences": 1
+  }, {
+    "subject": "wetlands",
+    "occurences": 1
+  }, {
+    "subject": "chairs",
+    "occurences": 1
+  }, {
+    "subject": "cobwebs",
+    "occurences": 1
+  }, {
+    "subject": "presidential elections",
+    "occurences": 1
+  }, {
+    "subject": "chile",
+    "occurences": 1
+  }, {
+    "subject": "gorman, arthur p.",
+    "occurences": 1
+  }, {
+    "subject": "(arthur pue)",
+    "occurences": 1
+  }, {
+    "subject": "harrison, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "paris (greek mythology)",
+    "occurences": 1
+  }, {
+    "subject": "athena (greek deity)",
+    "occurences": 1
+  }, {
+    "subject": "hera (greek deity)",
+    "occurences": 1
+  }, {
+    "subject": "courtship & love",
+    "occurences": 1
+  }, {
+    "subject": "apples",
+    "occurences": 1
+  }, {
+    "subject": "democratic party",
+    "occurences": 1
+  }, {
+    "subject": "political conventions",
+    "occurences": 1
+  }, {
+    "subject": "chicago (ill.)",
+    "occurences": 1
+  }, {
+    "subject": "gods",
+    "occurences": 1
+  }, {
+    "subject": "brice, calvin stewart",
+    "occurences": 1
+  }, {
+    "subject": "jinns",
+    "occurences": 1
+  }, {
+    "subject": "silver question",
+    "occurences": 1
+  }, {
+    "subject": "legislation",
+    "occurences": 1
+  }, {
+    "subject": "shakespeare, william. macbeth",
+    "occurences": 1
+  }, {
+    "subject": "kings",
+    "occurences": 1
+  }, {
+    "subject": "tracey",
+    "occurences": 1
+  }, {
+    "subject": "harter",
+    "occurences": 1
+  }, {
+    "subject": "williams",
+    "occurences": 1
+  }, {
+    "subject": "cochran",
+    "occurences": 1
+  }, {
+    "subject": "plays",
+    "occurences": 1
+  }, {
+    "subject": "bland, richard parks",
+    "occurences": 1
+  }, {
+    "subject": "bryan, william jennings",
+    "occurences": 1
+  }, {
+    "subject": "bicycles & tricycles",
+    "occurences": 1
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "political parties",
+    "occurences": 1
+  }, {
+    "subject": "business & finance",
+    "occurences": 1
+  }, {
+    "subject": "cameron, j. donald",
+    "occurences": 1
+  }, {
+    "subject": "sibley",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 49,
     "subject": ["uncle sam", "united states", "harrison, benjamin", "chile", "whipping", "international relations", "cartoons (commentary)", "american", "drawings"],
@@ -1196,6 +3638,445 @@
   }]
 }, {
   "year": "1893",
+  "subjects": [{
+    "subject": "silver question",
+    "occurences": 6
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 4
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 4
+  }, {
+    "subject": "bland, richard parks",
+    "occurences": 4
+  }, {
+    "subject": "legislation",
+    "occurences": 3
+  }, {
+    "subject": "economic policy",
+    "occurences": 3
+  }, {
+    "subject": "uncle sam",
+    "occurences": 3
+  }, {
+    "subject": "tariffs",
+    "occurences": 2
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 2
+  }, {
+    "subject": "flags",
+    "occurences": 2
+  }, {
+    "subject": "democracy",
+    "occurences": 2
+  }, {
+    "subject": "holman, william steele",
+    "occurences": 2
+  }, {
+    "subject": "peffer, william alfred",
+    "occurences": 2
+  }, {
+    "subject": "knights",
+    "occurences": 2
+  }, {
+    "subject": "winners",
+    "occurences": 2
+  }, {
+    "subject": "cockran, william bourke",
+    "occurences": 2
+  }, {
+    "subject": "burdens",
+    "occurences": 2
+  }, {
+    "subject": "hill, david b",
+    "occurences": 2
+  }, {
+    "subject": "caricatures",
+    "occurences": 2
+  }, {
+    "subject": "autonomy",
+    "occurences": 2
+  }, {
+    "subject": "actions & defenses",
+    "occurences": 1
+  }, {
+    "subject": "clubbing",
+    "occurences": 1
+  }, {
+    "subject": "freedom of religion",
+    "occurences": 1
+  }, {
+    "subject": "avarice",
+    "occurences": 1
+  }, {
+    "subject": "siamese twins",
+    "occurences": 1
+  }, {
+    "subject": "entertainers",
+    "occurences": 1
+  }, {
+    "subject": "dancing",
+    "occurences": 1
+  }, {
+    "subject": "banking",
+    "occurences": 1
+  }, {
+    "subject": "fires",
+    "occurences": 1
+  }, {
+    "subject": "parker, alton brooks",
+    "occurences": 1
+  }, {
+    "subject": "ross",
+    "occurences": 1
+  }, {
+    "subject": "litters",
+    "occurences": 1
+  }, {
+    "subject": "hospitals",
+    "occurences": 1
+  }, {
+    "subject": "communicable diseases",
+    "occurences": 1
+  }, {
+    "subject": "quay, matthew stanley",
+    "occurences": 1
+  }, {
+    "subject": "st. matthew",
+    "occurences": 1
+  }, {
+    "subject": "fishing",
+    "occurences": 1
+  }, {
+    "subject": "hours of labor",
+    "occurences": 1
+  }, {
+    "subject": "gates, st. peter",
+    "occurences": 1
+  }, {
+    "subject": "moving & storage trade",
+    "occurences": 1
+  }, {
+    "subject": "parades & processions",
+    "occurences": 1
+  }, {
+    "subject": "united states. civil service commission",
+    "occurences": 1
+  }, {
+    "subject": "roosevelt, theodore",
+    "occurences": 1
+  }, {
+    "subject": "lyman",
+    "occurences": 1
+  }, {
+    "subject": "johnson",
+    "occurences": 1
+  }, {
+    "subject": "sleeping",
+    "occurences": 1
+  }, {
+    "subject": "refuse disposal",
+    "occurences": 1
+  }, {
+    "subject": "barrels",
+    "occurences": 1
+  }, {
+    "subject": "cats",
+    "occurences": 1
+  }, {
+    "subject": "falling",
+    "occurences": 1
+  }, {
+    "subject": "metallurgical industry",
+    "occurences": 1
+  }, {
+    "subject": "currency question",
+    "occurences": 1
+  }, {
+    "subject": "west (u.s.)",
+    "occurences": 1
+  }, {
+    "subject": "waite",
+    "occurences": 1
+  }, {
+    "subject": "lewelling",
+    "occurences": 1
+  }, {
+    "subject": "pennover",
+    "occurences": 1
+  }, {
+    "subject": "lease, mrs",
+    "occurences": 1
+  }, {
+    "subject": "simpson, j.",
+    "occurences": 1
+  }, {
+    "subject": "simpson, j",
+    "occurences": 1
+  }, {
+    "subject": "crying",
+    "occurences": 1
+  }, {
+    "subject": "political platforms",
+    "occurences": 1
+  }, {
+    "subject": "chicago (ill.)",
+    "occurences": 1
+  }, {
+    "subject": "miserliness",
+    "occurences": 1
+  }, {
+    "subject": "blount, james h.",
+    "occurences": 1
+  }, {
+    "subject": "(james henderson)",
+    "occurences": 1
+  }, {
+    "subject": "criminals",
+    "occurences": 1
+  }, {
+    "subject": "queens",
+    "occurences": 1
+  }, {
+    "subject": "liliuokalani, queen of hawaii",
+    "occurences": 1
+  }, {
+    "subject": "international relations",
+    "occurences": 1
+  }, {
+    "subject": "business & finance",
+    "occurences": 1
+  }, {
+    "subject": "gladstone, herbert john gladstone",
+    "occurences": 1
+  }, {
+    "subject": "viscount",
+    "occurences": 1
+  }, {
+    "subject": "skeletons",
+    "occurences": 1
+  }, {
+    "subject": "torches",
+    "occurences": 1
+  }, {
+    "subject": "kennels",
+    "occurences": 1
+  }, {
+    "subject": "great britain",
+    "occurences": 1
+  }, {
+    "subject": "fans (accessories)",
+    "occurences": 1
+  }, {
+    "subject": "heat",
+    "occurences": 1
+  }, {
+    "subject": "united states. dept. of treasury",
+    "occurences": 1
+  }, {
+    "subject": "dogs",
+    "occurences": 1
+  }, {
+    "subject": "wilson",
+    "occurences": 1
+  }, {
+    "subject": "united states. bureau of indian affairs",
+    "occurences": 1
+  }, {
+    "subject": "women",
+    "occurences": 1
+  }, {
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "united states capitol (washington, d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "centennial celebrations",
+    "occurences": 1
+  }, {
+    "subject": "grooming",
+    "occurences": 1
+  }, {
+    "subject": "ship of state",
+    "occurences": 1
+  }, {
+    "subject": "reform",
+    "occurences": 1
+  }, {
+    "subject": "presidents",
+    "occurences": 1
+  }, {
+    "subject": "goats",
+    "occurences": 1
+  }, {
+    "subject": "scapegoats",
+    "occurences": 1
+  }, {
+    "subject": "indians of north america",
+    "occurences": 1
+  }, {
+    "subject": "blaming",
+    "occurences": 1
+  }, {
+    "subject": "sherman silver law of 1890",
+    "occurences": 1
+  }, {
+    "subject": "depressions",
+    "occurences": 1
+  }, {
+    "subject": "disasters",
+    "occurences": 1
+  }, {
+    "subject": "boxing",
+    "occurences": 1
+  }, {
+    "subject": "vice presidents",
+    "occurences": 1
+  }, {
+    "subject": "losers",
+    "occurences": 1
+  }, {
+    "subject": "politicians",
+    "occurences": 1
+  }, {
+    "subject": "resignations",
+    "occurences": 1
+  }, {
+    "subject": "luther, martin",
+    "occurences": 1
+  }, {
+    "subject": "stewart, william m.",
+    "occurences": 1
+  }, {
+    "subject": "(william morris)",
+    "occurences": 1
+  }, {
+    "subject": "teller, henry moore",
+    "occurences": 1
+  }, {
+    "subject": "wolcott, edward oliver",
+    "occurences": 1
+  }, {
+    "subject": "bells",
+    "occurences": 1
+  }, {
+    "subject": "jones",
+    "occurences": 1
+  }, {
+    "subject": "donkeys",
+    "occurences": 1
+  }, {
+    "subject": "democratic party",
+    "occurences": 1
+  }, {
+    "subject": "gold",
+    "occurences": 1
+  }, {
+    "subject": "dickinson, don",
+    "occurences": 1
+  }, {
+    "subject": "eckels",
+    "occurences": 1
+  }, {
+    "subject": "bryan",
+    "occurences": 1
+  }, {
+    "subject": "altgeld",
+    "occurences": 1
+  }, {
+    "subject": "boies, horace",
+    "occurences": 1
+  }, {
+    "subject": "harris",
+    "occurences": 1
+  }, {
+    "subject": "springer, william m.",
+    "occurences": 1
+  }, {
+    "subject": "chairs",
+    "occurences": 1
+  }, {
+    "subject": "anxiety",
+    "occurences": 1
+  }, {
+    "subject": "springer, william m",
+    "occurences": 1
+  }, {
+    "subject": "sirens (mythology)",
+    "occurences": 1
+  }, {
+    "subject": "briggs",
+    "occurences": 1
+  }, {
+    "subject": "dreaming",
+    "occurences": 1
+  }, {
+    "subject": "santa claus",
+    "occurences": 1
+  }, {
+    "subject": "prosperity",
+    "occurences": 1
+  }, {
+    "subject": "cornucopias",
+    "occurences": 1
+  }, {
+    "subject": "idols",
+    "occurences": 1
+  }, {
+    "subject": "political patronage",
+    "occurences": 1
+  }, {
+    "subject": "thurber",
+    "occurences": 1
+  }, {
+    "subject": "angels",
+    "occurences": 1
+  }, {
+    "subject": "boutelle",
+    "occurences": 1
+  }, {
+    "subject": "piracy",
+    "occurences": 1
+  }, {
+    "subject": "newspapers",
+    "occurences": 1
+  }, {
+    "subject": "baltimore sun",
+    "occurences": 1
+  }, {
+    "subject": "football",
+    "occurences": 1
+  }, {
+    "subject": "tigers",
+    "occurences": 1
+  }, {
+    "subject": "elephants",
+    "occurences": 1
+  }, {
+    "subject": "republican party",
+    "occurences": 1
+  }, {
+    "subject": "croker, dick",
+    "occurences": 1
+  }, {
+    "subject": "murphy",
+    "occurences": 1
+  }, {
+    "subject": "toys",
+    "occurences": 1
+  }, {
+    "subject": "kings",
+    "occurences": 1
+  }, {
+    "subject": "hawaii",
+    "occurences": 1
+  }, {
+    "subject": "commerce",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 75,
     "subject": ["skeletons", "torches", "uncle sam", "washington (d.c.)", "economic policy", "avarice", "fires", "chicago (ill.)", "cartoons (commentary)", "american", "drawings"],
@@ -1399,6 +4280,205 @@
   }]
 }, {
   "year": "1894",
+  "subjects": [{
+    "subject": "uncle sam",
+    "occurences": 5
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 3
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 3
+  }, {
+    "subject": "hill, david b",
+    "occurences": 2
+  }, {
+    "subject": "democratic party",
+    "occurences": 2
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 2
+  }, {
+    "subject": "knights of pythias",
+    "occurences": 2
+  }, {
+    "subject": "hospitals",
+    "occurences": 1
+  }, {
+    "subject": "municipal officials",
+    "occurences": 1
+  }, {
+    "subject": "political elections",
+    "occurences": 1
+  }, {
+    "subject": "enloe",
+    "occurences": 1
+  }, {
+    "subject": "de armond",
+    "occurences": 1
+  }, {
+    "subject": "coxey",
+    "occurences": 1
+  }, {
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "peace",
+    "occurences": 1
+  }, {
+    "subject": "fantasy",
+    "occurences": 1
+  }, {
+    "subject": "tracey",
+    "occurences": 1
+  }, {
+    "subject": "cuckoo clocks",
+    "occurences": 1
+  }, {
+    "subject": "dockery",
+    "occurences": 1
+  }, {
+    "subject": "biblical events",
+    "occurences": 1
+  }, {
+    "subject": "bonds",
+    "occurences": 1
+  }, {
+    "subject": "united states. dept. of treasury",
+    "occurences": 1
+  }, {
+    "subject": "golf",
+    "occurences": 1
+  }, {
+    "subject": "kilts",
+    "occurences": 1
+  }, {
+    "subject": "vacations",
+    "occurences": 1
+  }, {
+    "subject": "public speaking",
+    "occurences": 1
+  }, {
+    "subject": "ships",
+    "occurences": 1
+  }, {
+    "subject": "night",
+    "occurences": 1
+  }, {
+    "subject": "medicine shows",
+    "occurences": 1
+  }, {
+    "subject": "obliviousness",
+    "occurences": 1
+  }, {
+    "subject": "pandora (greek mythology)",
+    "occurences": 1
+  }, {
+    "subject": "communicable diseases",
+    "occurences": 1
+  }, {
+    "subject": "skeletons",
+    "occurences": 1
+  }, {
+    "subject": "washington, george",
+    "occurences": 1
+  }, {
+    "subject": "mount pleasant (washington, d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "vest, george graham",
+    "occurences": 1
+  }, {
+    "subject": "morrill, justin s.",
+    "occurences": 1
+  }, {
+    "subject": "(justin smith)",
+    "occurences": 1
+  }, {
+    "subject": "allison, william",
+    "occurences": 1
+  }, {
+    "subject": "(william boyd)",
+    "occurences": 1
+  }, {
+    "subject": "thinking",
+    "occurences": 1
+  }, {
+    "subject": "aldrich, nelson",
+    "occurences": 1
+  }, {
+    "subject": "jones",
+    "occurences": 1
+  }, {
+    "subject": "sherman, john",
+    "occurences": 1
+  }, {
+    "subject": "voorhees",
+    "occurences": 1
+  }, {
+    "subject": "mcpherson",
+    "occurences": 1
+  }, {
+    "subject": "harris",
+    "occurences": 1
+  }, {
+    "subject": "football",
+    "occurences": 1
+  }, {
+    "subject": "fairies",
+    "occurences": 1
+  }, {
+    "subject": "hairdressing",
+    "occurences": 1
+  }, {
+    "subject": "presidents & the congress",
+    "occurences": 1
+  }, {
+    "subject": "cabinet officers",
+    "occurences": 1
+  }, {
+    "subject": "holman, william steele",
+    "occurences": 1
+  }, {
+    "subject": "greeks",
+    "occurences": 1
+  }, {
+    "subject": "slogans",
+    "occurences": 1
+  }, {
+    "subject": "thacher, john boyd",
+    "occurences": 1
+  }, {
+    "subject": "presidential elections",
+    "occurences": 1
+  }, {
+    "subject": "public opinion",
+    "occurences": 1
+  }, {
+    "subject": "hill, d.",
+    "occurences": 1
+  }, {
+    "subject": "harrison, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "doors & doorways",
+    "occurences": 1
+  }, {
+    "subject": "tammany tiger",
+    "occurences": 1
+  }, {
+    "subject": "bayard",
+    "occurences": 1
+  }, {
+    "subject": "hill, d. b",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam (symbolic character)",
+    "occurences": 1
+  }, {
+    "subject": "strikes",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 19,
     "subject": ["holman, william steele", "washington, george", "fantasy", "dockery", "public speaking", "medicine shows", "hairdressing", "hill, david", "uncle sam", "america", "municipal officials", "political elections", "enloe", "de armond", "coxey", "sculpture", "peace", "legislative bodies", "tracey", "cuckoo clocks", "cartoons (commentary)", "american", "drawings", "hill, david b"],
@@ -1490,6 +4570,502 @@
   }]
 }, {
   "year": "1895",
+  "subjects": [{
+    "subject": "silver question",
+    "occurences": 7
+  }, {
+    "subject": "lions",
+    "occurences": 5
+  }, {
+    "subject": "great britain",
+    "occurences": 5
+  }, {
+    "subject": "republican party",
+    "occurences": 4
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 4
+  }, {
+    "subject": "political conventions",
+    "occurences": 3
+  }, {
+    "subject": "government spending policy",
+    "occurences": 2
+  }, {
+    "subject": "eagles",
+    "occurences": 2
+  }, {
+    "subject": "bonds",
+    "occurences": 2
+  }, {
+    "subject": "romans",
+    "occurences": 2
+  }, {
+    "subject": "political platforms",
+    "occurences": 2
+  }, {
+    "subject": "reed, thomas",
+    "occurences": 2
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 2
+  }, {
+    "subject": "women",
+    "occurences": 2
+  }, {
+    "subject": "stewart",
+    "occurences": 2
+  }, {
+    "subject": "jones",
+    "occurences": 2
+  }, {
+    "subject": "teller, henry moore",
+    "occurences": 2
+  }, {
+    "subject": "prophecy",
+    "occurences": 2
+  }, {
+    "subject": "democratic party",
+    "occurences": 2
+  }, {
+    "subject": "presidential elections",
+    "occurences": 2
+  }, {
+    "subject": "reform",
+    "occurences": 2
+  }, {
+    "subject": "strong",
+    "occurences": 2
+  }, {
+    "subject": "international relations",
+    "occurences": 2
+  }, {
+    "subject": "business & finance",
+    "occurences": 2
+  }, {
+    "subject": "caricatures",
+    "occurences": 2
+  }, {
+    "subject": "fighting",
+    "occurences": 2
+  }, {
+    "subject": "peddlers",
+    "occurences": 1
+  }, {
+    "subject": "chandler, william e",
+    "occurences": 1
+  }, {
+    "subject": "carlisle, john griffin",
+    "occurences": 1
+  }, {
+    "subject": "st. john",
+    "occurences": 1
+  }, {
+    "subject": "public speaking",
+    "occurences": 1
+  }, {
+    "subject": "ethics",
+    "occurences": 1
+  }, {
+    "subject": "signs",
+    "occurences": 1
+  }, {
+    "subject": "father knickerbocker (fictitious character)",
+    "occurences": 1
+  }, {
+    "subject": "new york",
+    "occurences": 1
+  }, {
+    "subject": "chicago (ill.)",
+    "occurences": 1
+  }, {
+    "subject": "civil service reform",
+    "occurences": 1
+  }, {
+    "subject": "political elections",
+    "occurences": 1
+  }, {
+    "subject": "lawlor, frank",
+    "occurences": 1
+  }, {
+    "subject": "city council members",
+    "occurences": 1
+  }, {
+    "subject": "santa claus",
+    "occurences": 1
+  }, {
+    "subject": "christmas stockings",
+    "occurences": 1
+  }, {
+    "subject": "carter, thomas henry",
+    "occurences": 1
+  }, {
+    "subject": "coins",
+    "occurences": 1
+  }, {
+    "subject": "auctions",
+    "occurences": 1
+  }, {
+    "subject": "reed, thomas b",
+    "occurences": 1
+  }, {
+    "subject": "harlan, john marshall",
+    "occurences": 1
+  }, {
+    "subject": "white, edward douglass",
+    "occurences": 1
+  }, {
+    "subject": "anarchism",
+    "occurences": 1
+  }, {
+    "subject": "supreme court justices",
+    "occurences": 1
+  }, {
+    "subject": "mcmillin, benton",
+    "occurences": 1
+  }, {
+    "subject": "taxes",
+    "occurences": 1
+  }, {
+    "subject": "periodical illustrations",
+    "occurences": 1
+  }, {
+    "subject": "crying",
+    "occurences": 1
+  }, {
+    "subject": "niobe",
+    "occurences": 1
+  }, {
+    "subject": "byron, george gordon byron, baron,. childe harold",
+    "occurences": 1
+  }, {
+    "subject": "dead persons",
+    "occurences": 1
+  }, {
+    "subject": "arrows",
+    "occurences": 1
+  }, {
+    "subject": "income taxes",
+    "occurences": 1
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 1
+  }, {
+    "subject": "moses",
+    "occurences": 1
+  }, {
+    "subject": "(biblical leader)",
+    "occurences": 1
+  }, {
+    "subject": "sibley, joseph",
+    "occurences": 1
+  }, {
+    "subject": "jones, thomas",
+    "occurences": 1
+  }, {
+    "subject": "cameron",
+    "occurences": 1
+  }, {
+    "subject": "ingalls",
+    "occurences": 1
+  }, {
+    "subject": "depew, chauncey m.",
+    "occurences": 1
+  }, {
+    "subject": "(chauncey mitchell)",
+    "occurences": 1
+  }, {
+    "subject": "biblical events",
+    "occurences": 1
+  }, {
+    "subject": "parrots",
+    "occurences": 1
+  }, {
+    "subject": "donkeys",
+    "occurences": 1
+  }, {
+    "subject": "vice presidents",
+    "occurences": 1
+  }, {
+    "subject": "angels",
+    "occurences": 1
+  }, {
+    "subject": "crackers",
+    "occurences": 1
+  }, {
+    "subject": "morton, j. sterling",
+    "occurences": 1
+  }, {
+    "subject": "(julius sterling)",
+    "occurences": 1
+  }, {
+    "subject": "arbor day",
+    "occurences": 1
+  }, {
+    "subject": "trees",
+    "occurences": 1
+  }, {
+    "subject": "chandler, william e.",
+    "occurences": 1
+  }, {
+    "subject": "military officers",
+    "occurences": 1
+  }, {
+    "subject": "mayors",
+    "occurences": 1
+  }, {
+    "subject": "bryan",
+    "occurences": 1
+  }, {
+    "subject": "allusions",
+    "occurences": 1
+  }, {
+    "subject": "stewart, william",
+    "occurences": 1
+  }, {
+    "subject": "cannon, joseph gurney",
+    "occurences": 1
+  }, {
+    "subject": "artillery",
+    "occurences": 1
+  }, {
+    "subject": "presidents & the congress",
+    "occurences": 1
+  }, {
+    "subject": "campaigns & battles",
+    "occurences": 1
+  }, {
+    "subject": "sculpture",
+    "occurences": 1
+  }, {
+    "subject": "poultry",
+    "occurences": 1
+  }, {
+    "subject": "peffer",
+    "occurences": 1
+  }, {
+    "subject": "quay",
+    "occurences": 1
+  }, {
+    "subject": "brice",
+    "occurences": 1
+  }, {
+    "subject": "hill",
+    "occurences": 1
+  }, {
+    "subject": "stevenson",
+    "occurences": 1
+  }, {
+    "subject": "vest",
+    "occurences": 1
+  }, {
+    "subject": "mcclellan",
+    "occurences": 1
+  }, {
+    "subject": "reed",
+    "occurences": 1
+  }, {
+    "subject": "cummings",
+    "occurences": 1
+  }, {
+    "subject": "grosvenor",
+    "occurences": 1
+  }, {
+    "subject": "henderson",
+    "occurences": 1
+  }, {
+    "subject": "cannon",
+    "occurences": 1
+  }, {
+    "subject": "bailey",
+    "occurences": 1
+  }, {
+    "subject": "duck shooting",
+    "occurences": 1
+  }, {
+    "subject": "venezuela",
+    "occurences": 1
+  }, {
+    "subject": "harbors",
+    "occurences": 1
+  }, {
+    "subject": "greenbacks",
+    "occurences": 1
+  }, {
+    "subject": "pleading",
+    "occurences": 1
+  }, {
+    "subject": "seals (animals)",
+    "occurences": 1
+  }, {
+    "subject": "animal welfare",
+    "occurences": 1
+  }, {
+    "subject": "salisbury, lord",
+    "occurences": 1
+  }, {
+    "subject": "moore",
+    "occurences": 1
+  }, {
+    "subject": "united states. weather bureau",
+    "occurences": 1
+  }, {
+    "subject": "wheels",
+    "occurences": 1
+  }, {
+    "subject": "government officials",
+    "occurences": 1
+  }, {
+    "subject": "furniture",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "war",
+    "occurences": 1
+  }, {
+    "subject": "belmont",
+    "occurences": 1
+  }, {
+    "subject": "rothschild",
+    "occurences": 1
+  }, {
+    "subject": "morgan",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william c.",
+    "occurences": 1
+  }, {
+    "subject": "(william collins)",
+    "occurences": 1
+  }, {
+    "subject": "allison, william",
+    "occurences": 1
+  }, {
+    "subject": "(william boyd)",
+    "occurences": 1
+  }, {
+    "subject": "crowns",
+    "occurences": 1
+  }, {
+    "subject": "bellows",
+    "occurences": 1
+  }, {
+    "subject": "law enforcement",
+    "occurences": 1
+  }, {
+    "subject": "roosevelt, theodore",
+    "occurences": 1
+  }, {
+    "subject": "resignations",
+    "occurences": 1
+  }, {
+    "subject": "carts & wagons",
+    "occurences": 1
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "new york (n.y.)",
+    "occurences": 1
+  }, {
+    "subject": "campbell, james edwin",
+    "occurences": 1
+  }, {
+    "subject": "camels",
+    "occurences": 1
+  }, {
+    "subject": "tammany tiger",
+    "occurences": 1
+  }, {
+    "subject": "eating & drinking",
+    "occurences": 1
+  }, {
+    "subject": "stewart, william m.",
+    "occurences": 1
+  }, {
+    "subject": "(william morris)",
+    "occurences": 1
+  }, {
+    "subject": "jonah",
+    "occurences": 1
+  }, {
+    "subject": "(biblical prophet)",
+    "occurences": 1
+  }, {
+    "subject": "correspondence",
+    "occurences": 1
+  }, {
+    "subject": "prosperity",
+    "occurences": 1
+  }, {
+    "subject": "foraker, joseph benson",
+    "occurences": 1
+  }, {
+    "subject": "sherman, john",
+    "occurences": 1
+  }, {
+    "subject": "mckinley, william",
+    "occurences": 1
+  }, {
+    "subject": "cats",
+    "occurences": 1
+  }, {
+    "subject": "credit",
+    "occurences": 1
+  }, {
+    "subject": "ohio",
+    "occurences": 1
+  }, {
+    "subject": "gifts",
+    "occurences": 1
+  }, {
+    "subject": "soviet union",
+    "occurences": 1
+  }, {
+    "subject": "bears",
+    "occurences": 1
+  }, {
+    "subject": "sea monsters",
+    "occurences": 1
+  }, {
+    "subject": "cattle",
+    "occurences": 1
+  }, {
+    "subject": "democracy",
+    "occurences": 1
+  }, {
+    "subject": "farmers",
+    "occurences": 1
+  }, {
+    "subject": "barbed wire",
+    "occurences": 1
+  }, {
+    "subject": "speeches",
+    "occurences": 1
+  }, {
+    "subject": "legislators",
+    "occurences": 1
+  }, {
+    "subject": "blackburn",
+    "occurences": 1
+  }, {
+    "subject": "peffer, william alfred",
+    "occurences": 1
+  }, {
+    "subject": "winds",
+    "occurences": 1
+  }, {
+    "subject": "beards",
+    "occurences": 1
+  }, {
+    "subject": "depressions",
+    "occurences": 1
+  }, {
+    "subject": "sibley",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 17,
     "subject": ["teller, henry moore", "allusions", "women", "romans", "harbors", "coins", "silver question", "bonds", "credit", "cartoons (commentary)", "american", "drawings"],
@@ -1717,6 +5293,1297 @@
   }]
 }, {
   "year": "1896",
+  "subjects": [{
+    "subject": "silver question",
+    "occurences": 20
+  }, {
+    "subject": "presidential elections",
+    "occurences": 19
+  }, {
+    "subject": "mckinley, william",
+    "occurences": 16
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 14
+  }, {
+    "subject": "bryan, william jennings",
+    "occurences": 14
+  }, {
+    "subject": "reed, thomas",
+    "occurences": 11
+  }, {
+    "subject": "quay, matthew stanley",
+    "occurences": 9
+  }, {
+    "subject": "republican party",
+    "occurences": 8
+  }, {
+    "subject": "uncle sam",
+    "occurences": 8
+  }, {
+    "subject": "caricatures",
+    "occurences": 8
+  }, {
+    "subject": "hanna, marcus alonzo",
+    "occurences": 8
+  }, {
+    "subject": "(william boyd)",
+    "occurences": 6
+  }, {
+    "subject": "hill, david b",
+    "occurences": 6
+  }, {
+    "subject": "allison, william",
+    "occurences": 6
+  }, {
+    "subject": "democratic party",
+    "occurences": 5
+  }, {
+    "subject": "morton, levi p.",
+    "occurences": 5
+  }, {
+    "subject": "(levi parsons)",
+    "occurences": 5
+  }, {
+    "subject": "manderson",
+    "occurences": 5
+  }, {
+    "subject": "legislative bodies",
+    "occurences": 5
+  }, {
+    "subject": "women",
+    "occurences": 5
+  }, {
+    "subject": "international relations",
+    "occurences": 5
+  }, {
+    "subject": "legislators",
+    "occurences": 4
+  }, {
+    "subject": "currency question",
+    "occurences": 4
+  }, {
+    "subject": "corruption",
+    "occurences": 4
+  }, {
+    "subject": "romans",
+    "occurences": 4
+  }, {
+    "subject": "harrison, benjamin",
+    "occurences": 4
+  }, {
+    "subject": "legislation",
+    "occurences": 4
+  }, {
+    "subject": "donkeys",
+    "occurences": 4
+  }, {
+    "subject": "crying",
+    "occurences": 4
+  }, {
+    "subject": "free trade & protection",
+    "occurences": 4
+  }, {
+    "subject": "tillman, benjamin ryan",
+    "occurences": 4
+  }, {
+    "subject": "elephants",
+    "occurences": 4
+  }, {
+    "subject": "political elections",
+    "occurences": 4
+  }, {
+    "subject": "losers",
+    "occurences": 3
+  }, {
+    "subject": "soviet union",
+    "occurences": 3
+  }, {
+    "subject": "jones",
+    "occurences": 3
+  }, {
+    "subject": "tariffs",
+    "occurences": 3
+  }, {
+    "subject": "great britain",
+    "occurences": 3
+  }, {
+    "subject": "grosvenor, c.",
+    "occurences": 3
+  }, {
+    "subject": "grosvenor, c",
+    "occurences": 3
+  }, {
+    "subject": "bland, richard parks",
+    "occurences": 3
+  }, {
+    "subject": "democracy",
+    "occurences": 3
+  }, {
+    "subject": "boies, horace",
+    "occurences": 3
+  }, {
+    "subject": "political platforms",
+    "occurences": 3
+  }, {
+    "subject": "sculpture",
+    "occurences": 3
+  }, {
+    "subject": "washington (d.c.)",
+    "occurences": 3
+  }, {
+    "subject": "platt",
+    "occurences": 3
+  }, {
+    "subject": "political patronage",
+    "occurences": 3
+  }, {
+    "subject": "populism",
+    "occurences": 3
+  }, {
+    "subject": "political conventions",
+    "occurences": 3
+  }, {
+    "subject": "altgeld",
+    "occurences": 3
+  }, {
+    "subject": "biblical events",
+    "occurences": 3
+  }, {
+    "subject": "davis",
+    "occurences": 3
+  }, {
+    "subject": "farmers",
+    "occurences": 3
+  }, {
+    "subject": "robberies",
+    "occurences": 3
+  }, {
+    "subject": "bands",
+    "occurences": 3
+  }, {
+    "subject": "dreaming",
+    "occurences": 3
+  }, {
+    "subject": "buckner",
+    "occurences": 2
+  }, {
+    "subject": "satires",
+    "occurences": 2
+  }, {
+    "subject": "navies",
+    "occurences": 2
+  }, {
+    "subject": "waite",
+    "occurences": 2
+  }, {
+    "subject": "lions",
+    "occurences": 2
+  }, {
+    "subject": "bailey",
+    "occurences": 2
+  }, {
+    "subject": "wolfert",
+    "occurences": 2
+  }, {
+    "subject": "whitney, william c.",
+    "occurences": 2
+  }, {
+    "subject": "coxey, j.",
+    "occurences": 2
+  }, {
+    "subject": "washington, george",
+    "occurences": 2
+  }, {
+    "subject": "coxey, j",
+    "occurences": 2
+  }, {
+    "subject": "chandler, william e.",
+    "occurences": 2
+  }, {
+    "subject": "alger",
+    "occurences": 2
+  }, {
+    "subject": "manley",
+    "occurences": 2
+  }, {
+    "subject": "clarkson",
+    "occurences": 2
+  }, {
+    "subject": "economic policy",
+    "occurences": 2
+  }, {
+    "subject": "capitalism",
+    "occurences": 2
+  }, {
+    "subject": "bradley",
+    "occurences": 2
+  }, {
+    "subject": "gorman, arthur p.",
+    "occurences": 2
+  }, {
+    "subject": "(arthur pue)",
+    "occurences": 2
+  }, {
+    "subject": "public speaking",
+    "occurences": 2
+  }, {
+    "subject": "hats",
+    "occurences": 2
+  }, {
+    "subject": "courtship & love",
+    "occurences": 2
+  }, {
+    "subject": "flags",
+    "occurences": 2
+  }, {
+    "subject": "cockran, william bourke",
+    "occurences": 2
+  }, {
+    "subject": "quarreling",
+    "occurences": 2
+  }, {
+    "subject": "armies",
+    "occurences": 2
+  }, {
+    "subject": "morton",
+    "occurences": 2
+  }, {
+    "subject": "boxing",
+    "occurences": 2
+  }, {
+    "subject": "napoleon",
+    "occurences": 2
+  }, {
+    "subject": "i",
+    "occurences": 2
+  }, {
+    "subject": "emperor of the french",
+    "occurences": 2
+  }, {
+    "subject": "whitney, william",
+    "occurences": 2
+  }, {
+    "subject": "samson (biblical judge)",
+    "occurences": 2
+  }, {
+    "subject": "dandies",
+    "occurences": 2
+  }, {
+    "subject": "carlisle, john griffin",
+    "occurences": 2
+  }, {
+    "subject": "teller, henry moore",
+    "occurences": 2
+  }, {
+    "subject": "business & finance",
+    "occurences": 2
+  }, {
+    "subject": "political parties",
+    "occurences": 2
+  }, {
+    "subject": "dubois",
+    "occurences": 2
+  }, {
+    "subject": "silver republican party",
+    "occurences": 2
+  }, {
+    "subject": "allusions",
+    "occurences": 2
+  }, {
+    "subject": "palmer",
+    "occurences": 2
+  }, {
+    "subject": "stewart",
+    "occurences": 2
+  }, {
+    "subject": "child behavior",
+    "occurences": 2
+  }, {
+    "subject": "civil service",
+    "occurences": 2
+  }, {
+    "subject": "stewart, william m.",
+    "occurences": 2
+  }, {
+    "subject": "(william morris)",
+    "occurences": 2
+  }, {
+    "subject": "clippings",
+    "occurences": 1
+  }, {
+    "subject": "boutelle, james",
+    "occurences": 1
+  }, {
+    "subject": "seamen",
+    "occurences": 1
+  }, {
+    "subject": "confederate states of america",
+    "occurences": 1
+  }, {
+    "subject": "veterans",
+    "occurences": 1
+  }, {
+    "subject": "(thomas francis)",
+    "occurences": 1
+  }, {
+    "subject": "bloody shirt",
+    "occurences": 1
+  }, {
+    "subject": "sectionalism (united states)",
+    "occurences": 1
+  }, {
+    "subject": "optimism",
+    "occurences": 1
+  }, {
+    "subject": "call, w.",
+    "occurences": 1
+  }, {
+    "subject": "daniel",
+    "occurences": 1
+  }, {
+    "subject": "florida",
+    "occurences": 1
+  }, {
+    "subject": "call, w",
+    "occurences": 1
+  }, {
+    "subject": "jeremiah",
+    "occurences": 1
+  }, {
+    "subject": "slates",
+    "occurences": 1
+  }, {
+    "subject": "(biblical prophet)",
+    "occurences": 1
+  }, {
+    "subject": "(biblical character)",
+    "occurences": 1
+  }, {
+    "subject": "trees",
+    "occurences": 1
+  }, {
+    "subject": "cookery",
+    "occurences": 1
+  }, {
+    "subject": "bees",
+    "occurences": 1
+  }, {
+    "subject": "bonnets",
+    "occurences": 1
+  }, {
+    "subject": "smoke",
+    "occurences": 1
+  }, {
+    "subject": "tricks",
+    "occurences": 1
+  }, {
+    "subject": "albany (n.y.)",
+    "occurences": 1
+  }, {
+    "subject": "blackburn",
+    "occurences": 1
+  }, {
+    "subject": "leap years",
+    "occurences": 1
+  }, {
+    "subject": "bicycles & tricycles",
+    "occurences": 1
+  }, {
+    "subject": "bloomers",
+    "occurences": 1
+  }, {
+    "subject": "resolutions",
+    "occurences": 1
+  }, {
+    "subject": "russell",
+    "occurences": 1
+  }, {
+    "subject": "matthews",
+    "occurences": 1
+  }, {
+    "subject": "whitney, william c",
+    "occurences": 1
+  }, {
+    "subject": "tammany tiger",
+    "occurences": 1
+  }, {
+    "subject": "li, hung-chang",
+    "occurences": 1
+  }, {
+    "subject": "indians of north america",
+    "occurences": 1
+  }, {
+    "subject": "toasting",
+    "occurences": 1
+  }, {
+    "subject": "china",
+    "occurences": 1
+  }, {
+    "subject": "arts & crafts",
+    "occurences": 1
+  }, {
+    "subject": "parks",
+    "occurences": 1
+  }, {
+    "subject": "dancing",
+    "occurences": 1
+  }, {
+    "subject": "coffins",
+    "occurences": 1
+  }, {
+    "subject": "mercury (roman deity)",
+    "occurences": 1
+  }, {
+    "subject": "poor persons",
+    "occurences": 1
+  }, {
+    "subject": "jones, j. k.",
+    "occurences": 1
+  }, {
+    "subject": "democratic national committee",
+    "occurences": 1
+  }, {
+    "subject": "debt",
+    "occurences": 1
+  }, {
+    "subject": "jones, j. k",
+    "occurences": 1
+  }, {
+    "subject": "western wall (jerusalem)",
+    "occurences": 1
+  }, {
+    "subject": "walls",
+    "occurences": 1
+  }, {
+    "subject": "lightning",
+    "occurences": 1
+  }, {
+    "subject": "april fools' day",
+    "occurences": 1
+  }, {
+    "subject": "chinese",
+    "occurences": 1
+  }, {
+    "subject": "politicians",
+    "occurences": 1
+  }, {
+    "subject": "sphinxes",
+    "occurences": 1
+  }, {
+    "subject": "pyramids",
+    "occurences": 1
+  }, {
+    "subject": "tree limbs",
+    "occurences": 1
+  }, {
+    "subject": "military officers",
+    "occurences": 1
+  }, {
+    "subject": "pleading",
+    "occurences": 1
+  }, {
+    "subject": "saws",
+    "occurences": 1
+  }, {
+    "subject": "carter, thomas henry",
+    "occurences": 1
+  }, {
+    "subject": "communication devices",
+    "occurences": 1
+  }, {
+    "subject": "new york (n.y.)",
+    "occurences": 1
+  }, {
+    "subject": "resignations",
+    "occurences": 1
+  }, {
+    "subject": "mountaineers",
+    "occurences": 1
+  }, {
+    "subject": "(william collins)",
+    "occurences": 1
+  }, {
+    "subject": "greeks",
+    "occurences": 1
+  }, {
+    "subject": "tents",
+    "occurences": 1
+  }, {
+    "subject": "sulking",
+    "occurences": 1
+  }, {
+    "subject": "brice, calvin stewart",
+    "occurences": 1
+  }, {
+    "subject": "dickinson",
+    "occurences": 1
+  }, {
+    "subject": "bondage",
+    "occurences": 1
+  }, {
+    "subject": "beaches",
+    "occurences": 1
+  }, {
+    "subject": "balloons",
+    "occurences": 1
+  }, {
+    "subject": "aldrich",
+    "occurences": 1
+  }, {
+    "subject": "winners",
+    "occurences": 1
+  }, {
+    "subject": "nelson",
+    "occurences": 1
+  }, {
+    "subject": "ladders",
+    "occurences": 1
+  }, {
+    "subject": "debs, eugene v.",
+    "occurences": 1
+  }, {
+    "subject": "(eugene victor)",
+    "occurences": 1
+  }, {
+    "subject": "cockfighting",
+    "occurences": 1
+  }, {
+    "subject": "watterson, h.",
+    "occurences": 1
+  }, {
+    "subject": "laboring classes",
+    "occurences": 1
+  }, {
+    "subject": "pygmalion (greek mythology)",
+    "occurences": 1
+  }, {
+    "subject": "galatea (greek deity)",
+    "occurences": 1
+  }, {
+    "subject": "wishing",
+    "occurences": 1
+  }, {
+    "subject": "gold",
+    "occurences": 1
+  }, {
+    "subject": "chains",
+    "occurences": 1
+  }, {
+    "subject": "tell, wilhelm",
+    "occurences": 1
+  }, {
+    "subject": "legends",
+    "occurences": 1
+  }, {
+    "subject": "contests",
+    "occurences": 1
+  }, {
+    "subject": "archery",
+    "occurences": 1
+  }, {
+    "subject": "presidents",
+    "occurences": 1
+  }, {
+    "subject": "apples",
+    "occurences": 1
+  }, {
+    "subject": "anarchism",
+    "occurences": 1
+  }, {
+    "subject": "platt, orville",
+    "occurences": 1
+  }, {
+    "subject": "chandler, william e",
+    "occurences": 1
+  }, {
+    "subject": "railroads",
+    "occurences": 1
+  }, {
+    "subject": "radiography",
+    "occurences": 1
+  }, {
+    "subject": "tillman",
+    "occurences": 1
+  }, {
+    "subject": "logs",
+    "occurences": 1
+  }, {
+    "subject": "bonds",
+    "occurences": 1
+  }, {
+    "subject": "boulders",
+    "occurences": 1
+  }, {
+    "subject": "deficit financing",
+    "occurences": 1
+  }, {
+    "subject": "morton, j. sterling",
+    "occurences": 1
+  }, {
+    "subject": "(julius sterling)",
+    "occurences": 1
+  }, {
+    "subject": "names",
+    "occurences": 1
+  }, {
+    "subject": "seeds",
+    "occurences": 1
+  }, {
+    "subject": "cabinet officers",
+    "occurences": 1
+  }, {
+    "subject": "clergy",
+    "occurences": 1
+  }, {
+    "subject": "worship",
+    "occurences": 1
+  }, {
+    "subject": "theatrical productions",
+    "occurences": 1
+  }, {
+    "subject": "fathers & children",
+    "occurences": 1
+  }, {
+    "subject": "prodigal son (parable)",
+    "occurences": 1
+  }, {
+    "subject": "cattle",
+    "occurences": 1
+  }, {
+    "subject": "ghouls",
+    "occurences": 1
+  }, {
+    "subject": "fairy tales",
+    "occurences": 1
+  }, {
+    "subject": "caves",
+    "occurences": 1
+  }, {
+    "subject": "hiding",
+    "occurences": 1
+  }, {
+    "subject": "reed, thomas b",
+    "occurences": 1
+  }, {
+    "subject": "demons",
+    "occurences": 1
+  }, {
+    "subject": "sacrifices",
+    "occurences": 1
+  }, {
+    "subject": "hale, eugene",
+    "occurences": 1
+  }, {
+    "subject": "bullfighting",
+    "occurences": 1
+  }, {
+    "subject": "public opinion",
+    "occurences": 1
+  }, {
+    "subject": "dupuy de lome",
+    "occurences": 1
+  }, {
+    "subject": "weyler",
+    "occurences": 1
+  }, {
+    "subject": "spain",
+    "occurences": 1
+  }, {
+    "subject": "lent",
+    "occurences": 1
+  }, {
+    "subject": "pennover",
+    "occurences": 1
+  }, {
+    "subject": "father time",
+    "occurences": 1
+  }, {
+    "subject": "ethics",
+    "occurences": 1
+  }, {
+    "subject": "laundry",
+    "occurences": 1
+  }, {
+    "subject": "government spending policy",
+    "occurences": 1
+  }, {
+    "subject": "credit",
+    "occurences": 1
+  }, {
+    "subject": "cuba",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam (symbolic character)",
+    "occurences": 1
+  }, {
+    "subject": "columbia (fictitious character)",
+    "occurences": 1
+  }, {
+    "subject": "farming",
+    "occurences": 1
+  }, {
+    "subject": "cadmus (greek mythology)",
+    "occurences": 1
+  }, {
+    "subject": "national defense",
+    "occurences": 1
+  }, {
+    "subject": "elkins",
+    "occurences": 1
+  }, {
+    "subject": "spooner",
+    "occurences": 1
+  }, {
+    "subject": "cullom",
+    "occurences": 1
+  }, {
+    "subject": "parrots",
+    "occurences": 1
+  }, {
+    "subject": "foraker",
+    "occurences": 1
+  }, {
+    "subject": "vest, george graham",
+    "occurences": 1
+  }, {
+    "subject": "witchcraft",
+    "occurences": 1
+  }, {
+    "subject": "punishment & torture",
+    "occurences": 1
+  }, {
+    "subject": "hoke",
+    "occurences": 1
+  }, {
+    "subject": "watterson, h",
+    "occurences": 1
+  }, {
+    "subject": "commerce",
+    "occurences": 1
+  }, {
+    "subject": "nero",
+    "occurences": 1
+  }, {
+    "subject": "violoncellos",
+    "occurences": 1
+  }, {
+    "subject": "fires",
+    "occurences": 1
+  }, {
+    "subject": "depressions",
+    "occurences": 1
+  }, {
+    "subject": "accidents",
+    "occurences": 1
+  }, {
+    "subject": "thacher, john boyd",
+    "occurences": 1
+  }, {
+    "subject": "carts & wagons",
+    "occurences": 1
+  }, {
+    "subject": "ice skating",
+    "occurences": 1
+  }, {
+    "subject": "racing",
+    "occurences": 1
+  }, {
+    "subject": "quay",
+    "occurences": 1
+  }, {
+    "subject": "dynamite",
+    "occurences": 1
+  }, {
+    "subject": "fourth of july",
+    "occurences": 1
+  }, {
+    "subject": "gray, stephen",
+    "occurences": 1
+  }, {
+    "subject": "adlai",
+    "occurences": 1
+  }, {
+    "subject": "flower, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "vilas",
+    "occurences": 1
+  }, {
+    "subject": "eckels",
+    "occurences": 1
+  }, {
+    "subject": "germany",
+    "occurences": 1
+  }, {
+    "subject": "halloween",
+    "occurences": 1
+  }, {
+    "subject": "reflections",
+    "occurences": 1
+  }, {
+    "subject": "lewis, john llewellyn",
+    "occurences": 1
+  }, {
+    "subject": "aircraft",
+    "occurences": 1
+  }, {
+    "subject": "mckinley, william parsons",
+    "occurences": 1
+  }, {
+    "subject": "bimetallism",
+    "occurences": 1
+  }, {
+    "subject": "inventions",
+    "occurences": 1
+  }, {
+    "subject": "eggs",
+    "occurences": 1
+  }, {
+    "subject": "delilah (biblical figure)",
+    "occurences": 1
+  }, {
+    "subject": "barbershops",
+    "occurences": 1
+  }, {
+    "subject": "carlisle",
+    "occurences": 1
+  }, {
+    "subject": "fairchild",
+    "occurences": 1
+  }, {
+    "subject": "wilson",
+    "occurences": 1
+  }, {
+    "subject": "herbert",
+    "occurences": 1
+  }, {
+    "subject": "game bird hunting",
+    "occurences": 1
+  }, {
+    "subject": "hunting dogs",
+    "occurences": 1
+  }, {
+    "subject": "fences",
+    "occurences": 1
+  }, {
+    "subject": "pennsylvania",
+    "occurences": 1
+  }, {
+    "subject": "easter",
+    "occurences": 1
+  }, {
+    "subject": "nebraska",
+    "occurences": 1
+  }, {
+    "subject": "maine",
+    "occurences": 1
+  }, {
+    "subject": "new york (state)",
+    "occurences": 1
+  }, {
+    "subject": "poaching",
+    "occurences": 1
+  }, {
+    "subject": "children playing outdoors",
+    "occurences": 1
+  }, {
+    "subject": "clouds",
+    "occurences": 1
+  }, {
+    "subject": "criminals",
+    "occurences": 1
+  }, {
+    "subject": "presidential terms of office",
+    "occurences": 1
+  }, {
+    "subject": "pitchforks",
+    "occurences": 1
+  }, {
+    "subject": "skeletons",
+    "occurences": 1
+  }, {
+    "subject": "anarchy",
+    "occurences": 1
+  }, {
+    "subject": "franklin, benjamin",
+    "occurences": 1
+  }, {
+    "subject": "upper classes",
+    "occurences": 1
+  }, {
+    "subject": "wreaths",
+    "occurences": 1
+  }, {
+    "subject": "national society of colonial dames in the state of new york",
+    "occurences": 1
+  }, {
+    "subject": "homer",
+    "occurences": 1
+  }, {
+    "subject": "competition (psychology)",
+    "occurences": 1
+  }, {
+    "subject": "blind persons",
+    "occurences": 1
+  }, {
+    "subject": "harps",
+    "occurences": 1
+  }, {
+    "subject": "chicago (ill.)",
+    "occurences": 1
+  }, {
+    "subject": "white house (washington, d.c.)",
+    "occurences": 1
+  }, {
+    "subject": "children misbehaving",
+    "occurences": 1
+  }, {
+    "subject": "banks",
+    "occurences": 1
+  }, {
+    "subject": "monroe doctrine",
+    "occurences": 1
+  }, {
+    "subject": "pettigrew",
+    "occurences": 1
+  }, {
+    "subject": "france",
+    "occurences": 1
+  }, {
+    "subject": "cannon",
+    "occurences": 1
+  }, {
+    "subject": "actresses",
+    "occurences": 1
+  }, {
+    "subject": "boats",
+    "occurences": 1
+  }, {
+    "subject": "scylla & charybdis",
+    "occurences": 1
+  }, {
+    "subject": "fleur-de-lis",
+    "occurences": 1
+  }, {
+    "subject": "monroe, james",
+    "occurences": 1
+  }, {
+    "subject": "olney",
+    "occurences": 1
+  }, {
+    "subject": "shadows",
+    "occurences": 1
+  }, {
+    "subject": "hypocrisy",
+    "occurences": 1
+  }, {
+    "subject": "armenia",
+    "occurences": 1
+  }, {
+    "subject": "transvaal (south africa)",
+    "occurences": 1
+  }, {
+    "subject": "bears",
+    "occurences": 1
+  }, {
+    "subject": "weddings",
+    "occurences": 1
+  }, {
+    "subject": "cornelia",
+    "occurences": 1
+  }, {
+    "subject": "district of columbia",
+    "occurences": 1
+  }, {
+    "subject": "arican americans",
+    "occurences": 1
+  }, {
+    "subject": "cleopatra",
+    "occurences": 1
+  }, {
+    "subject": "queen of egypt",
+    "occurences": 1
+  }, {
+    "subject": "30 c.",
+    "occurences": 1
+  }, {
+    "subject": "cullom, george washington",
+    "occurences": 1
+  }, {
+    "subject": "30 c",
+    "occurences": 1
+  }, {
+    "subject": "classrooms",
+    "occurences": 1
+  }, {
+    "subject": "parades & processions",
+    "occurences": 1
+  }, {
+    "subject": "mahany",
+    "occurences": 1
+  }, {
+    "subject": "lorimer",
+    "occurences": 1
+  }, {
+    "subject": "belknap",
+    "occurences": 1
+  }, {
+    "subject": "mcclellan",
+    "occurences": 1
+  }, {
+    "subject": "grosvenor",
+    "occurences": 1
+  }, {
+    "subject": "southwick",
+    "occurences": 1
+  }, {
+    "subject": "sherman, john",
+    "occurences": 1
+  }, {
+    "subject": "lamont, daniel scott",
+    "occurences": 1
+  }, {
+    "subject": "peffer",
+    "occurences": 1
+  }, {
+    "subject": "nicholas",
+    "occurences": 1
+  }, {
+    "subject": "ii",
+    "occurences": 1
+  }, {
+    "subject": "emperor of russia",
+    "occurences": 1
+  }, {
+    "subject": "kicking",
+    "occurences": 1
+  }, {
+    "subject": "beer",
+    "occurences": 1
+  }, {
+    "subject": "barrels",
+    "occurences": 1
+  }, {
+    "subject": "taxes",
+    "occurences": 1
+  }, {
+    "subject": "coronations",
+    "occurences": 1
+  }, {
+    "subject": "avarice",
+    "occurences": 1
+  }, {
+    "subject": "angels",
+    "occurences": 1
+  }, {
+    "subject": "presidential appointments",
+    "occurences": 1
+  }, {
+    "subject": "sullivan, arthur, sir,. patience",
+    "occurences": 1
+  }, {
+    "subject": "operas & operettas",
+    "occurences": 1
+  }, {
+    "subject": "kansas",
+    "occurences": 1
+  }, {
+    "subject": "wisconsin",
+    "occurences": 1
+  }, {
+    "subject": "kentucky",
+    "occurences": 1
+  }, {
+    "subject": "minnesota",
+    "occurences": 1
+  }, {
+    "subject": "ohio",
+    "occurences": 1
+  }, {
+    "subject": "indiana",
+    "occurences": 1
+  }, {
+    "subject": "barrooms",
+    "occurences": 1
+  }, {
+    "subject": "narcotics",
+    "occurences": 1
+  }, {
+    "subject": "chandler",
+    "occurences": 1
+  }, {
+    "subject": "bareback riding",
+    "occurences": 1
+  }, {
+    "subject": "goats",
+    "occurences": 1
+  }, {
+    "subject": "populist party",
+    "occurences": 1
+  }, {
+    "subject": "swine",
+    "occurences": 1
+  }, {
+    "subject": "stanton, elizabeth cady",
+    "occurences": 1
+  }, {
+    "subject": "women's suffrage",
+    "occurences": 1
+  }, {
+    "subject": "anthony, susan",
+    "occurences": 1
+  }, {
+    "subject": "(susan brownell)",
+    "occurences": 1
+  }, {
+    "subject": "national american woman suffrage association",
+    "occurences": 1
+  }, {
+    "subject": "meetings",
+    "occurences": 1
+  }, {
+    "subject": "allegories",
+    "occurences": 1
+  }, {
+    "subject": "horatius cocles",
+    "occurences": 1
+  }, {
+    "subject": "campaigns & battles",
+    "occurences": 1
+  }, {
+    "subject": "bridges",
+    "occurences": 1
+  }, {
+    "subject": "bayard, thomas f.",
+    "occurences": 1
+  }, {
+    "subject": "horseback riding",
+    "occurences": 1
+  }, {
+    "subject": "clubbing",
+    "occurences": 1
+  }, {
+    "subject": "defeat",
+    "occurences": 1
+  }, {
+    "subject": "government officials",
+    "occurences": 1
+  }, {
+    "subject": "thurber",
+    "occurences": 1
+  }, {
+    "subject": "vest",
+    "occurences": 1
+  }, {
+    "subject": "harris",
+    "occurences": 1
+  }, {
+    "subject": "morgan",
+    "occurences": 1
+  }, {
+    "subject": "pugh",
+    "occurences": 1
+  }, {
+    "subject": "dissenters",
+    "occurences": 1
+  }, {
+    "subject": "cox",
+    "occurences": 1
+  }, {
+    "subject": "machinery",
+    "occurences": 1
+  }, {
+    "subject": "novels",
+    "occurences": 1
+  }, {
+    "subject": "lodging houses",
+    "occurences": 1
+  }, {
+    "subject": "duress (law)",
+    "occurences": 1
+  }, {
+    "subject": "eating & drinking",
+    "occurences": 1
+  }, {
+    "subject": "pensions",
+    "occurences": 1
+  }, {
+    "subject": "tawney",
+    "occurences": 1
+  }, {
+    "subject": "stagecoaches",
+    "occurences": 1
+  }, {
+    "subject": "mantle",
+    "occurences": 1
+  }, {
+    "subject": "carter",
+    "occurences": 1
+  }, {
+    "subject": "woodcutting",
+    "occurences": 1
+  }, {
+    "subject": "body builders",
+    "occurences": 1
+  }, {
+    "subject": "disasters",
+    "occurences": 1
+  }, {
+    "subject": "prosperity",
+    "occurences": 1
+  }, {
+    "subject": "united states. supreme court",
+    "occurences": 1
+  }, {
+    "subject": "wheat",
+    "occurences": 1
+  }, {
+    "subject": "toys",
+    "occurences": 1
+  }, {
+    "subject": "food prices",
+    "occurences": 1
+  }, {
+    "subject": "coins",
+    "occurences": 1
+  }, {
+    "subject": "celestial bodies",
+    "occurences": 1
+  }, {
+    "subject": "riding",
+    "occurences": 1
+  }, {
+    "subject": "platt, oliver",
+    "occurences": 1
+  }, {
+    "subject": "levi",
+    "occurences": 1
+  }, {
+    "subject": "prophets",
+    "occurences": 1
+  }, {
+    "subject": "property",
+    "occurences": 1
+  }, {
+    "subject": "marriage",
+    "occurences": 1
+  }, {
+    "subject": "ink drawings",
+    "occurences": 1
+  }, {
+    "subject": "periodical illustrations",
+    "occurences": 1
+  }, {
+    "subject": "children",
+    "occurences": 1
+  }, {
+    "subject": "fictitious characters",
+    "occurences": 1
+  }, {
+    "subject": "color",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 25,
     "subject": ["actresses", "theatrical productions", "republican party", "currency question", "uncle sam", "cartoons (commentary)", "american", "drawings"],
@@ -2368,6 +7235,28 @@
   }]
 }, {
   "year": "1898",
+  "subjects": [{
+    "subject": "bland, richard parks",
+    "occurences": 1
+  }, {
+    "subject": "cleveland, grover",
+    "occurences": 1
+  }, {
+    "subject": "harvesting",
+    "occurences": 1
+  }, {
+    "subject": "donkeys",
+    "occurences": 1
+  }, {
+    "subject": "presidential elections",
+    "occurences": 1
+  }, {
+    "subject": "tillman, benjamin ryan",
+    "occurences": 1
+  }, {
+    "subject": "democratic party",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 300,
     "subject": ["bland, richard parks", "cleveland, grover", "harvesting", "donkeys", "presidential elections", "tillman, benjamin ryan", "democratic party", "cartoons (commentary)", "american", "drawings"],
@@ -2379,6 +7268,127 @@
   }]
 }, {
   "year": "1906",
+  "subjects": [{
+    "subject": "prints",
+    "occurences": 15
+  }, {
+    "subject": "color",
+    "occurences": 15
+  }, {
+    "subject": "children",
+    "occurences": 9
+  }, {
+    "subject": "boys",
+    "occurences": 3
+  }, {
+    "subject": "imagination",
+    "occurences": 3
+  }, {
+    "subject": "balloons (aircraft)",
+    "occurences": 3
+  }, {
+    "subject": "boats",
+    "occurences": 3
+  }, {
+    "subject": "trees",
+    "occurences": 2
+  }, {
+    "subject": "bathtubs & showers",
+    "occurences": 2
+  }, {
+    "subject": "whales",
+    "occurences": 2
+  }, {
+    "subject": "eating & drinking",
+    "occurences": 1
+  }, {
+    "subject": "starvation",
+    "occurences": 1
+  }, {
+    "subject": "clouds",
+    "occurences": 1
+  }, {
+    "subject": "railroad locomotives",
+    "occurences": 1
+  }, {
+    "subject": "claret",
+    "occurences": 1
+  }, {
+    "subject": "fireplaces",
+    "occurences": 1
+  }, {
+    "subject": "imagining",
+    "occurences": 1
+  }, {
+    "subject": "barrels",
+    "occurences": 1
+  }, {
+    "subject": "falling",
+    "occurences": 1
+  }, {
+    "subject": "mountaineering",
+    "occurences": 1
+  }, {
+    "subject": "villages",
+    "occurences": 1
+  }, {
+    "subject": "children & adults",
+    "occurences": 1
+  }, {
+    "subject": "children misbehaving",
+    "occurences": 1
+  }, {
+    "subject": "escapes",
+    "occurences": 1
+  }, {
+    "subject": "rescues",
+    "occurences": 1
+  }, {
+    "subject": "steeples",
+    "occurences": 1
+  }, {
+    "subject": "children eating & drinking",
+    "occurences": 1
+  }, {
+    "subject": "lighthouses",
+    "occurences": 1
+  }, {
+    "subject": "ballooning accidents",
+    "occurences": 1
+  }, {
+    "subject": "children fishing",
+    "occurences": 1
+  }, {
+    "subject": "beaches",
+    "occurences": 1
+  }, {
+    "subject": "ships",
+    "occurences": 1
+  }, {
+    "subject": "medicines",
+    "occurences": 1
+  }, {
+    "subject": "physicians",
+    "occurences": 1
+  }, {
+    "subject": "weight loss",
+    "occurences": 1
+  }, {
+    "subject": "prisons",
+    "occurences": 1
+  }, {
+    "subject": "robots",
+    "occurences": 1
+  }, {
+    "subject": "chimney sweeps",
+    "occurences": 1
+  }, {
+    "subject": "houses",
+    "occurences": 1
+  }, {
+    "subject": "chasing",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 582,
     "subject": ["boys", "imagination", "trees", "clouds", "villages", "comics", "american", "prints", "color"],
@@ -2502,6 +7512,31 @@
   }]
 }, {
   "year": "1907",
+  "subjects": [{
+    "subject": "children",
+    "occurences": 1
+  }, {
+    "subject": "churches",
+    "occurences": 1
+  }, {
+    "subject": "imagining",
+    "occurences": 1
+  }, {
+    "subject": "trees",
+    "occurences": 1
+  }, {
+    "subject": "prints",
+    "occurences": 1
+  }, {
+    "subject": "color",
+    "occurences": 1
+  }, {
+    "subject": "children misbehaving",
+    "occurences": 1
+  }, {
+    "subject": "bathhouses",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 585,
     "subject": ["children", "churches", "imagining", "trees", "comics", "american", "prints", "color"],
@@ -2521,6 +7556,19 @@
   }]
 }, {
   "year": "1910",
+  "subjects": [{
+    "subject": "dreaming",
+    "occurences": 1
+  }, {
+    "subject": "fourth of july",
+    "occurences": 1
+  }, {
+    "subject": "bees",
+    "occurences": 1
+  }, {
+    "subject": "adventure comics",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 605,
     "subject": ["dreaming", "fourth of july", "bees", "adventure comics", "american"],
@@ -2532,6 +7580,16 @@
   }]
 }, {
   "year": "1912",
+  "subjects": [{
+    "subject": "lion hunting",
+    "occurences": 1
+  }, {
+    "subject": "africa",
+    "occurences": 1
+  }, {
+    "subject": "explorers",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 607,
     "subject": ["lion hunting", "africa", "explorers", "comics", "american", "drawings"],
@@ -2543,6 +7601,55 @@
   }]
 }, {
   "year": "1914",
+  "subjects": [{
+    "subject": "world war",
+    "occurences": 3
+  }, {
+    "subject": "uncle sam (symbolic character)",
+    "occurences": 2
+  }, {
+    "subject": "inflation",
+    "occurences": 1
+  }, {
+    "subject": "teddy bears",
+    "occurences": 1
+  }, {
+    "subject": "baskets",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }, {
+    "subject": "bears",
+    "occurences": 1
+  }, {
+    "subject": "germans",
+    "occurences": 1
+  }, {
+    "subject": "food prices",
+    "occurences": 1
+  }, {
+    "subject": "meat industry",
+    "occurences": 1
+  }, {
+    "subject": "cost & standard of living",
+    "occurences": 1
+  }, {
+    "subject": "public opinion",
+    "occurences": 1
+  }, {
+    "subject": "barnard, george grey",
+    "occurences": 1
+  }, {
+    "subject": "destruction & pillage",
+    "occurences": 1
+  }, {
+    "subject": "german",
+    "occurences": 1
+  }, {
+    "subject": "butcher shops",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 1,
     "subject": ["uncle sam (symbolic character)", "food prices", "inflation", "teddy bears", "baskets", "uncle sam", "bears", "cartoons (commentary)", "american", "drawings"],
@@ -2578,6 +7685,19 @@
   }]
 }, {
   "year": "1915",
+  "subjects": [{
+    "subject": "world war",
+    "occurences": 2
+  }, {
+    "subject": "banks",
+    "occurences": 1
+  }, {
+    "subject": "bull, john",
+    "occurences": 1
+  }, {
+    "subject": "uncle sam",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 581,
     "subject": ["world war", "banks", "bull, john", "uncle sam", "cartoons (commentary)", "american", "drawings"],
@@ -2597,6 +7717,43 @@
   }]
 }, {
   "year": "1916",
+  "subjects": [{
+    "subject": "pershing, john j.",
+    "occurences": 1
+  }, {
+    "subject": "casement, roger",
+    "occurences": 1
+  }, {
+    "subject": "rebels",
+    "occurences": 1
+  }, {
+    "subject": "ireland",
+    "occurences": 1
+  }, {
+    "subject": "international relations",
+    "occurences": 1
+  }, {
+    "subject": "great britain",
+    "occurences": 1
+  }, {
+    "subject": "death & burial",
+    "occurences": 1
+  }, {
+    "subject": "(john joseph)",
+    "occurences": 1
+  }, {
+    "subject": "villa, pancho",
+    "occurences": 1
+  }, {
+    "subject": "military occupations",
+    "occurences": 1
+  }, {
+    "subject": "mexico",
+    "occurences": 1
+  }, {
+    "subject": "snakes",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 611,
     "subject": ["casement, roger", "death & burial", "rebels", "ireland", "international relations", "great britain", "drawings", "editorial cartoons", "american"],
@@ -2616,6 +7773,25 @@
   }]
 }, {
   "year": "1917",
+  "subjects": [{
+    "subject": "world war",
+    "occurences": 1
+  }, {
+    "subject": "causes",
+    "occurences": 1
+  }, {
+    "subject": "diplomacy",
+    "occurences": 1
+  }, {
+    "subject": "german",
+    "occurences": 1
+  }, {
+    "subject": "gloves",
+    "occurences": 1
+  }, {
+    "subject": "maps",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 3,
     "subject": ["world war", "causes", "diplomacy", "german", "gloves", "maps", "united states", "drawings", "editorial cartoons", "american"],
@@ -2627,6 +7803,28 @@
   }]
 }, {
   "year": "1918",
+  "subjects": [{
+    "subject": "mars (roman deity)",
+    "occurences": 1
+  }, {
+    "subject": "warriors",
+    "occurences": 1
+  }, {
+    "subject": "death",
+    "occurences": 1
+  }, {
+    "subject": "outer space",
+    "occurences": 1
+  }, {
+    "subject": "earth",
+    "occurences": 1
+  }, {
+    "subject": "world war",
+    "occurences": 1
+  }, {
+    "subject": "ink drawings",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 8,
     "subject": ["mars (roman deity)", "warriors", "death", "outer space", "earth", "world war", "cartoons (commentary)", "american", "ink drawings"],
@@ -2638,6 +7836,37 @@
   }]
 }, {
   "year": "1919",
+  "subjects": [{
+    "subject": "congress",
+    "occurences": 2
+  }, {
+    "subject": "senate",
+    "occurences": 2
+  }, {
+    "subject": "treaty of versailles",
+    "occurences": 2
+  }, {
+    "subject": "(1919)",
+    "occurences": 2
+  }, {
+    "subject": "lodge, henry cabot",
+    "occurences": 1
+  }, {
+    "subject": "committee on foreign relations",
+    "occurences": 1
+  }, {
+    "subject": "wilson, woodrow",
+    "occurences": 1
+  }, {
+    "subject": "world war",
+    "occurences": 1
+  }, {
+    "subject": "peace",
+    "occurences": 1
+  }, {
+    "subject": "presidents & the congress",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 4,
     "subject": ["lodge, henry cabot", "united states", "congress", "senate", "committee on foreign relations", "treaty of versailles", "(1919)", "drawings", "editorial cartoons", "american"],
@@ -2657,6 +7886,28 @@
   }]
 }, {
   "year": "1921",
+  "subjects": [{
+    "subject": "schools",
+    "occurences": 1
+  }, {
+    "subject": "classrooms",
+    "occurences": 1
+  }, {
+    "subject": "students",
+    "occurences": 1
+  }, {
+    "subject": "families",
+    "occurences": 1
+  }, {
+    "subject": "education",
+    "occurences": 1
+  }, {
+    "subject": "child discipline",
+    "occurences": 1
+  }, {
+    "subject": "judicial proceedings",
+    "occurences": 1
+  }],
   "cartoons": [{
     "index": 602,
     "subject": ["schools", "classrooms", "students", "families", "education", "child discipline", "judicial proceedings", "cartoons (commentary)", "american", "drawings"],
