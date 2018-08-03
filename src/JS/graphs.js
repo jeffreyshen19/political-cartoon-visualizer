@@ -65,7 +65,9 @@ function drawGraph(data){
     }
 
     tooltip.classed("hidden", false)
-      .html("<h3>" + d.year + "</h3><p>" + d.cartoons.length + " cartoons</p>")
+      .html("<h3>" + d.year + " (" + d.cartoons.length + " cartoons)</h3><p>Most common subjects:</p><ul>" + d.subjects.map(function(subject){
+        return "<li>" + stylize(subject.subject) + " (" + subject.occurences + ")</li>";
+      }).join("") + "</ul>")
       .style("left", (20 + x(d.year) + tooltip.node().offsetWidth > width ? x(d.year) + margin.left - 20 - tooltip.node().offsetWidth : x(d.year) + margin.left + 20) + "px");
 
     tooltipLine.attr("x1", x(d.year) + margin.left)

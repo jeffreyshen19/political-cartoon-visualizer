@@ -49,6 +49,7 @@ request.get({
       return a.year - b.year;
     });
 
+    //Generate the subjects for each year
     years = years.map(function(year){
       var subjects = [],
           occurences = [];
@@ -75,7 +76,7 @@ request.get({
 
       return {
         "year": year.year,
-        "subjects": subjects,
+        "subjects": subjects.slice(0, Math.min(subjects.length, 5)),
         "cartoons": year.cartoons
       };
     });
