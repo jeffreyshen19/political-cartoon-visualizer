@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6{
   margin-bottom: 4px;
 }
 
-p, li{
+p, li, label{
   font-family: "Libre_Baskerville";
   line-height: 1.3em;
 }
@@ -32,4 +32,32 @@ ul{
 
 select{
   margin-bottom: 5px;
+}
+
+//Make form elements inline
+label {
+  display: block;
+  padding-left: 15px;
+  text-indent: -15px;
+  font-size: 13px;
+  margin-bottom: 4px;
+
+  input, select{
+    padding: 0;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+  }
+
+  input{
+    width: 13px;
+    height: 13px;
+  }
+
+  select{
+    top: 0;
+  }
+
 }

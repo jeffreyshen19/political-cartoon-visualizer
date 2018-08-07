@@ -18,11 +18,12 @@ html(lang='en')
       p 
         i To use this interactive data visualization, select topics/years that you want to explore from the dropdown menus below. The timeline will update, showing how your selection is represented over time in the LoC's database. Below the timeline will be a list of related topics and a gallery of images bearing that selection. For each subject, there will be significant historical events outlined on the timeline, and a curated image to provide better context for each topic.
       br
-      p Select topics to view over time:  
-      //TODO: make this inline
-      select#select-subject(onchange = "selectSubject()") 
-      p The collection arbitrarily has more images in certain years. Scale proportionally to account for those irregularities: 
-      input#scale-graph(type = "checkbox" name = "scale" onchange = "selectSubject()")
+      label 
+        | Select topics:  
+        select#select-subject(onchange = "selectSubject()") 
+      label
+        input#scale-graph(type = "checkbox" name = "scale" onchange = "selectSubject()")
+        | &nbsp;Scale results proportionally to account for intrinsic irregularities in the collection.
       #graphs
         #main-graph.graph
           svg
@@ -31,9 +32,9 @@ html(lang='en')
         p Related Topics (ranked by concurrence): <span id = "related-topics-list"></span>
         br
       p#slideshow-subject-name All Images:
-      p Choose year: 
-      select#select-year(onchange = "selectYear()")
-      br
+      label 
+        | Choose year: 
+        select#select-year(onchange = "selectYear()")
       #images
       br
       //////////////////////////////////////////////////////
