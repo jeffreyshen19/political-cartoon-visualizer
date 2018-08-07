@@ -3,7 +3,15 @@ Visualization of political cartoon usage over time. Developed for an internship 
 
 ## Table of Contents 
 
+* **assets**: Contains all the front-end assets like fonts. 
+* **data**: Contains all the parsed data which is displayed on the website.
+* **dist**: Contains all the minified CSS and JS displayed on the website.
+* **parser**: Contains the Node.js code which processes the raw data and outputs it in ./data.
+* **src**: Contains the raw SCSS, JS, and Pug (an HTML preprocessor) code.
+
 ## Documentation 
+
+All documentation for this project is available in the [docs](./docs) folder. 
 
 ## Get Involved
 
