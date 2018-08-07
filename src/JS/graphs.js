@@ -14,6 +14,8 @@ function drawGraph(data){
   var x = d3.scalePoint().rangeRound([0, width]).padding(0.1),
       y = d3.scaleLinear().rangeRound([height, 0]);
 
+  var checked = document.getElementById("scale-graph").checked;
+
   var thisNode = d3.select("#main-graph");
 
   thisNode.select('svg').selectAll("*").remove();
@@ -41,10 +43,10 @@ function drawGraph(data){
 
   var line = d3.line()
     .x(function(d){ return x(d.year);})
-    .y(function(d){ return y(d.cartoons.length);});
+    .y(function(d, i){ return y(checked ? d.cartoons.length / originalData[i].cartoons.length: d.cartoons.length);});
 
     x.domain(data.map(function(d) { return "" + d.year; }));
-    y.domain([0, d3.max(data, function(d) { return d.cartoons.length; })]);
+    y.domain([0, d3.max(data, function(d, i) { return (checked ? d.cartoons.length / originalData[i].cartoons.length: d.cartoons.length); })]);
     x.invert = d3.scaleQuantize().domain(x.range()).range(x.domain());
 
   var svg = thisNode.select("svg")
@@ -99,7 +101,7 @@ function drawGraph(data){
       .attr("class", "dot")
       .style("fill", blue)
       .attr("cx", function(d){return x(d.year);})
-      .attr("cy", function(d){return y(d.cartoons.length);})
+      .attr("cy", function(d, i){return y(checked ? d.cartoons.length / originalData[i].cartoons.length: d.cartoons.length);})
       .attr("r", 5);
 
   //Add the X Axis
@@ -122,7 +124,7 @@ function drawGraph(data){
     .style("text-anchor", "middle")
     .style("font-family", "Libre_Baskerville")
     .style("font-weight", "bold")
-    .text("Number of Cartoons");
+    .text("Number of Cartoons" + (checked ? " (Scaled)" : ""));
 
   //Label for X axis
   svg.append("text")
