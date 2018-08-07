@@ -103,10 +103,13 @@ function drawGraph(data){
       }
     }
 
+    var e = document.getElementById("select-subject");
+    var subject = e.options[e.selectedIndex].value;
+
     tooltip.classed("hidden", false)
-      .html("<h3>" + d.year + " (" + d.cartoons.length + " cartoons)</h3><p>Most common subjects:</p><ul>" + d.subjects.map(function(subject){
+      .html("<h3>" + d.year + " (" + d.cartoons.length + " cartoons)</h3>" + (!subject || subject == "Everything" ? "<p>Most common subjects:</p><ul>" + d.subjects.map(function(subject){
         return "<li>" + stylize(subject.subject) + " (" + subject.occurences + ")</li>";
-      }).join("") + "</ul>")
+      }).join("") + "</ul>" : ""))
       .style("left", (20 + x(d.year) + tooltip.node().offsetWidth > width ? x(d.year) + margin.left - 20 - tooltip.node().offsetWidth : x(d.year) + margin.left + 20) + "px");
 
     tooltipLine.attr("x1", x(d.year) + margin.left)
