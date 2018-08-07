@@ -21,7 +21,7 @@ html(lang='en')
       p Select topics to view over time:  
       //TODO: make this inline
       select#select-subject(onchange = "selectSubject()") 
-      p Scale graph: 
+      p The collection arbitrarily has more images in certain years. Scale proportionally to account for those irregularities: 
       input#scale-graph(type = "checkbox" name = "scale" onchange = "selectSubject()")
       #graphs
         #main-graph.graph
