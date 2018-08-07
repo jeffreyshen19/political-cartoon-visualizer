@@ -1,5 +1,9 @@
 # Political Cartoon Visualizer
-Visualization of political cartoon usage over time. Developed for an internship w/ the LoC as a demonstration of Cartoon Drawings Collection
+An exploration of the late 1800s through political cartoons of the era. Developed for an internship with the Library of Congress Labs as a demonstration of Cartoon Drawings Collection. 
+
+The Library of Congress's Cartoon Drawings Collection provides hundreds of historical political cartoons, dating mostly from the late 1800s to early 1900s. These cartoons can be accessed using the [Library's Official API](https://libraryofcongress.github.io/data-exploration/), and come with rich metadata on their date, artist, and a list of "subjects"—manually entered categories from the curators of the collection. I wanted too see if these cartoons told a story of the late 1800s. Were certain cartoons frequently referenced in conjunction with others? Do cartoons coincide with major historical events? How are famous figures of that era represented in cartoon form? 
+
+These questions and more I seek to answer in this interactive web experience / data visualization. My hope is that you, the viewer, will walk away with a better understanding of the late 1800s and a desire to further explore the Library of Congress's rich collections. 
 
 ## Table of Contents 
 
