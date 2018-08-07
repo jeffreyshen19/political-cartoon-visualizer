@@ -8,7 +8,7 @@ var blue = "#0984e3";
 
 //Draws the line chart
 function drawGraph(data){
-  var height = 300 - margin.top - margin.bottom,
+  var height = 250 - margin.top - margin.bottom,
       width = d3.select("#graphs").node().offsetWidth - margin.left - margin.right;
 
   var x = d3.scalePoint().rangeRound([0, width]).padding(0.1),

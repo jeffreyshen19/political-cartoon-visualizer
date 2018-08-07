@@ -13,8 +13,11 @@ html(lang='en')
   body
     #wrapper
       h1 Exploring the Late 1800s through Political Cartoons
-      p The Library of Congress provides hundreds of historical political cartoons through its <a href = "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false" target = "_blank">Cartoon Drawings</a> collection. What do these cartoons say about the late 1800s? 
+      p The Library of Congress provides hundreds of historical political cartoons through its <a href = "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false" target = "_blank">Cartoon Drawings</a> collection, dating mostly from the late 1800s to early 1900s. What do these cartoons say about that time period? 
       hr 
+      p 
+        i To use this interactive data visualization, select topics/years that you want to explore from the dropdown menus below. The timeline will update, showing how your selection is represented over time in the LoC's database. Below the timeline will be a list of related topics and a gallery of images bearing that selection. For each subject, there will be significant historical events outlined on the timeline, and a curated image to provide better context for each topic.
+      br
       p Select topics to view over time:  
       //TODO: make this inline
       select#select-subject(onchange = "selectSubject()") 
@@ -30,14 +33,6 @@ html(lang='en')
       p#slideshow-subject-name All Images:
       br
       #images
-      //Right here should be a sliding image gallery showing all the cartoons of that kind
-      br
-      p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-      br
-      //////////////////////////////////////////////////////
-      h2 How to Use This
-      hr 
-      p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
       br
       //////////////////////////////////////////////////////
       h2 Methodology
