@@ -10,10 +10,11 @@ $.get("./data/data-min.json", function(d){
   originalData = d;
   currentData = d.slice();
 
+  generateYearDropdown(currentData);
   generateSubjectDropdown();
   drawGraph(currentData);
   updateSlideshow(currentData);
-  
+
   //Make sure graph sizes responsively
   $(window).on("resize", function(){
     drawGraph(currentData);

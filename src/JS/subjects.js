@@ -63,6 +63,8 @@ function selectSubjectHelper(subject){
     d3.select("#slideshow-subject-name").html("Images with the Subject \"" + stylize(subject) + "\":");
   }
 
+  //Update the dropdown for year selection
+  generateYearDropdown(currentData);
   drawGraph(currentData);
   updateSlideshow(currentData);
   updateRelatedTopics(subject);
