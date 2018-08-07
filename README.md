@@ -19,6 +19,13 @@ All documentation for this project is available in the [docs](./docs) folder.
 
 ## Get Involved
 
+The Library of Congress offers millions of images, videos, articles, and more that are publicly available for people like you to use. Have an idea for a project that uses the Library of Congress's resources? Check out the resources below to get started!
+
+* **[loc.gov/collections](https://www.loc.gov/collections/)**: A list of all digital collections in the Library
+* **[labs.loc.gov/lc-for-robots](https://labs.loc.gov/lc-for-robots/)**: A collection of Library APIs and tutorials
+* **[labs.loc.gov/experiments](https://labs.loc.gov/experiments/?st=gallery)**: Example projects
+
+
 ## Credits 
 
 ### Authors
