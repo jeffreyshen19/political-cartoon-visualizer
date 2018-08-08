@@ -235,6 +235,16 @@ function updateSlideshow(data){
         return "<img src = '/data/cartoons/large/" + d.index +  ".jpg'><div class = 'caption'><h3>" + truncate(d.title) + "</h3><p>" + d.date + "</p><a href = '" + d.url + "' target = '_blank'><i class='fas fa-external-link-alt'></i> View on loc.gov</a></div>";
       });
 
+  $('#images').slick("unslick");
+  $("#images").slick({
+    dots: false,
+    slidesToShow: 1,
+    variableWidth: true,
+    accessibility: true,
+    arrows: true
+  });
+
+
 }
 
 /*
@@ -252,6 +262,14 @@ $.get("./data/data-min.json", function(d){
   generateYearDropdown(currentData);
   generateSubjectDropdown();
   drawGraph(currentData);
+
+  $('#images').slick({
+    dots: false,
+    slidesToShow: 1,
+    variableWidth: true,
+    accessibility: true,
+    arrows: true
+  });
   updateSlideshow(currentData);
 
   //Make sure graph sizes responsively

@@ -9,6 +9,8 @@ html(lang='en')
     title Political Cartoons Over Time | LC Labs
     //link(rel = "icon" type = "image/png" sizes = "32x32" href = "assets/graphics/favicon.png")
     link(href = "bower_components/font-awesome/web-fonts-with-css/css/fontawesome-all.min.css" rel = "stylesheet" type = "text/css")
+    link(rel="stylesheet" type="text/css" href="bower_components/slick-carousel/slick/slick.css")
+    link(rel="stylesheet" type="text/css" href="bower_components/slick-carousel/slick/slick-theme.css")
     link(href='dist/CSS/main.css', rel='stylesheet', type='text/css')
   body
     #wrapper
@@ -32,7 +34,7 @@ html(lang='en')
         p Related Topics (ranked by concurrence): <span id = "related-topics-list"></span>
         br
       p#slideshow-subject-name All Images:
-      label 
+      label.label 
         | Choose year: 
         select#select-year(onchange = "selectYear()")
       #images
@@ -60,5 +62,6 @@ html(lang='en')
       p 
         i Created by <a href = "http://jeffreyshen.com" target = "_blank">Jeffrey Shen</a> for the Library of Congress Labs.
     script(src='bower_components/jquery/dist/jquery.min.js')
+    script(src="bower_components/slick-carousel/slick/slick.min.js")
     script(src='bower_components/d3/d3.min.js')
     script(src='dist/main.js')

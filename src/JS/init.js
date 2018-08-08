@@ -13,6 +13,14 @@ $.get("./data/data-min.json", function(d){
   generateYearDropdown(currentData);
   generateSubjectDropdown();
   drawGraph(currentData);
+
+  $('#images').slick({
+    dots: false,
+    slidesToShow: 1,
+    variableWidth: true,
+    accessibility: true,
+    arrows: true
+  });
   updateSlideshow(currentData);
 
   //Make sure graph sizes responsively

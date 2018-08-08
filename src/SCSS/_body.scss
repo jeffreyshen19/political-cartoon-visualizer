@@ -5,12 +5,6 @@
 }
 
 #images{
-  height: 492px;
-  overflow-x: hidden;
-  overflow-y: auto;
-  padding: 4px 0;
-  border: 1px solid $dark-gray;
-
   .image{
     height: 325px;
     position: relative;
