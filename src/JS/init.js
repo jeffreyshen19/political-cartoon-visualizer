@@ -4,7 +4,8 @@
 */
 
 var currentData, //Data that has been filtered by subject(s)
-    originalData; //Unaltered data
+    originalData, //Unaltered data
+    eventData;
 
 $.get("./data/data-min.json", function(d){
   originalData = d;
@@ -12,7 +13,16 @@ $.get("./data/data-min.json", function(d){
 
   generateYearDropdown(currentData);
   generateSubjectDropdown();
-  drawGraph(currentData);
+
+  $.get("./data/events.json", function(d){
+    eventData = d;
+    drawGraph(currentData);
+    //Make sure graph sizes responsively
+    $(window).on("resize", function(){
+      drawGraph(currentData);
+    });
+  });
+
 
   $('#images').slick({
     dots: false,
@@ -22,9 +32,4 @@ $.get("./data/data-min.json", function(d){
     arrows: true
   });
   updateSlideshow(currentData);
-
-  //Make sure graph sizes responsively
-  $(window).on("resize", function(){
-    drawGraph(currentData);
-  });
 });

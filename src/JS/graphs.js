@@ -50,24 +50,30 @@ function drawGraph(data){
     x.invert = d3.scaleQuantize().domain(x.range()).range(x.domain());
 
   //Add the event markers
-  var eventSelection = thisNode.select('svg');
-  eventSelection.append("line").attr("x1", x("1910") + margin.left)
-    .attr("x2", x("1910") + margin.left)
+  var e = document.getElementById("select-subject");
+  var subject = e.options[e.selectedIndex].value;
+
+  var specificEventData = [];
+  for(var i = 0; i < eventData.length; i++){
+    if(eventData[i].subject == subject){
+      specificEventData = eventData[i].data;
+      break;
+    }
+  }
+
+  var eventSelection = thisNode.select('svg').selectAll("g")
+    .data(specificEventData).enter().append("g");
+
+  eventSelection.append("line").attr("x1", function(d){return x(d.year) + margin.left;})
+    .attr("x2", function(d){return x(d.year) + margin.left;})
     .attr("y1", y(0) + margin.top)
     .attr("y2", margin.top + 10)
     .style("stroke", "black")
     .style("stroke-width", "1");
-  eventSelection.insert("text")
-    .text("yo")
-    .attr("x", function(){
-      return x("1910") + margin.left - this.getBBox().width / 2;
-    })
+  eventSelection.append("text")
+    .text(function(d){return d.name;})
+    .attr("x", function(d){return x(d.year) + margin.left - this.getBBox().width / 2;})
     .attr("y", margin.top);
-
-//       var enterSelection = d3.select('#parent').selectAll('p').data(data).enter()
-//
-// enterSelection.append('p').text(function(d, i) {return 'from data[' + i + ']'})
-// enterSelection.insert('p').text(function(d, i) {return 'from data[' + i + ']'})
 
   var svg = thisNode.select("svg")
     .attr("width", width + margin.left + margin.right)
@@ -85,9 +91,6 @@ function drawGraph(data){
         break;
       }
     }
-
-    var e = document.getElementById("select-subject");
-    var subject = e.options[e.selectedIndex].value;
 
     tooltip.classed("hidden", false)
       .html("<h3>" + d.year + " (" + d.cartoons.length + " cartoons)</h3>" + (!subject || subject == "Everything" ? "<p>Most common subjects:</p><ul>" + d.subjects.map(function(subject){
