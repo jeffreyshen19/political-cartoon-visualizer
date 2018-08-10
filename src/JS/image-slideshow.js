@@ -64,7 +64,8 @@ function updateSlideshow(data){
     slidesToShow: 1,
     variableWidth: true,
     accessibility: true,
-    arrows: true
+    arrows: true,
+    infinite: false
   });
 
 

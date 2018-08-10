@@ -86,6 +86,26 @@ function drawGraph(data){
     y.domain([0, d3.max(data, function(d, i) { return (checked ? d.cartoons.length / originalData[i].cartoons.length: d.cartoons.length); })]);
     x.invert = d3.scaleQuantize().domain(x.range()).range(x.domain());
 
+  //Add the event markers
+  var eventSelection = thisNode.select('svg');
+  eventSelection.append("line").attr("x1", x("1910") + margin.left)
+    .attr("x2", x("1910") + margin.left)
+    .attr("y1", y(0) + margin.top)
+    .attr("y2", margin.top + 10)
+    .style("stroke", "black")
+    .style("stroke-width", "1");
+  eventSelection.insert("text")
+    .text("yo")
+    .attr("x", function(){
+      return x("1910") + margin.left - this.getBBox().width / 2;
+    })
+    .attr("y", margin.top);
+
+//       var enterSelection = d3.select('#parent').selectAll('p').data(data).enter()
+//
+// enterSelection.append('p').text(function(d, i) {return 'from data[' + i + ']'})
+// enterSelection.insert('p').text(function(d, i) {return 'from data[' + i + ']'})
+
   var svg = thisNode.select("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -115,9 +135,6 @@ function drawGraph(data){
     tooltipLine.attr("x1", x(d.year) + margin.left)
       .attr("x2", x(d.year) + margin.left)
       .classed("hidden", false);
-
-
-    //TODO: add the subjects for each yea
   })
   .on("mouseout", function(d){
     var e = d3.event.toElement;
@@ -241,7 +258,8 @@ function updateSlideshow(data){
     slidesToShow: 1,
     variableWidth: true,
     accessibility: true,
-    arrows: true
+    arrows: true,
+    infinite: false
   });
 
 

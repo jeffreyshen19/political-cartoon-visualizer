@@ -18,14 +18,14 @@ html(lang='en')
       p The Library of Congress provides hundreds of historical political cartoons through its <a href = "https://www.loc.gov/collections/cartoon-drawings/?fa=online-format:image%7Caccess-restricted:false" target = "_blank">Cartoon Drawings</a> collection, dating mostly from the late 1800s to early 1900s. What do these cartoons say about that time period? 
       hr 
       p 
-        i To use this interactive data visualization, select topics/years that you want to explore from the dropdown menus below. The timeline will update, showing how your selection is represented over time in the LoC's database. Below the timeline will be a list of related topics and a gallery of images bearing that selection. For each subject, there will be significant historical events outlined on the timeline, and a curated image to provide better context for each topic.
+        i To use this interactive data visualization, select topics/years that you want to explore from the dropdown menus below. The timeline will update, showing how your selection is represented over time in the LoC's database. Below the timeline will be a list of related topics and a gallery of images bearing that selection. For each subject, there will be significant historical events outlined on the timeline.
       br
       label 
         | Select topics:  
         select#select-subject(onchange = "selectSubject()") 
       label
         input#scale-graph(type = "checkbox" name = "scale" onchange = "selectSubject()")
-        | &nbsp;Scale results proportionally to account for intrinsic irregularities in the collection.
+        | &nbsp;Scale results to account for irregularities in the collection.
       #graphs
         #main-graph.graph
           svg
