@@ -1,10 +1,153 @@
-[{
-  "subject": "cleveland, grover",
-  "data": [{
-    "year": "1910",
-    "name": "bob"
-  }, {
-    "year": "1893",
-    "name": "yoette"
-  }]
-}]
+[
+  {
+    "subject": "Everything",
+    "data": []
+  },
+  {
+    "subject": "cleveland, grover",
+    "data": [{
+      "year": "1884",
+      "name": "Cleveland elected to\nfirst term as President"
+    },
+    {
+      "year": "1892",
+      "name": "Cleveland elected to a second term"
+    },
+    {
+      "year": "1893",
+      "name": "Panic of 1893"
+    }]
+  },
+  {
+    "subject": "silver question",
+    "data": []
+  },
+  {
+    "subject": "uncle sam",
+    "data": []
+  },
+  {
+    "subject": "presidential elections",
+    "data": []
+  },
+  {
+    "subject": "mckinley, william",
+    "data": []
+  },
+  {
+    "subject": "legislative bodies",
+    "data": []
+  },
+  {
+    "subject": "republican party",
+    "data": []
+  },
+  {
+    "subject": "caricatures",
+    "data": []
+  },
+  {
+    "subject": "washington, george",
+    "data": []
+  },
+  {
+    "subject": "democratic party",
+    "data": []
+  },
+  {
+    "subject": "bryan, william jennings",
+    "data": []
+  },
+  {
+    "subject": "washington (d.c.)",
+    "data": []
+  },
+  {
+    "subject": "color",
+    "data": []
+  },
+  {
+    "subject": "great britain",
+    "data": []
+  },
+  {
+    "subject": "prints",
+    "data": []
+  },
+  {
+    "subject": "hill, david b",
+    "data": []
+  },
+  {
+    "subject": "political elections",
+    "data": []
+  },
+  {
+    "subject": "international relations",
+    "data": []
+  },
+  {
+    "subject": "reed, thomas",
+    "data": []
+  },
+  {
+    "subject": "free trade & protection",
+    "data": []
+  },
+  {
+    "subject": "women",
+    "data": []
+  },
+  {
+    "subject": "bland, richard parks",
+    "data": []
+  },
+  {
+    "subject": "reform",
+    "data": []
+  },
+  {
+    "subject": "sculpture",
+    "data": []
+  },
+  {
+    "subject": "tariffs",
+    "data": []
+  },
+  {
+    "subject": "carlisle, john griffin",
+    "data": []
+  },
+  {
+    "subject": "donkeys",
+    "data": []
+  },
+  {
+    "subject": "children",
+    "data": []
+  },
+  {
+    "subject": "blaine, james gillispie",
+    "data": []
+  },
+  {
+    "subject": "legislators",
+    "data": []
+  },
+  {
+    "subject": "quay, matthew stanley",
+    "data": []
+  },
+  {
+    "subject": "holman, william steele",
+    "data": []
+  },
+  {
+    "subject": "hanna, marcus alonzo",
+    "data": []
+  },
+  {
+    "subject": "lions",
+    "data": []
+  }
+]

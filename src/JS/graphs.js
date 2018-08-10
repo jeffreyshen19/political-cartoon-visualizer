@@ -67,13 +67,13 @@ function drawGraph(data){
   eventSelection.append("line").attr("x1", function(d){return x(d.year) + margin.left;})
     .attr("x2", function(d){return x(d.year) + margin.left;})
     .attr("y1", y(0) + margin.top)
-    .attr("y2", margin.top + 10)
+    .attr("y2", function(d, i){return margin.top + 10 + 20 * i;})
     .style("stroke", "black")
     .style("stroke-width", "1");
   eventSelection.append("text")
     .text(function(d){return d.name;})
     .attr("x", function(d){return x(d.year) + margin.left - this.getBBox().width / 2;})
-    .attr("y", margin.top);
+    .attr("y", function(d, i){return margin.top + i * 20;});
 
   var svg = thisNode.select("svg")
     .attr("width", width + margin.left + margin.right)
