@@ -7,20 +7,22 @@
     "subject": "cleveland, grover",
     "data": [{
       "year": "1884",
-      "name": "Cleveland elected to\nfirst term as President"
+      "name": "Cleveland (D) elected to\nfirst term as President"
     },
     {
       "year": "1892",
-      "name": "Cleveland elected to a second term"
-    },
-    {
-      "year": "1893",
-      "name": "Panic of 1893"
+      "name": "Cleveland (D) elected to a second term"
     }]
   },
   {
     "subject": "silver question",
-    "data": []
+    "data": [{
+      "year": "1893",
+      "name": "Panic of 1893 energizes the Free Silver Movement"
+    },{
+      "year": "1896",
+      "name": "William Jennings Bryan (D) unsuccessfully campaigns for President on a platform of Free Silver"
+    }]
   },
   {
     "subject": "uncle sam",
@@ -28,11 +30,29 @@
   },
   {
     "subject": "presidential elections",
-    "data": []
+    "data": [{
+      "year": "1884",
+      "name": "Grover Cleveland (D) elected"
+    },{
+      "year": "1888",
+      "name": "Benjamin Harrison (R) elected"
+    },{
+      "year": "1892",
+      "name": "Cleveland (D) elected again"
+    },{
+      "year": "1896",
+      "name": "William McKinley (R) elected"
+    }]
   },
   {
     "subject": "mckinley, william",
-    "data": []
+    "data": [{
+      "year": "1890",
+      "name": "Rep. William McKinley (R) raises tariffs"
+    }, {
+      "year": "1896",
+      "name": "McKinley elected to Presidency"
+    }]
   },
   {
     "subject": "legislative bodies",
@@ -56,7 +76,10 @@
   },
   {
     "subject": "bryan, william jennings",
-    "data": []
+    "data": [{
+      "year": "1896",
+      "name": "Bryan (D) loses the presidential election to William McKinley (R)"
+    }]
   },
   {
     "subject": "washington (d.c.)",
@@ -76,7 +99,13 @@
   },
   {
     "subject": "hill, david b",
-    "data": []
+    "data": [{
+      "year": "1885",
+      "name": "David Hill (D) becomes Governor of NY"
+    },{
+      "year": "1892",
+      "name": "Hill becomes U.S. Senator. Runs in Democratic primaries, but defeated by Grover Cleveland (D)"
+    }]
   },
   {
     "subject": "political elections",
@@ -88,11 +117,17 @@
   },
   {
     "subject": "reed, thomas",
-    "data": []
+    "data": [{
+      "year": "1896",
+      "name": "Thomas Reed (R) unsuccessfully seeks Rep. Pres. nomination"
+    }]
   },
   {
     "subject": "free trade & protection",
-    "data": []
+    "data": [{
+      "year": "1896",
+      "name": "McKinley (R) wins presidency advocating protectionism"
+    }]
   },
   {
     "subject": "women",
@@ -100,7 +135,13 @@
   },
   {
     "subject": "bland, richard parks",
-    "data": []
+    "data": [{
+      "year": "1893",
+      "name": "Richard Bland (D) elected to House"
+    }, {
+      "year": "1896",
+      "name": "Bland unsuccessfully seeks Dem. Pres. nomination"
+    }]
   },
   {
     "subject": "reform",
@@ -112,11 +153,26 @@
   },
   {
     "subject": "tariffs",
-    "data": []
+    "data": [{
+      "year": "1890",
+      "name": "Tariffs raised by Rep. William McKinley (R)"
+    },{
+      "year": "1896",
+      "name": "McKinley (R) wins presidency campaigning for higher tariffs"
+    }]
   },
   {
     "subject": "carlisle, john griffin",
-    "data": []
+    "data": [{
+      "year": "1880",
+      "name": "John Carlisle (D) unsuccessfully seeks Dem. Pres. nomination"
+    },{
+      "year": "1884",
+      "name": "Carlisle again unsuccessfully seeks Dem. Pres. nomination"
+    },{
+      "year": "1896",
+      "name": "Carlisle strongly opposes Pres. candidate William Jennings Bryan (D)"
+    }]
   },
   {
     "subject": "donkeys",
@@ -128,7 +184,13 @@
   },
   {
     "subject": "blaine, james gillispie",
-    "data": []
+    "data": [{
+      "year": "1880",
+      "name": "James Blaine (R) unsuccessfully seeks Rep. Pres. nomination"
+    }, {
+      "year": "1884",
+      "name": "Blaine unsuccessfully runs for Pres. against Grover Cleveland (D)"
+    }]
   },
   {
     "subject": "legislators",
@@ -136,7 +198,10 @@
   },
   {
     "subject": "quay, matthew stanley",
-    "data": []
+    "data": [{
+      "year": "1896",
+      "name": "Matthew Quay (R) unsuccessfully seeks Rep. Pres. nomination"
+    }]
   },
   {
     "subject": "holman, william steele",
@@ -144,7 +209,10 @@
   },
   {
     "subject": "hanna, marcus alonzo",
-    "data": []
+    "data": [{
+      "year": "1896",
+      "name": "Marcus Hanna (R), prominent businessman, works to elect McKinley (R) as President"
+    }]
   },
   {
     "subject": "lions",

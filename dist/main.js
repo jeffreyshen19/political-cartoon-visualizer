@@ -284,7 +284,7 @@ $.get("./data/data-min.json", function(d){
   generateYearDropdown(currentData);
   generateSubjectDropdown();
 
-  $.get("./data/events.json", function(d){
+  $.get("./data/events-min.json", function(d){
     eventData = d;
     drawGraph(currentData);
     //Make sure graph sizes responsively
