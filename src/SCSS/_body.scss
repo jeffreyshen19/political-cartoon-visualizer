@@ -5,12 +5,13 @@
 }
 
 #images{
+  border: 1px solid $dark-gray;
   .image{
     height: 325px;
     position: relative;
     display: inline-block;
     border: 1px solid $dark-gray;
-    margin: 0 2px 4px;
+    margin: 0 2px;
     img{
       height: 250px;
       width: auto;

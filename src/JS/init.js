@@ -29,7 +29,8 @@ $.get("./data/data-min.json", function(d){
     slidesToShow: 1,
     variableWidth: true,
     accessibility: true,
-    arrows: true
+    arrows: true,
+    slidesToScroll: 2
   });
   updateSlideshow(currentData);
 });
