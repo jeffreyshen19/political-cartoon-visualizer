@@ -40,7 +40,7 @@ function updateRelatedTopics(subject){
   Jeffrey Shen
 */
 
-var margin = {left: 70, right: 20, top: 30, bottom: 50};
+var margin = {left: 70, right: 20, top: 50, bottom: 50};
 var blue = "#0984e3";
 
 //Draws the line chart
@@ -88,7 +88,8 @@ function drawGraph(data){
 
   //Add the event markers
   var e = document.getElementById("select-subject");
-  var subject = e.options[e.selectedIndex].value;
+  var subject = e.options[e.selectedIndex];
+  subject = subject ? subject.value : "Everything";
 
   var specificEventData = [];
   for(var i = 0; i < eventData.length; i++){
@@ -104,13 +105,17 @@ function drawGraph(data){
   eventSelection.append("line").attr("x1", function(d){return x(d.year) + margin.left;})
     .attr("x2", function(d){return x(d.year) + margin.left;})
     .attr("y1", y(0) + margin.top)
-    .attr("y2", function(d, i){return margin.top + 10 + 20 * i;})
+    .attr("y2", function(d, i){return 15;})
     .style("stroke", "black")
     .style("stroke-width", "1");
   eventSelection.append("text")
-    .text(function(d){return d.name;})
-    .attr("x", function(d){return x(d.year) + margin.left - this.getBBox().width / 2;})
-    .attr("y", function(d, i){return margin.top + i * 20;});
+    .html(function(d){
+      return d.name.split("\n").map(function(el){
+        return "<tspan x = '" + (x(d.year) + margin.left + 10) + "' dy = '15px'>" + el + "</tspan>";
+      }).join("");
+    })
+    .attr("x", function(d){return x(d.year) + margin.left + 10;})
+    .attr("y", function(d, i){return 10;});
 
   var svg = thisNode.select("svg")
     .attr("width", width + margin.left + margin.right)
@@ -188,7 +193,7 @@ function drawGraph(data){
 
   //Label for X axis
   svg.append("text")
-    .attr("transform", "translate(" + (width / 2) + " ," + (height + margin.top + 10) + ")")
+    .attr("transform", "translate(" + (width / 2) + " ," + (height + margin.top - 10) + ")")
     .style("text-anchor", "middle")
     .style("font-family", "Libre_Baskerville")
     .style("font-weight", "bold")
