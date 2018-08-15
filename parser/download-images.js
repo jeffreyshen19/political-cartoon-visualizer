@@ -12,8 +12,6 @@ function downloadImages(data, i, j, isLarge){
     cartoon = results[j],
     uri = "http:" + cartoon.image_url[isLarge ? (cartoon.image_url.length - 1) : 0];
 
-  console.log(cartoon.index);
-
   request.head(uri, function(err, res, body){
     request(uri).pipe(fs.createWriteStream("../data/cartoons/" + (isLarge ? "large" : "small") + "/" + cartoon.index + ".jpg")).on("close", function(){ //Once the image is downloaded, download the next one
       if(isLarge){
