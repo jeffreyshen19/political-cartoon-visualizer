@@ -116,7 +116,7 @@ $.get("./data/data-min.json", function(d){
   });
   ...
 });
-
+```
 This code grabs the data for the graph, sets it to a global variable (bad practice, technically, but fine for the purposes of this project) and draws the graph for the first time. This is done so the data needs only be called once. This code also initializes the resize handler (done through Jquery) for the graph. Everytime the window is resized, `drawGraph` will be called again with the `currentData` (a variable storing the data currently being displayed). 
 
 The graph can also be updated through the dropdown menu. This does roughly the same thing, as everytime the dropdown is updated (in [subjects.js](https://github.com/jeffreyshen19/political-cartoon-visualizer/blob/master/src/JS/subjects.js)), the graph is redrawn using a new `currentData`.
