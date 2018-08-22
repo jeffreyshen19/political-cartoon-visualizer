@@ -78,7 +78,7 @@
     "subject": "bryan, william jennings",
     "data": [{
       "year": "1896",
-      "name": "Bryan (D) loses the presidential election to William McKinley (R)"
+      "name": "Bryan (D) loses the\npresidential election\nto William McKinley (R)"
     }]
   },
   {
@@ -119,7 +119,7 @@
     "subject": "reed, thomas",
     "data": [{
       "year": "1896",
-      "name": "Thomas Reed (R) unsuccessfully seeks Rep. Pres. nomination"
+      "name": "Thomas Reed (R)\nunsuccessfully seeks\nRep. Pres. nomination"
     }]
   },
   {
@@ -200,7 +200,7 @@
     "subject": "quay, matthew stanley",
     "data": [{
       "year": "1896",
-      "name": "Matthew Quay (R) unsuccessfully seeks Rep. Pres. nomination"
+      "name": "Matthew Quay (R)\nunsuccessfully seeks\nRep. Pres. nomination"
     }]
   },
   {
@@ -211,7 +211,7 @@
     "subject": "hanna, marcus alonzo",
     "data": [{
       "year": "1896",
-      "name": "Marcus Hanna (R), prominent businessman, works to elect McKinley (R) as President"
+      "name": "Marcus Hanna (R),\nprominent businessman,\nworks to elect William McKinley (R)\nas President"
     }]
   },
   {
